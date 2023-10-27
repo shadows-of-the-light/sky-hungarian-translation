@@ -145,8 +145,8 @@
 "account_panel_unlink_success" = "Successfully unlinked from this Sky account";
 "account_panel_unlinked_state" = "Not linked";
 "account_panel_unlinking_state" = "Unlinking ...";
-"account_select_back" = "Back";
-"account_select_create_new" = "Create new account";
+"account_select_back" = "Vissza";
+"account_select_create_new" = "Új fiók létrehozása";
 "account_select_current" = "Play";
 "account_select_other" = "<b>Sign In Method</b>";
 "account_select_type_apple" = "<b>Sign in with Apple</b>";
