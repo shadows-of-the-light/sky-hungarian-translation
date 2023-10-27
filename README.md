@@ -12,6 +12,8 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 Why doesn't the file length match the progress goal? Because we don't have to translate every string. For example Aurora song lirics are not translated.
 
+Miért nem egyezik a fájl hossza a haladás céljával? Mert nem kell lefordítanunk minden szöveget. Például az Aurora dal szövegek nincsenek lefordítva.
+
 ## Folder structure / Mappa szerkezet
 
 ```yml
