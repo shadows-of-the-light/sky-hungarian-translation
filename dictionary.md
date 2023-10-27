@@ -17,3 +17,5 @@ Vannak gyakran előforduló szavak a szövegekben. Az állandóság kedvéért e
 | ------- | --------- |
 | Elder   | Ős        |
 | Spirit  | Lélek     |
+| Season  | Szezon    |
+| Temple  | Templom   |

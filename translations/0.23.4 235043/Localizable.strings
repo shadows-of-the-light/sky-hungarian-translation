@@ -5308,7 +5308,7 @@
 "travis_ann_text6" = "Our powers combine... music!";
 "trophy_pack_base_desc" = "The trophy set of Sky: Children of the Light";
 "trophy_pack_base_name" = "Sky: Children of the Light";
-"tutorial_bench_01" = "<hinticon/> You may chat with another player who sits by you until the candle burns out";
+"tutorial_bench_01" = "<hinticon/> Beszélgethetsz egy másik játékossal amíg a gyertya el nem alszik";
 "tutorial_birthdaycake_candlegate_00" = "Do you want to put 4 x <candle/> on the cake and invite everyone to eat it?";
 "tutorial_burn_darkness_00" = "<hinticon/> Cleanse the <3>Darkness</3>";
 "tutorial_camera_00" = "<hinticon/> <1>Drag the screen with two fingers</1> to look around";
@@ -5316,7 +5316,7 @@
 "tutorial_camera_00_pro" = "<hinticon/> <1>Drag</1> the <b>right side</b> of the screen to look around";
 "tutorial_camera_00_pro_lh" = "<hinticon/> <1>Drag</1> the <b>left side</b> of the screen to look around";
 "tutorial_camera_00_ps" = "<hinticon/> Use <button type=\"look\"/> to look around";
-"tutorial_camera_01" = "<hinticon/> Find a path to the <2>Temple</2>";
+"tutorial_camera_01" = "<hinticon/> Keress utat a <2>Templomhoz</2>";
 "tutorial_candle_00" = "<hinticon/> <2>Light</2> from your friends will gather here";
 "tutorial_candle_trick_00" = "<hinticon/> Move to an area away from water and on higher ground to burrow";
 "tutorial_candle_trick_01" = "<hinticon/> Move to an area of soft ground to burrow";
