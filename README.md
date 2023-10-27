@@ -10,9 +10,11 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 ## Progress / Haladás
 
-| Game version / Játék verzió | Progress / Haladás | File length / Hossz |
-| --------------------------- | ------------------ | ------------------- |
-| 0.23.4 235043               | 120 / 4992 (2%)    | 5593                |
+| Game ver./Játék ver. | Progress/Haladás | File length/Hossz |
+| -------------------- | ---------------- | ----------------- |
+| \* 0.23.4 235043     | 178 / 4992 (4%)  | 5593              |
+
+\* = Latest version, currently on Drive / Legfrissebb verzió, jelenleg a Drive-on
 
 Why doesn't the file length match the progress goal? Because we don't have to translate every string and not every line is a string.
 

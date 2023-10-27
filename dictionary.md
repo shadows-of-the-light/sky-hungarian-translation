@@ -16,6 +16,7 @@ Vannak gyakran előforduló szavak a szövegekben. Az állandóság kedvéért e
 | English | Hungarian |
 | ------- | --------- |
 | Elder   | Ős        |
+| Quest   | Küldetés  |
 | Spirit  | Lélek     |
 | Season  | Szezon    |
 | Temple  | Templom   |
