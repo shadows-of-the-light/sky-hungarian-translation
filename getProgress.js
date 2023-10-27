@@ -17,7 +17,8 @@ for (let i = 0; i < file1Lines.length; i++) {
   const isNotComment = !file1Lines[i].startsWith('/');
   const isNotAuraLirics = !auroraLiricsRegex.test(file1Lines[i]);
   const isNotAchievement = !file1Lines[i].startsWith('"achievement_');
-  if (isNotComment && isNotAuraLirics && isNotAchievement) {
+  const isNotName = !file1Lines[i].startsWith('"name_');
+  if (isNotComment && isNotAuraLirics && isNotAchievement && isNotName) {
     requiredLines++;
     if (file1Lines[i] !== file2Lines[i]) {
       count++;

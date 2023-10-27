@@ -12,15 +12,18 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 | Game version / Játék verzió | Progress / Haladás | File length / Hossz |
 | --------------------------- | ------------------ | ------------------- |
-| 0.23.4 235043               | 78 / 5229 (1%)     | 5593                |
+| 0.23.4 235043               | 100 / 4992 (2%)    | 5593                |
 
 Why doesn't the file length match the progress goal? Because we don't have to translate every string and not every line is a string.
 
 Miért nem egyezik a fájl hossza a haladás céljával? Mert nem kell lefordítanunk minden szöveget és nem minden sor egy szöveg.
 
-- comments / kommentek
-- Aurora songs' lirics / Aurora dalok szövege
 - achievements / teljesítmények
+- Aurora songs' lirics / Aurora dalok szövege
+- comments / kommentek
+- names of spirits, places, etc. / lelkek, helyek, stb. nevei
+
+[More info about translating / Több információ a fordításról](dictionary.md)
 
 ## Folder structure / Mappa szerkezet
 
