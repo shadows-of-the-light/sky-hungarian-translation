@@ -8,7 +8,7 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 | Game version / Játék verzió | Progress / Haladás |
 | --------------------------- | ------------------ |
-| 0.23.4 235043               | -                  |
+| 0.23.4 235043               | 76 / 5275 (1%)     |
 
 ## Folder structure / Mappa szerkezet
 
