@@ -6,16 +6,19 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 ## Progress / Haladás
 
-| Game version / Játék verzió | Progress / Haladás |
-| --------------------------- | ------------------ |
-| 0.23.4 235043               | 76 / 5275 (1%)     |
+| Game version / Játék verzió | Progress / Haladás | File length / Hossz |
+| --------------------------- | ------------------ | ------------------- |
+| 0.23.4 235043               | 76 / 5275 (1%)     | 5593                |
+
+Why doesn't the file length match the progress goal? Because we don't have to translate every string. For example Aurora song lirics are not translated.
 
 ## Folder structure / Mappa szerkezet
 
 ```yml
 - translations
   - [game version] [build number]
-    - Localizable.strings
+    - Localizable.strings         # Translated file / Lefordított fájl
+    - origianl.strings            # Original file / Eredeti fájl
 ```
 
 ## Contribution / Közreműködés

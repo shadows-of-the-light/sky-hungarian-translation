@@ -26,4 +26,4 @@ for (let i = 0; i < file1Lines.length; i++) {
 
 const percent = Math.round((count / requiredLines) * 100);
 
-console.log(`Progress for game version ${gameVersion}:\n${count} / ${requiredLines} (${percent}%)`);
+console.log(`Progress for game version ${gameVersion}:\n${count} / ${requiredLines} (${percent}%)\nFull file length: ${file1Lines.length}`);
