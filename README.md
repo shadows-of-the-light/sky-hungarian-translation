@@ -4,36 +4,32 @@ Hungarian translation for the game Sky: Children of the Light.
 
 Magyar fordítás a Sky: Children of the Light játékhoz.
 
-## Google Drive for easier collaboration / Google Drive a könnyebb együttműködéshez
+## Google Drive a könnyebb együttműködéshez
 
-[Open Drive folder / Drive mappa megnyitása](https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing)
+[Drive mappa megnyitása](https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing)
 
-## Progress / Haladás
+## Haladás
 
-| Game ver./Játék ver. | Progress/Haladás | File length/Hossz |
-| -------------------- | ---------------- | ----------------- |
-| \* 0.23.4 235043     | 187 / 4980 (4%)  | 5593              |
+| Játék verzió     | Haladás         | Fájl hossza |
+| ---------------- | --------------- | ----------- |
+| \* 0.23.4 235043 | 187 / 4980 (4%) | 5593        |
 
-\* = Latest version, currently on Drive / Legfrissebb verzió, jelenleg a Drive-on
-
-Why doesn't the file length match the progress goal? Because we don't have to translate every string and not every line is a string.
+\* = Legfrissebb verzió, jelenleg a Drive-on
 
 Miért nem egyezik a fájl hossza a haladás céljával? Mert nem kell lefordítanunk minden szöveget és nem minden sor egy szöveg.
 
-[Translation guide / Fordítási útmutató](translation%20guide.md)
+[Fordítási útmutató](translation%20guide.md)
 
-## Folder structure / Mappa szerkezet
+## Mappa szerkezet
 
 ### Google Drive
-
-Google Drive only contains the latest version of the game. At least I'm trying to keep it up to date.
 
 A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis próbálom naprakészen tartani.
 
 ```yml
 - OLVASS EL (Google doksi)
-- magyar (Google doksi)    # Translated file / Lefordított fájl
-- eredeti (Google doksi)   # Original file / Eredeti fájl
+- magyar (Google doksi)    # Lefordított fájl
+- eredeti (Google doksi)   # Eredeti fájl
 ```
 
 ### GitHub
@@ -41,20 +37,16 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 ```yml
 - translations
   - [game version] [build number]
-    - Localizable.strings         # Translated file / Lefordított fájl
-    - origianl.strings            # Original file / Eredeti fájl
+    - Localizable.strings         # Lefordított fájl
+    - origianl.strings            # Eredeti fájl
 ```
 
-## Contribution / Közreműködés
+## Közreműködés
 
-### Translating / Fordítás
-
-If you want to help, message me on Discord. I can give you permission and I can show you how you can help.
+### Fordítás
 
 Ha szeretnél segíteni, írj nekem Discordon. Tudok adni jogokat és megmutathatom, hogy hogyan tudsz segíteni.
 
-### Typos / Elírások
-
-If you see a typo, you can create an issue with the typo label on GitHub or message me on Discord.
+### Elírások
 
 Ha látsz egy elírást, létrehozhatsz egy issue-t a typo címkével GitHub-on vagy írhatsz nekem Discordon.
