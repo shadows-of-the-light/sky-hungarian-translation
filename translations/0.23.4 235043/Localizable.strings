@@ -4631,10 +4631,10 @@
 "spirit_shop_ap06unlock_ap11_fetch_05_task_done" = "Return to the <1>Rose</1> at the <b>Starlight Desert</b>.";
 "spirit_shop_ap06unlock_ap11_fetch_06_task_desc" = "Keresd meg a <1>Rózsa</1> barátját, aki szomorúan tűnődik a <b>Starlight Desert</b>-ben.";
 "spirit_shop_ap06unlock_ap11_fetch_06_task_done" = "Return to the <1>Rose</1> at the <b>Starlight Desert</b>.";
-"spirit_shop_ap06unlock_ap11_fetch_07_task_desc" = "Segíts a <1>Rózsa</1> barátjának, aki a who struggles under the hail of stones in <b>Eye of Eden</b>.";
+"spirit_shop_ap06unlock_ap11_fetch_07_task_desc" = "Segíts a <1>Rózsa</1> barátjának, aki a zuhanó kövek alatt küzd az <b>Eye of Eden</b>-ben.";
 "spirit_shop_ap06unlock_ap11_fetch_07_task_done" = "Return to the <1>Rose</1> at the <b>Starlight Desert</b>.";
-"spirit_shop_ap06unlock_ap11_fetch_08_task_done" = "Go back to the flower and bring her your story meeting the new friend.";
-"spirit_shop_ap06unlock_ap12_fetch_01_task_desc" = "The spirits have been waiting for someone like you to arrive.";
+"spirit_shop_ap06unlock_ap11_fetch_08_task_done" = "Térj vissza a  virághoz és vidd el neki a történetedet az új barátról, akit megismertél.";
+"spirit_shop_ap06unlock_ap12_fetch_01_task_desc" = "A lelkek már alig várták, hogy egy hozzád hasonló megérkezzen.";
 "spirit_shop_ap06unlock_ap12_fetch_01_task_done" = "Return to the <1>Flight Guide</1> to inform them of your success.";
 "spirit_shop_ap06unlock_ap12_fetch_02_task_desc" = "There should be a way to reconnect these islands together.";
 "spirit_shop_ap06unlock_ap12_fetch_02_task_done" = "Return to the <1>Flight Guide</1> to hand in the boat you have salvaged.";
