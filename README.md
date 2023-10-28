@@ -12,7 +12,7 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 | Game ver./Játék ver. | Progress/Haladás | File length/Hossz |
 | -------------------- | ---------------- | ----------------- |
-| \* 0.23.4 235043     | 178 / 4992 (4%)  | 5593              |
+| \* 0.23.4 235043     | 187 / 4980 (4%)  | 5593              |
 
 \* = Latest version, currently on Drive / Legfrissebb verzió, jelenleg a Drive-on
 
