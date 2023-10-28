@@ -62,16 +62,18 @@ const percent = Math.round((count / requiredLines) * 100);
 const output = `
 # Haladás
 
+![](https://geps.dev/progress/${percent})
+
 - Játék verziója: \`${gameVersion}\`
 - Nyelv fájl hossza: \`${file1Lines.length}\`
-- Teljes haladás: \`${count} / ${requiredLines}\` - \`${percent}%\`
+- Teljes haladás: \`${count} / ${requiredLines}\`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 ${Object.keys(categories).map((key) =>
-    `| ${key} | ${categories[key].done ?? '-'} / ${categories[key].size} | ${categories[key].progress ?? '-'} |`
+    `| ${key} | ${categories[key].done ?? '-'} / ${categories[key].size} | ![](https://geps.dev/progress/${categories[key].progress ? categories[key].progress.replace('%', '') : 0}) |`
 ).join('\n')}
 
 ## Discord üzenet
@@ -80,7 +82,7 @@ ${Object.keys(categories).map((key) =>
 # Sky Magyar fordítás
 \`[${'='.repeat(percent / 4).padEnd(100 / 4, '.')}] ${percent}%\`
 ${count}db szöveg lefordítva ${requiredLines}db szövegből.
-[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<>)
+[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 \`\`\`
 `.trim();
 
