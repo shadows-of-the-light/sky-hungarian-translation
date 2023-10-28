@@ -20,12 +20,7 @@ Why doesn't the file length match the progress goal? Because we don't have to tr
 
 Miért nem egyezik a fájl hossza a haladás céljával? Mert nem kell lefordítanunk minden szöveget és nem minden sor egy szöveg.
 
-- achievements / teljesítmények
-- Aurora songs' lirics / Aurora dalok szövege
-- comments / kommentek
-- names of spirits, places, etc. / lelkek, helyek, stb. nevei
-
-[More info about translating / Több információ a fordításról](dictionary.md)
+[Translation guide / Fordítási útmutató](translation%20guide.md)
 
 ## Folder structure / Mappa szerkezet
 
@@ -52,6 +47,14 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 
 ## Contribution / Közreműködés
 
+### Translating / Fordítás
+
 If you want to help, message me on Discord. I can give you permission and I can show you how you can help.
 
 Ha szeretnél segíteni, írj nekem Discordon. Tudok adni jogokat és megmutathatom, hogy hogyan tudsz segíteni.
+
+### Typos / Elírások
+
+If you see a typo, you can create an issue with the typo label on GitHub or message me on Discord.
+
+Ha látsz egy elírást, létrehozhatsz egy issue-t a typo címkével GitHub-on vagy írhatsz nekem Discordon.
