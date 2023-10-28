@@ -22,6 +22,7 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 - OLVASS EL (Google doksi)
 - magyar (Google doksi)    # Lefordított fájl
 - eredeti (Google doksi)   # Eredeti fájl
+- egyéb fájlok             # Bármi mást, jegyzeteket, nyugodtan rakhattok a Drive mappába
 ```
 
 ### GitHub
