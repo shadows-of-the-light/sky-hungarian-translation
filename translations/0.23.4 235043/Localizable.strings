@@ -5528,8 +5528,8 @@
 "tutorial_wingbuff_level_up_00_pc" = "<hinticon/> <1>Press</1> <b>E</b> to <2>level up</2> your wing <cape/>";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/> <1>Press <button type=\"emote_menu\"/></1> to <2>level up</2> your wing <cape/>";
 "tutorial_wingbuff_progress" = "<hinticon/> Find <b>{{1}}</b> more <2><wingbuff/></2> to reach the next <cape/> level";
-"ui_adjust_insets" = "<b>Használd a jobb joystick-et a játék képernyőjének igazításához, hogy a képernyődre illeszkedjen</b>";
-"ui_adjust_insets_keyboard" = "<b>Használd a nyíl gombokat a játék képernyőjének igazításához, hogy a képernyődre illeszkedjen</b>";
+"ui_adjust_insets" = "<b>Használd a jobb joystick-et a játék képernyőterületének igazításához, hogy a képernyődre illeszkedjen</b>";
+"ui_adjust_insets_keyboard" = "<b>Használd a nyíl gombokat a játék képernyőterületének igazításához, hogy a képernyődre illeszkedjen</b>";
 "ui_botton_done" = "<b>Kész</b>";
 "ui_button_done" = "<b>Kész</b>";
 "ui_nav_back" = "<b>Vissza</b>";
