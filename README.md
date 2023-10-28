@@ -10,15 +10,7 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 ## Haladás
 
-| Játék verzió     | Haladás         | Fájl hossza |
-| ---------------- | --------------- | ----------- |
-| \* 0.23.4 235043 | 187 / 4980 (4%) | 5593        |
-
-\* = Legfrissebb verzió, jelenleg a Drive-on
-
-Miért nem egyezik a fájl hossza a haladás céljával? Mert nem kell lefordítanunk minden szöveget és nem minden sor egy szöveg.
-
-[Fordítási útmutató](translation%20guide.md)
+[Nézd meg a haladást itt](progress.md)
 
 ## Mappa szerkezet
 
@@ -44,6 +36,8 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 ## Közreműködés
 
 ### Fordítás
+
+[Fordítási útmutató](translation%20guide.md)
 
 Ha szeretnél segíteni, írj nekem Discordon. Tudok adni jogokat és megmutathatom, hogy hogyan tudsz segíteni.
 
