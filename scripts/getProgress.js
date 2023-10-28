@@ -14,17 +14,16 @@ const auroraLiricsRegex = /^"aurora_\w*_[0-9]{2,}".*/;
 
 let requiredLines = 0;
 let count = 0;
-const categories = {
-
-};
+const categories = {};
+const todoKeys = [];
 for (let i = 0; i < file1Lines.length; i++) {
     const keyPrefix = file1Lines[i].split('_')[0].substring(1);
     const category = [
         'account', 'buff', 'button', 'commerce', 'constellation', 'consumable',
         'control', 'currency', 'daily', 'display', 'error', 'friend', 'game',
-        'howtoplay', 'intro', 'invite', 'meditation', 'menu', 'message',
-        'mischief', 'musicshop', 'recorder', 'season', 'social', 'spirit',
-        'system', 'tgcoffice', 'tutorial', 'ui',
+        'howtoplay', 'intro', 'invite', 'mainstreet', 'meditation', 'menu',
+        'message', 'recorder', 'relationship', 'season',
+        'social', 'spirit', 'storm', 'system', 'tos', 'tutorial', 'ui',
     ].includes(keyPrefix) || showAllCategories ? keyPrefix : 'other';
 
     const isNotComment = !file1Lines[i].startsWith('/');
@@ -39,6 +38,9 @@ for (let i = 0; i < file1Lines.length; i++) {
         if (file1Lines[i] !== file2Lines[i]) {
             count++;
             categories[category] = { ...categories[category], done: categories[category].done ? categories[category].done + 1 : 1 };
+        }
+        else {
+            todoKeys.push(file1Lines[i].split('=')[0].trim());
         }
         if (categories[category].size && categories[category].done) {
             categories[category] = {
@@ -84,6 +86,12 @@ ${Object.keys(categories).map((key) =>
 ${count}db szöveg lefordítva ${requiredLines}db szövegből.
 [[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 \`\`\`
+
+## Fordításra váró elemek
+
+${todoKeys.length}db szöveg
+
+${todoKeys.filter(key => key.trim() !== '').map(key => `- ${key}`).join('\n')}
 `.trim();
 
 fs.writeFileSync(path.join(__dirname, '..', 'progress.md'), output + '\n');

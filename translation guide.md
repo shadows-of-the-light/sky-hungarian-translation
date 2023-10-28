@@ -32,6 +32,15 @@ Nem kell mindent lefordítani! Amiket kihagyunk:
 | Tulajdonnevek      | `name_[valami]`                   | Pl. helyek, lelkek, stb. Így könnyebben találnak segítséget az új játékosok |
 | Resource csomagok  | `assetpack_name_[csomag]`         | Ez elronthatja a játék betöltését ha nem vigyázunk                          |
 
+#### Credits
+
+A credits részben főleg nevek vannak, kihagyjuk azokat, viszont van pár kulcs, amit fordítunk:
+
+- "credit_realstart"
+- "credit_thankbeta"
+- "credit_thankyou"
+- Játék nevét viccből fordítsuk? 😂 "credit_title"
+
 ### Bizonytalan szövegek
 
 Lehetnek szövegek amiről nehéz eldönteni, hogy mi az és hol van a játékban vagy bizonytalan, hogy hogyan érdemes fordítani. Néha a kulcs segít, de valamikor az sem elég. Ezeket hagyjuk a végére, megpróbálom én kideríteni, hogy hol lehetnek. Mindenki azt a szöveget fordítsa, amiről tudja, hogy hol van a játékban.
@@ -86,3 +95,7 @@ Hosszabb szövegek esetében főleg magyarosíthatjuk a szöveget és nem kell p
 // Magyar
 "buddy_accept_confirm" = "Ennek a játékosnak segítségre van szüksége lélek keresésben. <1>Segítesz</1> neki?";
 ```
+
+### Gombok szövege
+
+Vannak szövegek, amik gombok feliratai. Ezeket próbáljuk az eredeti szöveghez hasonlóan és tömören lefordítani.
