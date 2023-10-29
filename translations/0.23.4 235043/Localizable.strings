@@ -4490,11 +4490,11 @@
 "social_feed_menu_fan_count_message" = "<b>Neked {{1}} néződ van</b>";
 "social_feed_menu_fan_of_count" = "Követ:";
 "social_feed_menu_feed_index" = "{{1}} ebből: {{2}}";
-"social_feed_menu_hearts_received" = "<b>Amit létrehoztál, {{1}} <heart/>-ot kapott</b>";
+"social_feed_menu_hearts_received" = "<b>Az alkotásod {{1}} <heart/>-t kapott</b>";
 "social_feed_menu_hide" = "<b>Elrejtés</b>";
-"social_feed_menu_message_hearts_received" = "<b>Az üzeneted {{1}} <heart/>-ot kapott</b>";
+"social_feed_menu_message_hearts_received" = "<b>Az üzeneted {{1}} <heart/>-t kapott</b>";
 "social_feed_menu_rename" = "<b>Átnevezés</b>";
-"social_feed_menu_rename_body" = "Ennek a játékosnak a becenevének változtatása";
+"social_feed_menu_rename_body" = "Játékosnak becenevének változtatása";
 "social_feed_menu_report" = "<b>Jelentés</b>";
 "social_feed_menu_title_creator" = "<b>Játékos</b>";
 "social_feed_menu_title_me" = "<b>Én</b>";
@@ -4506,10 +4506,10 @@
 "social_hide_n_seek_already_started" = "Már elkezdted a játékot!";
 "social_hide_n_seek_confirm_join" = "Csatlakozni szeretnél a bújócskához?";
 "social_hide_n_seek_confirm_leave" = "El szeretnéd hagyni a játékot?";
-"social_hide_n_seek_finished" = "Game Over";
+"social_hide_n_seek_finished" = "Játék vége";
 "social_hide_n_seek_going" = "Bújás: {{1}}\nHátralévő idő: {{2}}";
 "social_hide_n_seek_initiate" = "Várunk legalább egy játékos csatlakozására";
-"social_hide_n_seek_start" = "Game Start!";
+"social_hide_n_seek_start" = "Aki bújt, aki nem, megyek!";
 "social_hide_n_seek_starting" = "A játék kezdődik:{{1}}\n Keress egy búvóhelyet!";
 "social_hide_n_seek_starting_host" = "A játék kezdődik:{{1}}\n{{2}} Csatlakozott";
 "social_hide_n_seek_starting_seeking" = "A játék kezdődik:{{1}}";
