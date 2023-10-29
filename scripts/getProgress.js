@@ -23,7 +23,7 @@ for (let i = 0; i < file1Lines.length; i++) {
         'control', 'currency', 'daily', 'display', 'error', 'friend', 'game',
         'howtoplay', 'intro', 'invite', 'mainstreet', 'meditation', 'menu',
         'message', 'recorder', 'relationship', 'season',
-        'social', 'spirit', 'storm', 'system', 'tos', 'tutorial', 'ui',
+        'social', 'spirit', 'storm', 'stormy', 'system', 'tos', 'tutorial', 'ui',
     ].includes(keyPrefix) || showAllCategories ? keyPrefix : 'other';
 
     const isNotComment = !file1Lines[i].startsWith('/');

@@ -4,14 +4,14 @@
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `676 / 4707`
+- Teljes haladás: `680 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 74 / 2139 | ![](https://geps.dev/progress/3) |
+| other | 74 / 2131 | ![](https://geps.dev/progress/3) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 5 / 39 | ![](https://geps.dev/progress/13) |
@@ -37,7 +37,8 @@
 | season | - / 180 | ![](https://geps.dev/progress/0) |
 | social | 43 / 47 | ![](https://geps.dev/progress/91) |
 | spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
-| storm | - / 21 | ![](https://geps.dev/progress/0) |
+| storm | 4 / 21 | ![](https://geps.dev/progress/19) |
+| stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 60 / 197 | ![](https://geps.dev/progress/30) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
 | tutorial | 2 / 220 | ![](https://geps.dev/progress/1) |
@@ -48,13 +49,13 @@
 ```
 # Sky Magyar fordítás
 `[===......................] 14%`
-676db szöveg lefordítva 4707db szövegből.
+680db szöveg lefordítva 4707db szövegből.
 [[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 ```
 
 ## Fordításra váró elemek
 
-4031db szöveg
+4027db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -3484,7 +3485,6 @@
 - "star_tag_scanner_write_title"
 - "state_counter"
 - "state_counter_exp"
-- "storm_confirmation_00"
 - "storm_confirmation_01"
 - "storm_death_00"
 - "storm_death_01"
@@ -3500,11 +3500,8 @@
 - "storm_emote_gate_04"
 - "storm_emote_gate_05"
 - "storm_emote_gate_06"
-- "storm_end"
 - "storm_endtitle_01"
-- "storm_endtitle_02"
 - "storm_levellocked"
-- "storm_start_warning"
 - "stormy_hint_dawn_01"
 - "stormy_hint_day_01"
 - "stormy_hint_dusk_01"
