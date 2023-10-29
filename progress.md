@@ -1,18 +1,18 @@
 # Haladás
 
-![](https://geps.dev/progress/12)
+![](https://geps.dev/progress/14)
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `570 / 4707`
+- Teljes haladás: `676 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 72 / 2139 | ![](https://geps.dev/progress/3) |
-| account | 22 / 138 | ![](https://geps.dev/progress/16) |
+| other | 74 / 2139 | ![](https://geps.dev/progress/3) |
+| account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 5 / 39 | ![](https://geps.dev/progress/13) |
 | commerce | - / 270 | ![](https://geps.dev/progress/0) |
@@ -35,7 +35,7 @@
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
 | relationship | 1 / 58 | ![](https://geps.dev/progress/2) |
 | season | - / 180 | ![](https://geps.dev/progress/0) |
-| social | 41 / 47 | ![](https://geps.dev/progress/87) |
+| social | 43 / 47 | ![](https://geps.dev/progress/91) |
 | spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
 | storm | - / 21 | ![](https://geps.dev/progress/0) |
 | system | 60 / 197 | ![](https://geps.dev/progress/30) |
@@ -47,104 +47,17 @@
 
 ```
 # Sky Magyar fordítás
-`[===......................] 12%`
-570db szöveg lefordítva 4707db szövegből.
+`[===......................] 14%`
+676db szöveg lefordítva 4707db szövegből.
 [[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 ```
 
 ## Fordításra váró elemek
 
-4137db szöveg
+4031db szöveg
 
 - "accept_link"
-- "accept_unlink"
 - "account_infraction_info"
-- "account_infraction_panel_title"
-- "account_infraction_type_account_sharing"
-- "account_infraction_type_cheats"
-- "account_infraction_type_fraud"
-- "account_infraction_type_ingame_abuse"
-- "account_infraction_type_social_behavior"
-- "account_link_already_confirm_desc"
-- "account_link_cant_open_dialog_desc"
-- "account_link_confirm_desc"
-- "account_link_gamecenter_already_confirm_desc"
-- "account_link_gamecenter_cant_open_dialog_desc"
-- "account_link_gamecenter_linked_but_not_signed_in_desc"
-- "account_link_gamecenter_sign_in_message"
-- "account_link_gamecenter_sign_in_title"
-- "account_link_google_confirm_desc"
-- "account_link_google_linked_but_not_signed_in_desc"
-- "account_link_linked_but_not_signed_in_desc"
-- "account_link_linking_title"
-- "account_link_other_button"
-- "account_link_recover_accept"
-- "account_link_recover_message_facebook"
-- "account_link_recover_message_gamecenter"
-- "account_link_recover_message_google"
-- "account_link_recover_message_google_play"
-- "account_login_create_new_warning_2"
-- "account_panel_apple_not_available"
-- "account_panel_cancel_delete_message"
-- "account_panel_cancel_delete_title"
-- "account_panel_confirm_delete_message"
-- "account_panel_confirm_link"
-- "account_panel_confirm_link_alias"
-- "account_panel_confirm_unlink"
-- "account_panel_confirm_unlink_alias"
-- "account_panel_facebook_not_available"
-- "account_panel_google_not_available"
-- "account_panel_google_play_not_available"
-- "account_panel_header"
-- "account_panel_header_code"
-- "account_panel_huawei_not_available"
-- "account_panel_link_already_state"
-- "account_panel_link_error_state"
-- "account_panel_link_error_state_link_error"
-- "account_panel_link_error_state_linked_other"
-- "account_panel_link_error_state_unlink_denied"
-- "account_panel_link_error_state_unlink_error"
-- "account_panel_link_error_state_unlink_last"
-- "account_panel_link_error_state_unlink_other"
-- "account_panel_link_success"
-- "account_panel_link_updating_state"
-- "account_panel_linked_apple_other_state"
-- "account_panel_linked_apple_this_state"
-- "account_panel_linked_apple_unknown_state"
-- "account_panel_linked_facebook_state"
-- "account_panel_linked_gamecenter_state"
-- "account_panel_linked_google_play_state"
-- "account_panel_linked_google_state"
-- "account_panel_linked_huawei_other_state"
-- "account_panel_linked_huawei_this_state"
-- "account_panel_linked_huawei_unknown_state"
-- "account_panel_linked_nintendo_other_state"
-- "account_panel_linked_nintendo_this_state"
-- "account_panel_linked_nintendo_unknown_state"
-- "account_panel_linked_other"
-- "account_panel_linked_other_alias"
-- "account_panel_linked_sony_state"
-- "account_panel_linked_steam_state"
-- "account_panel_linking_state"
-- "account_panel_nintendo_not_available"
-- "account_panel_recovery_code_message_01"
-- "account_panel_recovery_code_message_02"
-- "account_panel_sign_in_error"
-- "account_panel_signed_in_apple_state"
-- "account_panel_signed_in_facebook_state"
-- "account_panel_signed_in_gamecenter_state"
-- "account_panel_signed_in_google_play_state"
-- "account_panel_signed_in_google_state"
-- "account_panel_signed_in_huawei_state"
-- "account_panel_signed_in_nintendo_state"
-- "account_panel_signed_in_sony_state"
-- "account_panel_signed_in_steam_state"
-- "account_panel_signed_out_gamecenter_state"
-- "account_panel_signed_out_state"
-- "account_panel_sony_not_available"
-- "account_panel_steam_not_available"
-- "account_panel_type_account_delete"
-- "account_panel_type_account_info"
 - "account_panel_type_apple"
 - "account_panel_type_apple_bold"
 - "account_panel_type_facebook"
@@ -157,28 +70,11 @@
 - "account_panel_type_google_play_bold"
 - "account_panel_type_huawei"
 - "account_panel_type_huawei_bold"
-- "account_panel_type_nintendo"
-- "account_panel_type_nintendo_bold"
-- "account_panel_type_recovery_code"
 - "account_panel_type_sony"
-- "account_panel_type_sony_bold"
-- "account_panel_type_steam"
-- "account_panel_type_steam_bold"
-- "account_panel_unlink_success"
-- "account_panel_unlinked_state"
-- "account_panel_unlinking_state"
-- "account_select_type_apple"
-- "account_select_type_facebook"
-- "account_select_type_gamecenter"
-- "account_select_type_google"
-- "account_select_type_huawei"
-- "account_select_type_nintendo"
-- "account_select_type_sony"
 - "activity_birthday_2023_daily_quests"
 - "activity_birthday_2023_friend_interaction"
 - "activity_birthday_2023_wax_collection"
 - "activity_darkstone_burn_objective_prompt"
-- "activity_fragment_collect_objective_prompt"
 - "allow_notifications_favorite"
 - "allow_notifications_shrine"
 - "ap06unlock_ap18_fetch_01"
@@ -3510,8 +3406,6 @@
 - "skidmore_ann_text6"
 - "social_feed_comment_with_hearts"
 - "social_feed_comment_with_name"
-- "social_hide_n_seek_finished"
-- "social_hide_n_seek_start"
 - "social_hud_battery_percentage"
 - "social_hud_clock"
 - "spirit_shop_ap06unlock_ap20_fetch_01_task_desc"
