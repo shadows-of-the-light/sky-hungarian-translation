@@ -4587,11 +4587,11 @@
 "spirit_shop_ap06unlock_ap09_fetch_01_task_desc" = "A <1>Lélek</1> megfigyelt egy fontos tanulságot. Keresd ezt az emléket.";
 "spirit_shop_ap06unlock_ap09_fetch_01_task_done" = "Egy eltűnt emléket éltél át. Menj vissza a <1>Lélek</1>-hez a faluban.";
 "spirit_shop_ap06unlock_ap09_fetch_02_task_desc" = "A <1>Lélek</1> megfigyelt egy meghatározó tanulságot. Keresd ezt az emléket.";
-"spirit_shop_ap06unlock_ap09_fetch_02_task_done" = "A második eltűnt emléket éltél át. Menj vissza a <1>Lélek</1>-hez a faluban.";
+"spirit_shop_ap06unlock_ap09_fetch_02_task_done" = "A második eltűnt emléket élted át. Menj vissza a <1>Lélek</1>-hez a faluban.";
 "spirit_shop_ap06unlock_ap09_fetch_03_task_desc" = "A <1>Lélek</1> megfigyelt egy merész tanulságot. Keresd ezt az emléket.";
-"spirit_shop_ap06unlock_ap09_fetch_03_task_done" = "A harmadik eltűnt emléket éltél át. Menj vissza a <1>Lélek</1>-hez a faluban.";
+"spirit_shop_ap06unlock_ap09_fetch_03_task_done" = "A harmadik eltűnt emléket élted át. Menj vissza a <1>Lélek</1>-hez a faluban.";
 "spirit_shop_ap06unlock_ap09_fetch_04_task_desc" = "A <1>Lélek</1> megfigyelte az utolsó tanulságot. Keresd ezt az emléket.";
-"spirit_shop_ap06unlock_ap09_fetch_04_task_done" = "A negyedik eltűnt emléket éltél át. Menj vissza a <1>Lélek</1>-hez a faluban.";
+"spirit_shop_ap06unlock_ap09_fetch_04_task_done" = "A negyedik eltűnt emléket élted át. Menj vissza a <1>Lélek</1>-hez a faluban.";
 "spirit_shop_ap06unlock_ap09_fetch_05_task_desc" = "A <1>Léleknek</1> eszébe jut a stadion. Menj és éld át a debütáló előadást.";
 "spirit_shop_ap06unlock_ap09_fetch_05_task_done" = "Átélted, ahogy álmok valóra válnak. Menj vissza a <1>Lélekhez</1> a faluban.";
 "spirit_shop_ap06unlock_ap10_fetch_01_task_claimed" = "nem vagy benne biztos, hogy kell-e ez nekünk?";
