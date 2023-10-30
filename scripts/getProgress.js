@@ -75,7 +75,7 @@ const output = `
 | Kategória | Haladás | % |
 | - | - | - |
 ${Object.keys(categories).map((key) =>
-    `| ${key} | ${categories[key].done ?? '-'} / ${categories[key].size} | ![](https://geps.dev/progress/${categories[key].progress ? categories[key].progress.replace('%', '') : 0}) |`
+    `| ${key} | ${categories[key].done ? categories[key].done : '-'} / ${categories[key].size} | ![](https://geps.dev/progress/${categories[key].progress ? categories[key].progress.replace('%', '') : 0}) |`
 ).join('\n')}
 
 ## Discord üzenet
