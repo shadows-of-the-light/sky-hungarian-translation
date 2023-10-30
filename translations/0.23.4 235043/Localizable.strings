@@ -4494,7 +4494,7 @@
 "social_feed_menu_hide" = "<b>Elrejtés</b>";
 "social_feed_menu_message_hearts_received" = "<b>Az üzeneted {{1}} <heart/>-ot kapott</b>";
 "social_feed_menu_rename" = "<b>Átnevezés</b>";
-"social_feed_menu_rename_body" = "Ennek a játékosnak a becenevének változtatása";
+"social_feed_menu_rename_body" = "Játékos becenevének megváltoztatása";
 "social_feed_menu_report" = "<b>Jelentés</b>";
 "social_feed_menu_title_creator" = "<b>Játékos</b>";
 "social_feed_menu_title_me" = "<b>Én</b>";
@@ -4709,7 +4709,7 @@
 "spirit_shop_ap06unlock_ap17_fetch_09_task_desc" = "A <1>Remembrance Guide</1> összehívja a <1>lelkeket</1>. Keresd meg őket és hozd őket a <2>Repository</2> közepére.";
 "spirit_shop_ap06unlock_ap17_fetch_09_task_done" = "Segítettél a <1>Remembrance Guide</1>-nak összehozni a <1>lelkeket</1>.";
 "spirit_shop_ap06unlock_ap17_fetch_10_task_desc" = "A <1>lelkek</1> végre együtt vannak! Látogasd meg a <2>Shared Space Shrine</2>-t, hogy segíts nekik.";
-"spirit_shop_ap06unlock_ap17_fetch_10_task_done" = "Örömöt okoztál a <1>lelkeknek</1>.";
+"spirit_shop_ap06unlock_ap17_fetch_10_task_done" = "Örömet okoztál a <1>lelkeknek</1>.";
 "spirit_shop_ap06unlock_ap17_fetch_1_part_1_task_desc" = "Az <b>emléklámopások</1>, amitől megnyugodnának, <b>elvesztek</b>.";
 "spirit_shop_ap06unlock_ap17_fetch_1_part_1_task_desc_02" = "Segíts a <1>Remembrance Guide</1>-nak megtalálni az <b>emléklámpásokat</b>.";
 "spirit_shop_ap06unlock_ap17_fetch_1_part_2_task_desc" = "Ezek az <b>emléklámpások</b> valami olyasmit őriznek, ami ennek a <1>léleknek</1> megnyugvást hozna.";
@@ -5528,8 +5528,8 @@
 "tutorial_wingbuff_level_up_00_pc" = "<hinticon/> <1>Press</1> <b>E</b> to <2>level up</2> your wing <cape/>";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/> <1>Press <button type=\"emote_menu\"/></1> to <2>level up</2> your wing <cape/>";
 "tutorial_wingbuff_progress" = "<hinticon/> Find <b>{{1}}</b> more <2><wingbuff/></2> to reach the next <cape/> level";
-"ui_adjust_insets" = "<b>Használd a jobb joystick-et a játék képernyőterületének igazításához, hogy a képernyődre illeszkedjen</b>";
-"ui_adjust_insets_keyboard" = "<b>Használd a nyíl gombokat a játék képernyőterületének igazításához, hogy a képernyődre illeszkedjen</b>";
+"ui_adjust_insets" = "<b>Használd a jobb joystick-et a játék megjelenítési területének igazításához, hogy a képernyődre illeszkedjen</b>";
+"ui_adjust_insets_keyboard" = "<b>Használd a nyíl gombokat a játék megjelenítési területének igazításához, hogy a képernyődre illeszkedjen</b>";
 "ui_botton_done" = "<b>Kész</b>";
 "ui_button_done" = "<b>Kész</b>";
 "ui_nav_back" = "<b>Vissza</b>";
