@@ -157,7 +157,7 @@
 "account_select_type_local" = "<b>Bejelentkezés Helyi Fiókkal</b>";
 "account_select_type_nintendo" = "<b>Jelentkezz be Nintendo fiókkal</b>";
 "account_select_type_sony" = "<b>Jelentkezz be PlayStation™Network-kel</b>";
-"account_select_type_steam" = "<b>Bejelentkezés Steam Fiókkal (ajánlott)</b>";
+"account_select_type_steam" = "<b>Bejelentkezés Steam Fiókkal</b>";
 "achievement_a_new_dawn_desc" = "Be reborn.";
 "achievement_a_new_dawn_name" = "A New Dawn";
 "achievement_an_old_friend_desc" = "Become acquainted with an elder.";
