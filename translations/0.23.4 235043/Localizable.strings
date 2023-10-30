@@ -38,9 +38,9 @@
 "account_link_gamecenter_sign_in_title" = "Game Center bejelentkezés";
 "account_link_google_confirm_desc" = "Összekapcsolod a Google fiókod a Sky-val?  A fiók összekapcsolása megőrzi az adataidat arra az esetre, ha eltávolítanád a játékot vagy eszközt váltanál.";
 "account_link_google_linked_but_not_signed_in_desc" = "A Google fiókod már össze van kapcsolva a Sky-val,de nincs bejelentkezve-Bejelentkezel?";
-"account_link_linked_but_not_signed_in_desc" = "A Game Center fiókod már össze van kapcsolva a Sky-val, de nincs bejelentkezve a Game Centerba–Bejelentkezel?";
+"account_link_linked_but_not_signed_in_desc" = "A Game Center fiókod már össze van kapcsolva a Sky-val, de nincs bejelentkezve a Game Center-be – Bejelentkezel?";
 "account_link_linked_button" = "<b>Összekapcsolva</b>";
-"account_link_linking_title" = "<b>Összekapcsolás</b>";
+"account_link_linking_title" = "<b>Fiók kapcsolatok</b>";
 "account_link_other_button" = "Próbálkozás egy másik fiókkal";
 "account_link_recover_accept" = "Elhagy";
 "account_link_recover_message_facebook" = "Elhagyod ezt a leválasztott Sky-fiókot, és visszaállítod a Facebook-hoz kapcsolt fiókot?";
