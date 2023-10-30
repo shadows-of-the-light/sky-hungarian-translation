@@ -226,7 +226,7 @@
 "ap11_asteroid_name_07" = "B-612-es kisbolygó";
 "ap11_fetch_01_bye_01" = "Jó vagy ebben!";
 "ap11_fetch_01_bye_02" = "Érdekes világ ez.";
-"ap11_fetch_01_bye_03" = "Kívácsi vagyok, vannak-e itt felnőttek? ";
+"ap11_fetch_01_bye_03" = "Kíváncsi vagyok, vannak-e itt felnőttek? ";
 "ap11_fetch_01_bye_04" = "Folytatom a felfedezést. ";
 "ap11_fetch_01_chase_01" = "Gyere utánam!";
 "ap11_fetch_01_chase_02" = "Kapj el, ha tudsz!";
@@ -299,7 +299,7 @@
 "ap11_fetch_03_belltower_08" = "Menjünk ahhoz a szoborhoz.";
 "ap11_fetch_03_bye_01" = "Tudod-e...";
 "ap11_fetch_03_bye_02" = "mit jelent az, hogy \"megszelídíteni\"? ";
-"ap11_fetch_03_bye_03" = "A róka azt mondta, azt jelenti, kapcsoltokat teremteni.";
+"ap11_fetch_03_bye_03" = "A róka azt mondta, azt jelenti, kapcsolatokat teremteni.";
 "ap11_fetch_03_bye_04" = "Nézd!";
 "ap11_fetch_03_bye_05" = "Ha kapcsolatot teremtünk, szükségünk lesz egymásra.";
 "ap11_fetch_03_bye_06" = "A több millió gyerek közül...";
