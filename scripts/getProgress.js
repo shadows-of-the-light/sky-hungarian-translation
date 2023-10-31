@@ -84,7 +84,7 @@ ${Object.keys(categories).map((key) =>
 # Sky Magyar fordítás
 \`[${'='.repeat(percent / 4).padEnd(100 / 4, '.')}] ${percent}%\`
 ${count}db szöveg lefordítva ${requiredLines}db szövegből.
-[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
+[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 \`\`\`
 
 ## Fordításra váró elemek

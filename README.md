@@ -29,9 +29,13 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 
 ```yml
 - translations
-  - [game version] [build number]
+  - [game version] [build number] # Játék verziója
     - Localizable.strings         # Lefordított fájl
     - origianl.strings            # Eredeti fájl
+- scripts
+  - getProgress.js                # Haladás lekérő kód
+- progress.md                     # Jelenlegi haladásunk (generált)
+- translation guide.md            # Fordítási útmutató
 ```
 
 ## Közreműködés
@@ -44,4 +48,4 @@ Ha szeretnél segíteni, írj nekem Discordon. Tudok adni jogokat és megmutatha
 
 ### Elírások
 
-Ha látsz egy elírást, létrehozhatsz egy issue-t a typo címkével GitHub-on vagy írhatsz nekem Discordon.
+Ha látsz egy elírást, létrehozhatsz egy issue-t vagy PR-t a typo címkével GitHub-on vagy írhatsz nekem Discordon.

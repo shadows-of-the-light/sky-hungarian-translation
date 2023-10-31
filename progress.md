@@ -4,7 +4,7 @@
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `911 / 4707`
+- Teljes haladás: `913 / 4707`
 
 ## Kategóriák
 
@@ -39,7 +39,7 @@
 | spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
-| system | 60 / 197 | ![](https://geps.dev/progress/30) |
+| system | 62 / 197 | ![](https://geps.dev/progress/31) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
 | tutorial | 2 / 220 | ![](https://geps.dev/progress/1) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
@@ -49,13 +49,13 @@
 ```
 # Sky Magyar fordítás
 `[====.....................] 19%`
-911db szöveg lefordítva 4707db szövegből.
-[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Drive]](<https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
+913db szöveg lefordítva 4707db szövegből.
+[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 ```
 
 ## Fordításra váró elemek
 
-3796db szöveg
+3794db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -3345,8 +3345,6 @@
 - "system_gifthint_00"
 - "system_global_chat_disabled"
 - "system_global_chat_enabled"
-- "system_homebutton_00"
-- "system_homestone_00"
 - "system_homestone_01"
 - "system_joinrandomgame_00"
 - "system_joinrandomgame_01"
