@@ -5023,8 +5023,8 @@
 "system_gifthint_00" = "Exchange <candle/> with other players to unlock new friendship abilities.\n(<candle/> can be purchased or earned by lighting candles.)";
 "system_global_chat_disabled" = "Global Chat <b>Disabled</b>";
 "system_global_chat_enabled" = "Global Chat <b>Enabled</b>";
-"system_homebutton_00" = "Would you like to <b>travel</b> <8>home</8>?\n You can use the <2>Return Shrine</2> to come back here.";
-"system_homestone_00" = "Go back to <8>Home</8>?";
+"system_homebutton_00" = "<8>Haza</8> szeretnél <b>utazni</b>?\n A <2>Return Shrine-al</2> visszajöhetsz ide.";
+"system_homestone_00" = "<8>Haza</8> mész?";
 "system_homestone_01" = "Offer a <candle/> to leave your current savepoint and return <8>home</8> now?\n Or you can wait for the cool down, or find a home portal in the game.";
 "system_joinrandomgame_00" = "Join a random player in a random <8>game</8>";
 "system_joinrandomgame_01" = "Offer a <candle/> to join a random player in a random <8>game</8> now.\n(You may also wait for the cool down)";
