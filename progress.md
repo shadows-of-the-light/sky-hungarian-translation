@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/19)
+![](https://geps.dev/progress/21)
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `913 / 4707`
+- Teljes haladás: `969 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 305 / 2131 | ![](https://geps.dev/progress/14) |
+| other | 361 / 2131 | ![](https://geps.dev/progress/17) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 5 / 39 | ![](https://geps.dev/progress/13) |
@@ -48,14 +48,14 @@
 
 ```
 # Sky Magyar fordítás
-`[====.....................] 19%`
-913db szöveg lefordítva 4707db szövegből.
+`[=====....................] 21%`
+969db szöveg lefordítva 4707db szövegből.
 [[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
 ```
 
 ## Fordításra váró elemek
 
-3794db szöveg
+3738db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -3438,58 +3438,7 @@
 - "teleport_to_level_confirm_01"
 - "teleport_to_level_denied_01"
 - "text_box_pool_content"
-- "tgcoffice_don_01_01"
-- "tgcoffice_don_01_02"
-- "tgcoffice_don_01_03"
-- "tgcoffice_don_02_01"
-- "tgcoffice_don_02_02"
-- "tgcoffice_don_03_01"
-- "tgcoffice_don_04_01"
-- "tgcoffice_don_04_02"
-- "tgcoffice_don_05_01"
-- "tgcoffice_don_06_01"
-- "tgcoffice_don_07_01"
-- "tgcoffice_don_07_02"
-- "tgcoffice_don_08_01"
-- "tgcoffice_don_09_01"
-- "tgcoffice_don_10_01"
-- "tgcoffice_don_10_02"
-- "tgcoffice_don_karaoke_01"
-- "tgcoffice_don_karaoke_02"
-- "tgcoffice_halloween_01"
-- "tgcoffice_halloween_02"
-- "tgcoffice_halloween_03"
-- "tgcoffice_halloween_04"
-- "tgcoffice_halloween_05"
-- "tgcoffice_jenova_01"
-- "tgcoffice_jenova_02"
-- "tgcoffice_paul_has_cape_01"
-- "tgcoffice_paul_has_cape_02"
-- "tgcoffice_paul_has_cape_03"
-- "tgcoffice_paul_has_cape_04"
-- "tgcoffice_paul_has_cape_05"
-- "tgcoffice_paul_no_cape_01"
-- "tgcoffice_paul_no_cape_02"
-- "tgcoffice_paul_no_cape_03"
-- "tgcoffice_paul_no_cape_04"
-- "tgcoffice_paul_no_cape_05"
-- "tgcoffice_paul_openning_01"
-- "tgcoffice_paul_openning_02"
-- "tgcoffice_paul_openning_03"
-- "tgcoffice_paul_openning_04"
-- "tgcoffice_paul_openning_05"
-- "tgcoffice_scott_01"
 - "tgcoffice_scott_02"
-- "tgcoffice_scott_03"
-- "tgcoffice_scott_04"
-- "tgcoffice_vince_01"
-- "tgcoffice_vince_02"
-- "theater_prompt_01"
-- "theater_prompt_02"
-- "theater_prompt_03"
-- "theater_prompt_04"
-- "theater_prompt_05"
-- "theater_prompt_06"
 - "theater_prompt_genre_01"
 - "theater_prompt_genre_02"
 - "theater_prompt_genre_03"
@@ -3844,9 +3793,4 @@
 - "web_remote_title"
 - "web_remote_tutorial_01"
 - "web_remote_unlink_confirmation"
-- "yoshi_ann_text1"
-- "yoshi_ann_text2"
-- "yoshi_ann_text3"
-- "yoshi_ann_text4"
-- "yoshi_ann_text5"
 - "zoom_level"
