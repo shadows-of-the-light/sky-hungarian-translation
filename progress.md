@@ -4,17 +4,17 @@
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `969 / 4707`
+- Teljes haladás: `980 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 361 / 2131 | ![](https://geps.dev/progress/17) |
+| other | 371 / 2131 | ![](https://geps.dev/progress/17) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
-| button | 5 / 39 | ![](https://geps.dev/progress/13) |
+| button | 6 / 39 | ![](https://geps.dev/progress/15) |
 | commerce | - / 270 | ![](https://geps.dev/progress/0) |
 | constellation | 17 / 45 | ![](https://geps.dev/progress/38) |
 | consumable | - / 207 | ![](https://geps.dev/progress/0) |
@@ -49,13 +49,16 @@
 ```
 # Sky Magyar fordítás
 `[=====....................] 21%`
-969db szöveg lefordítva 4707db szövegből.
-[[GitHub]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>) [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
+980db szöveg lefordítva 4707db szövegből.
+- [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
+- [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
+- [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
+- [[Magyar Sky stream-ek]](<https://www.twitch.tv/csakitheone>)
 ```
 
 ## Fordításra váró elemek
 
-3738db szöveg
+3727db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -499,16 +502,8 @@
 - "book_sky_art_prairie_2"
 - "book_sky_art_prairie_3"
 - "book_sky_art_timeline_not_found"
-- "bootscreen_new_player"
-- "bootscreen_new_player_title"
-- "buddy_leader_cancel"
-- "buddy_nospirits"
-- "buddy_request"
-- "buddy_request_cancel"
-- "buddy_request_prompt"
 - "buddy_request_shrine_prompt"
 - "buddy_shout_hint"
-- "buddy_spirit_confirm"
 - "buff_effect_candle_trick"
 - "buff_effect_cat_curse"
 - "buff_effect_color"
@@ -565,7 +560,6 @@
 - "button_mapping_input_gp"
 - "button_mapping_remap"
 - "button_mapping_remap_cancel"
-- "button_mapping_reset"
 - "button_piano_00"
 - "button_piano_01"
 - "button_piano_02"
@@ -3790,7 +3784,5 @@
 - "web_remote_prompt_link"
 - "web_remote_prompt_linked"
 - "web_remote_prompt_unlink"
-- "web_remote_title"
 - "web_remote_tutorial_01"
-- "web_remote_unlink_confirmation"
 - "zoom_level"
