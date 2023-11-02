@@ -4,7 +4,7 @@
 
 //#region Paraméterek
 
-const gameVersion = '0.23.4 235043';
+const gameVersion = '0.23.5 235747';
 const showAllCategories = false;
 
 //#endregion

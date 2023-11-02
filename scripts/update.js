@@ -8,7 +8,7 @@
 //#region Paraméterek
 
 const sourceVersion = '0.23.4 235043';
-const targetVersion = 'test';
+const targetVersion = '0.23.5 235747';
 
 //#endregion
 
