@@ -630,7 +630,7 @@
 "ap16_fetch_04_confirm_leave" = "Elutazol a lélek emlékéhez a <1>Golden Wasteland</1>-be?";
 "ap16_fetch_04_confirm_return" = "Visszatérsz a lelkekhez a <1>Valley of Triumph</1>-ba?";
 "ap16_gameplay_fail" = "Az <1>elmék</1> elhalványult - maradj hozzá közel.";
-"ap16_gameplay_music_reminder" = "A voice will guide you on this journey.\nIt will be silent if you have muted the in-game music.";
+"ap16_gameplay_music_reminder" = "Egy hang fog vezetni utadon.\nNem fogod hallani, ha lenémítottad a játék zenéjét.";
 "ap16_gameplay_start" = "Kövesd a <b>hangot</b> a <1>lélek emlékn</1> át.";
 "ap16_gameplay_warning" = "Térj vissza az <1>emlékhez</1> mielőtt elhalványulna.";
 "ap17_shrine_done_1" = "A <1>léleknek</1> tetszik az új hely! ";
