@@ -544,7 +544,7 @@
 "ap14_story_tree_1a2a3b4a_cont" = "Csendben és magányosan, visszafogta a fényét, míg valaki megérkezett. Tudta, hogy ragyogásának csak úgy van értelme, ha valamire irányul.";
 "ap14_story_tree_1a2a3b4a_cont_abv" = "Csendben és magányosan...";
 "ap14_story_tree_1a2a3b4b" = "Egy bátor gyermeket látott a megvilágított sivatagban";
-"ap14_story_tree_1a2a3b4b_abv" = "Egy gyermeket látott...";
+"ap14_story_tree_1a2a3b4b_abv" = "Egy bátor gyermeket látott...";
 "ap14_story_tree_1a2a3b4b_cont" = "Büszkén ragyogva, világította az utat, amíg a gyermek a templomban menedéket talált. Örömmel segített és végre megpihent.";
 "ap14_story_tree_1a2a3b4b_cont_abv" = "Büszkén ragyogva...";
 "ap14_story_tree_1a2a3b_abv" = "A fénye elhalványult...";
@@ -553,7 +553,7 @@
 "ap14_story_tree_1a2b" = "Pislákolt már csak";
 "ap14_story_tree_1a2b3a" = "A fénye majdnem kihúnyt az égről";
 "ap14_story_tree_1a2b3a4a" = "Millió fényfolttá bomlott fel, lassan leereszkedve a földre.";
-"ap14_story_tree_1a2b3a4a_abv" = "Felbomlott...";
+"ap14_story_tree_1a2b3a4a_abv" = Millió fényfolttá...";
 "ap14_story_tree_1a2b3a4a_cont" = "A visszhangjából lények öltöttek testet. Egy csillag vége egy új élet kezdete.";
 "ap14_story_tree_1a2b3a4a_cont_abv" = "Visszhangjából...";
 "ap14_story_tree_1a2b3a4b" = "Leereszkedett a földre, a holdnál is fényesebben ragyogva.";
@@ -567,8 +567,8 @@
 "ap14_story_tree_1a2b3b4a_cont" = "Látva az utolsó ragyogását, a gyermek nem volt már magányos. Reménnyel teli, kitartott.";
 "ap14_story_tree_1a2b3b4a_cont_abv" = "Látva az utolsó ragyogását...";
 "ap14_story_tree_1a2b3b4b" = "Az utolsó fényével megsegítette a vándorló gyermeket.";
-"ap14_story_tree_1a2b3b4b_abv" = "Az utolsó fényévek...";
-"ap14_story_tree_1a2b3b4b_cont" = "Beragyogva a barlangot, a csillag biztonságba vezette a gyermeket...így tartja a jóslat.";
+"ap14_story_tree_1a2b3b4b_abv" = "Az utolsó fényével...";
+"ap14_story_tree_1a2b3b4b_cont" = "Beragyogva a barlangot, a csillag biztonságba vezette a gyermeket...ahogy azt a jóslat tartotta.";
 "ap14_story_tree_1a2b3b4b_cont_abv" = "Beragyogva a barlangot...";
 "ap14_story_tree_1a2b3b_cont" = "Hallva a segélykérését...";
 "ap14_story_tree_1a2b_cont" = "Amíg...";
@@ -576,8 +576,8 @@
 "ap14_story_tree_1b" = "Ott élt egy csöndes gyermek";
 "ap14_story_tree_1b2a" = "Társaságot keresett";
 "ap14_story_tree_1b2a3a" = "Fáradt lábai nem bírták már";
-"ap14_story_tree_1b2a3a4a" = "Egy másik gyermeket láttak belépni a barlangba.";
-"ap14_story_tree_1b2a3a4a_abv" = "Egy másik gyermeket láttak...";
+"ap14_story_tree_1b2a3a4a" = "Egy másik gyermeket látott belépni a barlangba.";
+"ap14_story_tree_1b2a3a4a_abv" = "Egy másik gyermeket látott...";
 "ap14_story_tree_1b2a3a4a_cont" = "A gyermekek egymásban társra leltek, ottonná tették a barlagot. Egy nap majd mást is szívesen fogadnak.";
 "ap14_story_tree_1b2a3a4a_cont_abv" = "A gyermekek egymásban társra leltek...";
 "ap14_story_tree_1b2a3a4b" = "Egyszer csak a kövek ragyogni kezdtek.";
@@ -594,7 +594,7 @@
 "ap14_story_tree_1b2a3b4a_cont_abv" = "Egy madárraj tört fel...";
 "ap14_story_tree_1b2a3b4b" = "Fáradtan, az alak a remegő botra támaszkodott.";
 "ap14_story_tree_1b2a3b4b_abv" = "Fáradtan,az alak...";
-"ap14_story_tree_1b2a3b4b_cont" = "A gyermek felajánlotta a fényét, erőt adva az alaknak. Együtt, ők egyesík a csillagokat.";
+"ap14_story_tree_1b2a3b4b_cont" = "A gyermek felajánlotta a fényét, erőt adva az alaknak. Együtt, ők egyesítik a csillagokat.";
 "ap14_story_tree_1b2a3b4b_cont_abv" = "A gyermek felajánlotta a fényét...";
 "ap14_story_tree_1b2a3b_abv" = "Egy templom takarta el...";
 "ap14_story_tree_1b2a3b_cont" = "Belőle egy alak emelkedett.";
@@ -606,14 +606,14 @@
 "ap14_story_tree_1b2b3a4a_cont" = "Gyertyakészítők üdvözölték. Végre a gyermek otthonra talált.";
 "ap14_story_tree_1b2b3a4a_cont_abv" = "Gyertyakészítők...";
 "ap14_story_tree_1b2b3a4b" = "Egy barlangot pillantott meg.";
-"ap14_story_tree_1b2b3a4b_cont" = "A hatalmas kamrák közt megpróbáltatások vártak rá. Azt mondták, csak ő járhat sikerrel.";
+"ap14_story_tree_1b2b3a4b_cont" = "A hatalmas falak közt megpróbáltatások vártak rá. Azt mondták, csak ő járhat sikerrel.";
 "ap14_story_tree_1b2b3a4b_cont_abv" = "A hatalmas kamrák közt...";
 "ap14_story_tree_1b2b3a_cont" = "Kikukucskálva, a nap a dombra sütött...";
 "ap14_story_tree_1b2b3b" = "Egy völgybe csúszott";
 "ap14_story_tree_1b2b3b4a" = "Egy távoli fényt látott közeledni felé.";
 "ap14_story_tree_1b2b3b4a_abv" = "Egy távoli fényt látott...";
 "ap14_story_tree_1b2b3b4a_cont" = "Az idegen egy gyertya fényét ajánlotta fel, és felé nyújtotta karját. Egy őrangyal, egy barát érkezett.";
-"ap14_story_tree_1b2b3b4a_cont_abv" = "Az idegen felajánlotta...";
+"ap14_story_tree_1b2b3b4a_cont_abv" = "Az idegen egy gyertya fényét...";
 "ap14_story_tree_1b2b3b4b" = "Felnézett az égre segítséget remlélve, és egy hunyorgó fényt látott.";
 "ap14_story_tree_1b2b3b4b_abv" = "Felnézett az égre...";
 "ap14_story_tree_1b2b3b4b_cont" = "Egy körvonal rajzolódott ki. Egy hatalmas templom. Harangot hallott, a kalandozása most kezdődött csak el.";
@@ -631,7 +631,7 @@
 "ap16_fetch_04_confirm_return" = "Visszatérsz a lelkekhez a <1>Valley of Triumph</1>-ba?";
 "ap16_gameplay_fail" = "Az <1>elmék</1> elhalványult - maradj hozzá közel.";
 "ap16_gameplay_music_reminder" = "Egy hang fog vezetni utadon.\nNem fogod hallani, ha lenémítottad a játék zenéjét.";
-"ap16_gameplay_start" = "Kövesd a <b>hangot</b> a <1>lélek emlékn</1> át.";
+"ap16_gameplay_start" = "Kövesd a <b>hangot</b> a <1>lélek emlékén</1> át.";
 "ap16_gameplay_warning" = "Térj vissza az <1>emlékhez</1> mielőtt elhalványulna.";
 "ap17_shrine_done_1" = "A <1>léleknek</1> tetszik az új hely! ";
 "ap17_shrine_enter_1" = "Tervezz egy helyet, ami enyhíti a <1>lélek</1> bánatát.";
@@ -647,7 +647,7 @@
 "ap17_shrine_invalid_3" = "Ez a tárgy a <1>lélek</1> helyén kívűl van. Helyezd közelebb a <1>lélekhez</1>.";
 "ap17_shrine_invalid_4" = "Ez a tárgy a <1>lélek</1> helyén kívűl van. Helyezd közelebb a <1>lélekhez</1>.";
 "ap17_shrine_invalid_5" = "Ez a tárgy a <1>lélek</1> helyén <b>kívűl</b> van. Helyezd <b>közelebb</b> a lélekhez.";
-"ap17_shrine_misplaced_1" = "Talám tedd ezt a tárgyat máshova?";
+"ap17_shrine_misplaced_1" = "Talán tedd ezt a tárgyat máshova?";
 "ap17_shrine_on_confirm_menu" = "A <1>lélek</1> jobban érzi magát! <b>Publikáld</b> a <2>Shared Space</2>-edet, amint befejezted az építést. Így fogsz végezni a küldetéssel.";
 "ap17_shrine_on_confirm_menu_2" = "A <1>lélek</1> jobban érzi magát! Segítsd a többi <1>lelket</1> is.";
 "ap17_shrine_on_confirm_menu_3" = "A <1>lélek</1> jobban érzi magát! Ha befejezted az építést, <b>publikáld</b> a <2>Shared Space</2>-edet, hogy végezz a küldetéssel.";
