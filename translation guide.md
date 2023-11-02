@@ -32,6 +32,8 @@ Nem kell mindent lefordítani! Amiket kihagyunk:
 | Tulajdonnevek      | `name_[valami]`                   | Pl. helyek, lelkek, stb. Így könnyebben találnak segítséget az új játékosok |
 | Resource csomagok  | `assetpack_name_[csomag]`         | Ez elronthatja a játék betöltését ha nem vigyázunk                          |
 
+A Home-ot lefordíthatjuk Otthon-ra, az elég egyéttelmű. Talán később minden tulajdonnév is mehet, mert minden fordításban megvannak. De majd ezt átgondoljuk még.
+
 #### Credits
 
 A credits részben főleg nevek vannak, kihagyjuk azokat, viszont van pár kulcs, amit fordítunk:

@@ -4,14 +4,14 @@
 
 - Játék verziója: `0.23.4 235043`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `980 / 4707`
+- Teljes haladás: `1010 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 371 / 2131 | ![](https://geps.dev/progress/17) |
+| other | 373 / 2131 | ![](https://geps.dev/progress/18) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
@@ -33,7 +33,7 @@
 | menu | - / 20 | ![](https://geps.dev/progress/0) |
 | message | - / 9 | ![](https://geps.dev/progress/0) |
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
-| relationship | 1 / 58 | ![](https://geps.dev/progress/2) |
+| relationship | 29 / 58 | ![](https://geps.dev/progress/50) |
 | season | - / 180 | ![](https://geps.dev/progress/0) |
 | social | 43 / 47 | ![](https://geps.dev/progress/91) |
 | spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=====....................] 21%`
-980db szöveg lefordítva 4707db szövegből.
+1010db szöveg lefordítva 4707db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3727db szöveg
+3697db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -2149,8 +2149,6 @@
 - "julian_ann_text2"
 - "julian_ann_text3"
 - "leave_level_during_quest"
-- "local_notification_friend_has_reborn"
-- "local_notification_friend_wax_gift"
 - "local_notification_reacted_to_geonote"
 - "local_notification_reacted_to_recording"
 - "local_notification_reacted_to_stage"
@@ -2821,13 +2819,7 @@
 - "recorder_retry_confirm"
 - "redeem_failed"
 - "redeem_success"
-- "relationship_accept_gift_message"
-- "relationship_accept_gift_title"
-- "relationship_addfriend"
-- "relationship_bearhug"
 - "relationship_block"
-- "relationship_carry"
-- "relationship_chat"
 - "relationship_confirm_mute"
 - "relationship_confirm_reportplayer"
 - "relationship_confirm_unmute"
@@ -2835,31 +2827,11 @@
 - "relationship_confirm_warp_unblock"
 - "relationship_delete"
 - "relationship_disabled_inair"
-- "relationship_dnd_notice"
-- "relationship_doublefive"
-- "relationship_duetdance"
 - "relationship_favorite"
 - "relationship_favorite_max"
-- "relationship_fistbump"
 - "relationship_giftmsg_locked"
-- "relationship_giftmsg_redeem_confirm"
-- "relationship_giftmsg_redeem_tut"
-- "relationship_giftmsg_send_confirm"
-- "relationship_giftmsg_send_tut"
-- "relationship_hairtousle"
-- "relationship_handhold"
-- "relationship_handshake"
 - "relationship_heartx5"
-- "relationship_highfive"
-- "relationship_hug"
-- "relationship_join_fail"
-- "relationship_join_fail_friend_upgrade_client"
-- "relationship_join_fail_no_level_permission"
 - "relationship_join_fail_no_warp"
-- "relationship_join_fail_not_online"
-- "relationship_join_fail_same_level"
-- "relationship_join_fail_trial"
-- "relationship_join_fail_upgrade_client"
 - "relationship_join_version_mismatch"
 - "relationship_link"
 - "relationship_mute"
@@ -2868,9 +2840,7 @@
 - "relationship_rename"
 - "relationship_rename_title"
 - "relationship_setname"
-- "relationship_sidehug"
 - "relationship_teleport"
-- "relationship_tier"
 - "relationship_unblock"
 - "relationship_unfavorite"
 - "relationship_unlink"
