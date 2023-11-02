@@ -1,5 +1,13 @@
+/**
+ * @fileoverview Ez a kód a fordítás haladását számítja ki és írja ki a progress.md fájlba.
+ */
+
+//#region Paraméterek
+
 const gameVersion = '0.23.4 235043';
 const showAllCategories = false;
+
+//#endregion
 
 const fs = require('fs');
 const path = require('path');
