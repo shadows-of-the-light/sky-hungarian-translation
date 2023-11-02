@@ -482,7 +482,7 @@
 "ap12_fetch_05_manta_02" = "Ride the Great Manta back to the Island.";
 "ap12_fetch_05_meditate" = "Rescue the trapped mantas and clear away the darkness.";
 "ap14_fetch_01_confirm" = "<2>Első felvonás:</2>\nÁllítsd fel a színpadot, hogy úgy nézzen ki, mint a <1>Hidden Forest</1>.";
-"ap14_fetch_01_effects_01" = "Mostantól használhatod a <2>színpadot</2> a <2>a beállítókarjaival</2> amikor szeretnéd.";
+"ap14_fetch_01_effects_01" = "Mostantól használhatod a <2>színpadot</2> a <2>beállítókarjaival</2> amikor szeretnéd.";
 "ap14_fetch_01_impact" = "<hinticon/> A beállítókarok sokfélre dologra jók a színpadon.";
 "ap14_fetch_01_numerous" = "<hinticon/> Néhány beállítókar többször lehet meghúzva különböző hatásokért.";
 "ap14_fetch_01_start" = "Segíts a <1>Frantic Stagehand</1>-nek felállítani a színpadot, hogy úgy nézzen ki, mint a <1>Hidden Forest</1>.";
@@ -508,7 +508,7 @@
 "ap14_fetch_05_desc_01" = "Úgy tűnik, nem bíznak magukban...";
 "ap14_fetch_05_desc_02" = "Próbáld meg felvidítani őket!";
 "ap14_fetch_05_desc_03" = "Az utolsó előadás estéje elérkezett";
-"ap14_fetch_05_help_dancer" = "A <1>Modest Dancer</1> lámpalázas és nem tud szerepelni - segítsd neki!";
+"ap14_fetch_05_help_dancer" = "A <1>Modest Dancer</1> lámpalázas és nem tud szerepelni - segíts neki!";
 "ap14_fetch_05_improvise_dance" = "Használd a <b>Kifejezéseidet</b>, hogy gyakorolj a <1>Modest Dancer</1>-rel!";
 "ap14_fetch_05_improvise_music" = "Improvizálj a <1>Mellow Musician</1>-nel, amíg a <1>Modest Dancer</1> összeszedi magát!";
 "ap14_fetch_05_start" = Segíts a <1>Modest Dancer</1>-nek lezárni a nagy show-t!";
