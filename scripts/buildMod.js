@@ -40,6 +40,10 @@ function mkdirsSync(dirPath) {
     }
 }
 
+if (fs.existsSync(modFolder)) {
+    fs.rmSync(modFolder, { recursive: true });
+}
+
 mkdirsSync(modFolder);
 fs.writeFileSync(metaFile, JSON.stringify(meta, null, 4));
 
