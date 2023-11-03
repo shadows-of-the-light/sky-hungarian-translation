@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/21)
+![](https://geps.dev/progress/22)
 
 - Játék verziója: `0.23.5 235747`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `1010 / 4707`
+- Teljes haladás: `1017 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 373 / 2131 | ![](https://geps.dev/progress/18) |
+| other | 380 / 2131 | ![](https://geps.dev/progress/18) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
@@ -48,8 +48,8 @@
 
 ```
 # Sky Magyar fordítás
-`[=====....................] 21%`
-1010db szöveg lefordítva 4707db szövegből.
+`[=====....................] 22%`
+1017db szöveg lefordítva 4707db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3697db szöveg
+3690db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -92,13 +92,6 @@
 - "ap11_fetch_05_reflect_03"
 - "ap11_fetch_05_sunset_06"
 - "ap11_fetch_07_outro_based_03"
-- "ap11_fetch_07_outro_geographer_01"
-- "ap11_fetch_07_outro_king_01"
-- "ap11_fetch_07_outro_lamplighter_01"
-- "ap11_fetch_07_outro_merchant_01"
-- "ap11_fetch_07_outro_narc_01"
-- "ap11_fetch_07_outro_prince_02"
-- "ap11_fetch_07_outro_slouch_01"
 - "ap12_fetch_01_candle_01"
 - "ap12_fetch_01_candle_02"
 - "ap12_fetch_01_candle_03"
