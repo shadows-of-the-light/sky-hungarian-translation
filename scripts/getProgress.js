@@ -12,10 +12,10 @@ const fs = require('fs');
 const path = require('path');
 
 // Get the latest game version. It's the biggest number in the translations folder.
-const gameVersion = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
+const gameBuild = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
 
-const file1 = path.join(__dirname, '..', 'translations', gameVersion, 'Localizable.strings');
-const file2 = path.join(__dirname, '..', 'translations', gameVersion, 'original.strings');
+const file1 = path.join(__dirname, '..', 'translations', gameBuild, 'Localizable.strings');
+const file2 = path.join(__dirname, '..', 'translations', gameBuild, 'original.strings');
 
 const file1Lines = fs.readFileSync(file1, 'utf8').split('\n');
 const file2Lines = fs.readFileSync(file2, 'utf8').split('\n');
@@ -76,7 +76,7 @@ const output = `
 
 ![](https://geps.dev/progress/${percent})
 
-- Játék verziója: \`${gameVersion}\`
+- Játék verziója: \`${gameBuild}\`
 - Nyelv fájl hossza: \`${file1Lines.length}\`
 - Teljes haladás: \`${count} / ${requiredLines}\`
 

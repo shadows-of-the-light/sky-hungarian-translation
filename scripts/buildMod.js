@@ -6,13 +6,14 @@ const fs = require('fs');
 const path = require('path');
 
 const modName = 'Magyar nyelv';
-const gameVersion = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
+const gameBuild = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
+const gameVersion = `0.23.4 ${gameBuild}`;
 
 const modFolder = path.join(__dirname, `../build/${modName}`);
 const metaFile = path.join(modFolder, 'meta.json');
 
-const file1 = path.join(__dirname, '..', 'translations', gameVersion, 'Localizable.strings');
-const file2 = path.join(__dirname, '..', 'translations', gameVersion, 'original.strings');
+const file1 = path.join(__dirname, '..', 'translations', gameBuild, 'Localizable.strings');
+const file2 = path.join(__dirname, '..', 'translations', gameBuild, 'original.strings');
 
 const file1Lines = fs.readFileSync(file1, 'utf8').split('\n');
 const file2Lines = fs.readFileSync(file2, 'utf8').split('\n');
@@ -20,7 +21,7 @@ const file2Lines = fs.readFileSync(file2, 'utf8').split('\n');
 const differentLinesCount = file1Lines.filter((line, index) => line !== file2Lines[index]).length;
 
 const meta = {
-    "modVersion": `${gameVersion.split(' ')[0]}.${differentLinesCount}`,
+    "modVersion": `${gameBuild}.${differentLinesCount}`,
     "author": "Magyar Sky közösség",
     "description": "Magyar fordítás Sky-hoz.",
     "gameVersion": gameVersion,
