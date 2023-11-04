@@ -2,7 +2,7 @@
 
 ![](https://geps.dev/progress/25)
 
-- Játék verziója: `0.23.5 235747`
+- Játék verziója: `235905`
 - Nyelv fájl hossza: `5594`
 - Teljes haladás: `1186 / 4708`
 

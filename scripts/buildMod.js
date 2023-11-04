@@ -2,11 +2,11 @@
  * @fileoverview Ez a kód egy Sky Mods Manager-ben használható mod-ot készít a fordításból.
  */
 
-const modName = 'Magyar nyelv'
-const gameVersion = '0.23.5 235747'
-
 const fs = require('fs');
 const path = require('path');
+
+const modName = 'Magyar nyelv';
+const gameVersion = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
 
 const modFolder = path.join(__dirname, `../build/${modName}`);
 const metaFile = path.join(modFolder, 'meta.json');

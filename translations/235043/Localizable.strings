@@ -1,4 +1,4 @@
-/* This file is auto-generated, please don't manually edit, use LocalizationTool! */
+/* Yay! */
 "accept_addfriend" = "Szeretnél ennek a játékosnak a barátja lenni?";
 "accept_bearhug" = "Feloldod a <2>nagy ölelést</2>?";
 "accept_carry" = "Feloldod a <2>cipelést</2>?";
@@ -268,7 +268,7 @@
 "ap11_fetch_02_jelly_01" = "A lények énekelnek ebben a barlangban?";
 "ap11_fetch_02_jelly_02" = "Szerintem velünk énekelnének.";
 "ap11_fetch_02_meet_01" = "Eltévedtem...";
-"ap11_fetch_02_meet_02" = "Tudod a kivezető utat?";
+"ap11_fetch_02_meet_02" = "Ismered a kivezető utat?";
 "ap11_fetch_02_outro_01" = "Mag voltam, amikor a barátom rámtalált. ";
 "ap11_fetch_02_outro_02" = "Neki ragyogva virágzok. ";
 "ap11_fetch_02_outro_03" = "Most új bolygók után kutat, ";
@@ -423,7 +423,7 @@
 "ap11_fetch_07_outro_merchant_02" = "Üzletember";
 "ap11_fetch_07_outro_narc_01" = "Gloating Narcissist";
 "ap11_fetch_07_outro_narc_02" = "Hiú";
-"ap11_fetch_07_outro_prince_02" = "mint";
+"ap11_fetch_07_outro_prince_02" = "as";
 "ap11_fetch_07_outro_slouch_01" = "Slouching Soldier";
 "ap11_fetch_07_outro_slouch_02" = "Iszákos";
 "ap11_fetch_07_outro_thank_01" = "Köszönjük a játékot...";
@@ -436,7 +436,7 @@
 "ap11_spirit_gloating_02" = "Széles e bolygón én vagyok a legszebb, a legjobban öltözött, a leggazdagabb és a legokosabb.";
 "ap11_spirit_gloating_03" = "De hiszen te egyedül vagy a bolygódon!";
 "ap11_spirit_gloating_04" = "Azért mégiscsak csodálj!";
-"ap11_spirit_gloating_05" = "Szó, mi szó, a felnőttek nagyon-nagyon furcsák.";
+"ap11_spirit_gloating_05" = "Szó, ami szó, a felnőttek nagyon-nagyon furcsák.";
 "ap11_spirit_scheme_01" = "Mit csinálsz ezekkel a csillagokkal?";
 "ap11_spirit_scheme_02" = "Semmit. Birtoklom őket. Ötszázmillió-egyet.";
 "ap11_spirit_scheme_03" = "És mire jó neked, hogy birtoklod a csillagokat?";
@@ -5590,4 +5590,3 @@
 "yoshi_ann_text4" = "Viszlát újra a Mischief Barlangnál!";
 "yoshi_ann_text5" = "Egészségünkre!";
 "zoom_level" = "+/-";
-

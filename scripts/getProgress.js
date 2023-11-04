@@ -4,13 +4,15 @@
 
 //#region Paraméterek
 
-const gameVersion = '0.23.5 235747';
 const showAllCategories = false;
 
 //#endregion
 
 const fs = require('fs');
 const path = require('path');
+
+// Get the latest game version. It's the biggest number in the translations folder.
+const gameVersion = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
 
 const file1 = path.join(__dirname, '..', 'translations', gameVersion, 'Localizable.strings');
 const file2 = path.join(__dirname, '..', 'translations', gameVersion, 'original.strings');

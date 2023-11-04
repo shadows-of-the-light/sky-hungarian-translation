@@ -29,13 +29,13 @@ A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis p
 
 ```yml
 - translations
-  - [game version] [build number] # Játék verziója
-    - Localizable.strings         # Lefordított fájl
-    - origianl.strings            # Eredeti fájl
+  - [build number]        # Játék verziója
+    - Localizable.strings # Lefordított fájl
+    - origianl.strings    # Eredeti fájl
 - scripts
-  - getProgress.js                # Haladás lekérő kód
-- progress.md                     # Jelenlegi haladásunk (generált)
-- translation guide.md            # Fordítási útmutató
+  - getProgress.js        # Haladás lekérő kód
+- progress.md             # Jelenlegi haladásunk (generált)
+- translation guide.md    # Fordítási útmutató
 ```
 
 ## Közreműködés
