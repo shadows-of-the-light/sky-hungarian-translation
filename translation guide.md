@@ -67,15 +67,16 @@ A [kihagyott szövegekhez](#kihagyott-szövegek) hasonlóan vannak kisebb egysé
 
 Vannak szavak és kifejezések, amiket többféleképp is lehet fordítani, de annyira fontosak a játékban, hogy érdemes lenne figyelni, hogy ezek mindig ugyanúgy legyenek lefordítva.
 
-| Angol         | Magyar           |
-| ------------- | ---------------- |
-| Elder         | Ős               |
-| Quest         | Küldetés         |
-| Season        | Szezon           |
-| Shared Memory | Megosztott Emlék |
-| Shared Space  | Megosztott Tér   |
-| Spirit        | Lélek            |
-| Temple        | Templom          |
+| Angol         | Magyar                 |
+| ------------- | ---------------------- |
+| Call          | Kiáltás (ez változhat) |
+| Elder         | Ős                     |
+| Quest         | Küldetés               |
+| Season        | Szezon                 |
+| Shared Memory | Megosztott Emlék       |
+| Shared Space  | Megosztott Tér         |
+| Spirit        | Lélek                  |
+| Temple        | Templom                |
 
 ### Hangnem
 
