@@ -511,7 +511,7 @@
 "ap14_fetch_05_help_dancer" = "A <1>Modest Dancer</1> lámpalázas és nem tud szerepelni - segíts neki!";
 "ap14_fetch_05_improvise_dance" = "Használd a <b>Kifejezéseidet</b>, hogy gyakorolj a <1>Modest Dancer</1>-rel!";
 "ap14_fetch_05_improvise_music" = "Improvizálj a <1>Mellow Musician</1>-nel, amíg a <1>Modest Dancer</1> összeszedi magát!";
-"ap14_fetch_05_start" = Segíts a <1>Modest Dancer</1>-nek lezárni a nagy show-t!";
+"ap14_fetch_05_start" = "Segíts a <1>Modest Dancer</1>-nek lezárni a nagy show-t!";
 "ap14_fetch_05_table" = "Látogasd meg a tervezőasztalt mielőtt a finálé elkezdődik.";
 "ap14_finale_tree_0" = "És most...";
 "ap14_finale_tree_1a" = "Örömmel mutatjuk be...";
@@ -553,7 +553,7 @@
 "ap14_story_tree_1a2b" = "Pislákolt már csak";
 "ap14_story_tree_1a2b3a" = "A fénye majdnem kihúnyt az égről";
 "ap14_story_tree_1a2b3a4a" = "Millió fényfolttá bomlott fel, lassan leereszkedve a földre.";
-"ap14_story_tree_1a2b3a4a_abv" = Millió fényfolttá...";
+"ap14_story_tree_1a2b3a4a_abv" = "Millió fényfolttá...";
 "ap14_story_tree_1a2b3a4a_cont" = "A visszhangjából lények öltöttek testet. Egy csillag vége egy új élet kezdete.";
 "ap14_story_tree_1a2b3a4a_cont_abv" = "Visszhangjából...";
 "ap14_story_tree_1a2b3a4b" = "Leereszkedett a földre, a holdnál is fényesebben ragyogva.";
@@ -2929,7 +2929,7 @@
 "game_button_util_menu" = "Menü";
 "game_button_zoom" = "Nagyítás";
 "game_button_zoom_in" = "Nagyítás";
-"game_button_zoom_out" = Kicsinyítés";
+"game_button_zoom_out" = "Kicsinyítés";
 "gen_shop_hint_confirm_count_lootbox" = "This <b>blessing</b> contains a certain <2>{{1}} Spell </2>";
 "gen_shop_hint_confirm_count_name" = "{{1}} x <2>{{2}} Spell </2> ";
 "gen_shop_hint_confirm_for" = "ennyiért:";
@@ -4545,7 +4545,7 @@
 "spirit_shop_ap06_cant_redeem_at_home_questap17" = "Menj vissza a <1>Remembrance Guide</1>-hoz a Vault raktárához a <b>Vault of Knowledge</b>-ben";
 "spirit_shop_ap06_cant_redeem_at_home_questap18" = "<b>Menj vissza</b> a <2>Passage Stone</2>-hoz, hogy üdvözöld a <1>tinédzsereket</1> és ezzel befejezed a <b>küldetést</b>.";
 "spirit_shop_ap06_cant_start_at_home" = "Látogasd meg a <1>Lelket</1> a Sky világában, hogy lásd, milyen kalandok várnak.";
-"spirit_shop_ap06_cant_start_at_home_questap06" = "Keresd meg a <2>csónakot</2> a <b>Golden Wasteland</b>-ben, hogy a <1>Lelket</1> meglátogasd egy elhagyatott 
+"spirit_shop_ap06_cant_start_at_home_questap06" = "Keresd meg a <2>csónakot</2> a <b>Golden Wasteland</b>-ben, hogy a <1>Lelket</1> meglátogasd egy elhagyatott földön.";
 "spirit_shop_ap06_cant_start_at_home_questap07" = "Látogasd meg a <1>Lelket</1> egy szigeten a <b>Daylight Prairie</b> fellegei alatt.";
 "spirit_shop_ap06_cant_start_at_home_questap08" = "Látogasd meg a <1>Lelket</1> a <b>Cave of Prophecies</b> barlangban.";
 "spirit_shop_ap06_cant_start_at_home_questap09" = "Látogasd meg a <1>Lelket</1> a faluban a <b>Valley of Triumph</b>-ban.";
@@ -4595,7 +4595,7 @@
 "spirit_shop_ap06unlock_ap09_fetch_05_task_desc" = "A <1>Léleknek</1> eszébe jut a stadion. Menj és éld át a debütáló előadást.";
 "spirit_shop_ap06unlock_ap09_fetch_05_task_done" = "Átélted, ahogy álmok valóra válnak. Menj vissza a <1>Lélekhez</1> a faluban.";
 "spirit_shop_ap06unlock_ap10_fetch_01_task_claimed" = "nem vagy benne biztos, hogy kell-e ez nekünk?";
-"spirit_shop_ap06unlock_ap10_fetch_01_task_desc" = Látogasd meg a Felderítőket a <b>Forest Entrance</b> bejáratnál segítségért.";
+"spirit_shop_ap06unlock_ap10_fetch_01_task_desc" = "Látogasd meg a Felderítőket a <b>Forest Entrance</b> bejáratnál segítségért.";
 "spirit_shop_ap06unlock_ap10_fetch_01_task_desc_02" = "Sok időbe fog telni megjavítani ezt a lombházat...";
 "spirit_shop_ap06unlock_ap10_fetch_01_task_desc_03" = "Bárcsak valahogy <b>eltehetnénk a dolgokat</b>?";
 "spirit_shop_ap06unlock_ap10_fetch_01_task_done" = "Vidd vissza ezt a <b>könyvespolcot</b> a lombházba, hogy elkészülj.";
@@ -5590,4 +5590,3 @@
 "yoshi_ann_text4" = "Viszlát újra a Mischief Barlangnál!";
 "yoshi_ann_text5" = "Egészségünkre!";
 "zoom_level" = "+/-";
-

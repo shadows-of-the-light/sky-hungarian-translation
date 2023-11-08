@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/25)
+![](https://geps.dev/progress/26)
 
 - Játék verziója: `235905`
-- Nyelv fájl hossza: `5594`
-- Teljes haladás: `1186 / 4708`
+- Nyelv fájl hossza: `5593`
+- Teljes haladás: `1216 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 549 / 2132 | ![](https://geps.dev/progress/26) |
+| other | 573 / 2131 | ![](https://geps.dev/progress/27) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
@@ -27,7 +27,7 @@
 | game | 19 / 26 | ![](https://geps.dev/progress/73) |
 | howtoplay | - / 90 | ![](https://geps.dev/progress/0) |
 | intro | - / 23 | ![](https://geps.dev/progress/0) |
-| invite | 5 / 69 | ![](https://geps.dev/progress/7) |
+| invite | 9 / 69 | ![](https://geps.dev/progress/13) |
 | mainstreet | - / 15 | ![](https://geps.dev/progress/0) |
 | meditation | - / 150 | ![](https://geps.dev/progress/0) |
 | menu | - / 20 | ![](https://geps.dev/progress/0) |
@@ -41,15 +41,15 @@
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 62 / 197 | ![](https://geps.dev/progress/31) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
-| tutorial | 2 / 220 | ![](https://geps.dev/progress/1) |
+| tutorial | 4 / 220 | ![](https://geps.dev/progress/2) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
 
 ## Discord üzenet
 
 ```
 # Sky Magyar fordítás
-`[======...................] 25%`
-1186db szöveg lefordítva 4708db szövegből.
+`[======...................] 26%`
+1216db szöveg lefordítva 4707db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3522db szöveg
+3491db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -79,8 +79,6 @@
 - "activity_birthday_2023_friend_interaction"
 - "activity_birthday_2023_wax_collection"
 - "activity_darkstone_burn_objective_prompt"
-- "allow_notifications_favorite"
-- "allow_notifications_shrine"
 - "ap06unlock_ap18_fetch_01"
 - "ap06unlock_ap18_fetch_02"
 - "ap06unlock_ap18_fetch_03"
@@ -257,30 +255,9 @@
 - "aurora_audiencethankful01"
 - "aurora_audiencethankful03"
 - "aurora_audiencethankful04"
-- "aurora_banter01"
-- "aurora_banter02"
-- "aurora_banter03"
 - "aurora_banter04"
 - "aurora_banter04_alt"
-- "aurora_banter05"
-- "aurora_banter06"
-- "aurora_banter07"
-- "aurora_banter07_alt"
-- "aurora_banter08"
-- "aurora_banter09"
-- "aurora_banter10"
-- "aurora_banter10_alt"
-- "aurora_banter11"
 - "aurora_banter12"
-- "aurora_banter13"
-- "aurora_banter13_alt"
-- "aurora_banter14"
-- "aurora_banter14_alt"
-- "aurora_custom01"
-- "aurora_custom02"
-- "aurora_custom03"
-- "aurora_custom04"
-- "aurora_custom05"
 - "aurora_holiday01"
 - "aurora_holiday02"
 - "aurora_holiday03"
@@ -1951,15 +1928,11 @@
 - "invite_qr_tip_1b"
 - "invite_qr_tip_2"
 - "invite_qr_title"
-- "invite_received_button"
 - "invite_received_none"
-- "invite_received_title"
 - "invite_scan_code"
 - "invite_send_code"
 - "invite_sent_none"
 - "invite_sent_ratio"
-- "invite_sent_title"
-- "invite_sky_code_title"
 - "invite_sony_button"
 - "invite_sony_no_friends"
 - "invite_sony_title"
@@ -1975,9 +1948,6 @@
 - "julian_ann_text2"
 - "julian_ann_text3"
 - "leave_level_during_quest"
-- "local_notification_reacted_to_geonote"
-- "local_notification_reacted_to_recording"
-- "local_notification_reacted_to_stage"
 - "local_notification_received_invite"
 - "local_notification_social_feed_blocked"
 - "local_notification_social_feed_removed"
@@ -3338,7 +3308,6 @@
 - "trophy_pack_base_desc"
 - "trophy_pack_base_name"
 - "tutorial_birthdaycake_candlegate_00"
-- "tutorial_burn_darkness_00"
 - "tutorial_camera_00"
 - "tutorial_camera_00_pc"
 - "tutorial_camera_00_pro"
@@ -3348,7 +3317,6 @@
 - "tutorial_candle_trick_00"
 - "tutorial_candle_trick_01"
 - "tutorial_candlegate_00"
-- "tutorial_cant_place_00"
 - "tutorial_charge_butterflies"
 - "tutorial_collectible_00"
 - "tutorial_collectible_00_pc"
