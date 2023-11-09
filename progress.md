@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/26)
+![](https://geps.dev/progress/28)
 
 - Játék verziója: `235905`
 - Nyelv fájl hossza: `5593`
-- Teljes haladás: `1216 / 4707`
+- Teljes haladás: `1310 / 4707`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 573 / 2131 | ![](https://geps.dev/progress/27) |
+| other | 667 / 2131 | ![](https://geps.dev/progress/31) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
@@ -48,8 +48,8 @@
 
 ```
 # Sky Magyar fordítás
-`[======...................] 26%`
-1216db szöveg lefordítva 4707db szövegből.
+`[=======..................] 28%`
+1310db szöveg lefordítva 4707db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3491db szöveg
+3397db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -163,78 +163,6 @@
 - "ap18_fetch_05_ritual_start_01"
 - "ap18_fetch_05_ritual_start_02"
 - "ap18_passage_reward_available"
-- "ap19_quest01_info1"
-- "ap19_quest01_info2"
-- "ap19_quest01_info3"
-- "ap19_quest01_info4"
-- "ap19_quest01_info5"
-- "ap19_quest01_info6"
-- "ap19_quest01_photo1"
-- "ap19_quest01_photo1_hint"
-- "ap19_quest01_photo2"
-- "ap19_quest01_photo2_hint"
-- "ap19_quest01_photo3"
-- "ap19_quest01_photo3_hint"
-- "ap19_quest01_photo4"
-- "ap19_quest01_photo4_hint"
-- "ap19_quest01_photo5"
-- "ap19_quest01_photo5_hint"
-- "ap19_quest01_photo6"
-- "ap19_quest01_photo6_hint"
-- "ap19_quest02_hint1"
-- "ap19_quest02_hint2"
-- "ap19_quest02_hint3"
-- "ap19_quest02_hint4"
-- "ap19_quest02_hint5"
-- "ap19_quest02_hint6"
-- "ap19_quest02_info1"
-- "ap19_quest02_info2"
-- "ap19_quest02_info3"
-- "ap19_quest02_info4"
-- "ap19_quest02_info5"
-- "ap19_quest03_hint1"
-- "ap19_quest03_hint2"
-- "ap19_quest03_hint3"
-- "ap19_quest03_hint4"
-- "ap19_quest03_hint5"
-- "ap19_quest03_info1"
-- "ap19_quest03_info2"
-- "ap19_quest03_meditationhint"
-- "ap19_quest04_hint1"
-- "ap19_quest04_hint2"
-- "ap19_quest04_hint3"
-- "ap19_quest04_hint4"
-- "ap19_quest04_hint5"
-- "ap19_quest04_hint6"
-- "ap19_quest04_info1"
-- "ap19_quest04_info2"
-- "ap19_quest04_info3"
-- "ap19_quest04_info4"
-- "ap19_quest04_info5"
-- "ap19_quest04_meditationhint"
-- "ap19_quest05_hint1"
-- "ap19_quest05_hint10"
-- "ap19_quest05_hint11"
-- "ap19_quest05_hint12"
-- "ap19_quest05_hint13"
-- "ap19_quest05_hint2"
-- "ap19_quest05_hint3"
-- "ap19_quest05_hint4"
-- "ap19_quest05_hint5"
-- "ap19_quest05_hint6"
-- "ap19_quest05_hint7"
-- "ap19_quest05_hint8"
-- "ap19_quest05_hint9"
-- "ap19_quest05_info1"
-- "ap19_quest05_info2"
-- "ap19_quest05_info3"
-- "ap19_quest05_info4"
-- "ap19_quest05_info5"
-- "ap19_quest05_info6"
-- "ap19_quest05_meditationhint"
-- "ap19_quests_encouraging1"
-- "ap19_quests_encouraging2"
-- "ap19_quests_encouraging3"
 - "ap20_town_name"
 - "applemusic_menu_link"
 - "applemusic_menu_message"
@@ -1743,12 +1671,6 @@
 - "hint_teleport_00"
 - "hint_visit_spirit_to_continue_quest_00"
 - "hint_warp_00"
-- "home_intro_00"
-- "home_intro_01"
-- "home_intro_02"
-- "home_intro_03"
-- "home_intro_04"
-- "home_intro_05"
 - "host_ann_text1"
 - "host_ann_text2"
 - "howtoplay_basics_0_title"
@@ -3039,22 +2961,6 @@
 - "stormy_hint_rain_01"
 - "stormy_hint_storm_01"
 - "stormy_hint_sunset_01"
-- "story_dawn_calltoaction_01"
-- "story_dawn_calltoaction_02"
-- "story_dawn_candle_01"
-- "story_dawn_candle_02"
-- "story_dawn_child_come_01"
-- "story_dawn_child_to_temple_01"
-- "story_dawn_child_to_temple_02"
-- "story_dawn_constellation_gate_01"
-- "story_dawn_constellation_gate_02"
-- "story_dawn_constellation_gate_03"
-- "story_dawn_murals_death_01"
-- "story_dawn_murals_death_02"
-- "story_dawn_murals_growth_01"
-- "story_dawn_murals_growth_02"
-- "story_dawn_murals_harmony_01"
-- "story_dawn_murals_harmony_02"
 - "support_dialog_title"
 - "support_faq_url"
 - "support_qr_scan"
