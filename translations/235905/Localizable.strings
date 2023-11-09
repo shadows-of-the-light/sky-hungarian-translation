@@ -488,7 +488,7 @@
 "ap14_fetch_01_start" = "Segíts a <1>Frantic Stagehand</1>-nek felállítani a színpadot, hogy úgy nézzen ki, mint a <1>Hidden Forest</1>.";
 "ap14_fetch_02_confirm" = "<2>Második felvonás:</2>\nÍrd meg az <1>Isle of Dawn</1> történetét.";
 "ap14_fetch_02_desc_01" = "A <1>Forgetful Storyteller</1> elfelejtette a sorait.";
-"ap14_fetch_02_direct" = "<hinticon/>Írányítsd a történetet, hogy izgalmas cselekménye legyen.";
+"ap14_fetch_02_direct" = "<hinticon/> Írányítsd a történetet, hogy izgalmas cselekménye legyen.";
 "ap14_fetch_02_effects_01" = "A <2>narrátor széke</2> és...";
 "ap14_fetch_02_effects_02" = "a <2>súgó</2> mostmár elérhető";
 "ap14_fetch_02_start" = "Segítsd a <1>Forgetful Storyteller</1>-t történetet írni a <1>Isle of Dawn</1>-ról.";
