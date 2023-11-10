@@ -2,23 +2,23 @@
 
 ![](https://geps.dev/progress/28)
 
-- Játék verziója: `235905`
-- Nyelv fájl hossza: `5593`
-- Teljes haladás: `1310 / 4707`
+- Játék verziója: `236343`
+- Nyelv fájl hossza: `5638`
+- Teljes haladás: `1309 / 4751`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
-| skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 667 / 2131 | ![](https://geps.dev/progress/31) |
+| skipped | 887 / 887 | ![](https://geps.dev/progress/100) |
+| other | 668 / 2156 | ![](https://geps.dev/progress/31) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
-| commerce | - / 270 | ![](https://geps.dev/progress/0) |
+| commerce | - / 274 | ![](https://geps.dev/progress/0) |
 | constellation | 17 / 45 | ![](https://geps.dev/progress/38) |
 | consumable | - / 207 | ![](https://geps.dev/progress/0) |
-| control | 11 / 11 | ![](https://geps.dev/progress/100) |
+| control | 11 / 12 | ![](https://geps.dev/progress/92) |
 | currency | - / 15 | ![](https://geps.dev/progress/0) |
 | daily | - / 269 | ![](https://geps.dev/progress/0) |
 | display | - / 4 | ![](https://geps.dev/progress/0) |
@@ -28,20 +28,20 @@
 | howtoplay | - / 90 | ![](https://geps.dev/progress/0) |
 | intro | - / 23 | ![](https://geps.dev/progress/0) |
 | invite | 9 / 69 | ![](https://geps.dev/progress/13) |
-| mainstreet | - / 15 | ![](https://geps.dev/progress/0) |
+| mainstreet | - / 16 | ![](https://geps.dev/progress/0) |
 | meditation | - / 150 | ![](https://geps.dev/progress/0) |
 | menu | - / 20 | ![](https://geps.dev/progress/0) |
 | message | - / 9 | ![](https://geps.dev/progress/0) |
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
 | relationship | 29 / 58 | ![](https://geps.dev/progress/50) |
 | season | - / 180 | ![](https://geps.dev/progress/0) |
-| social | 43 / 47 | ![](https://geps.dev/progress/91) |
-| spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
+| social | 43 / 60 | ![](https://geps.dev/progress/72) |
+| spirit | 267 / 274 | ![](https://geps.dev/progress/97) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 62 / 197 | ![](https://geps.dev/progress/31) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
-| tutorial | 4 / 220 | ![](https://geps.dev/progress/2) |
+| tutorial | 4 / 223 | ![](https://geps.dev/progress/2) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
 
 ## Discord üzenet
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 28%`
-1310db szöveg lefordítva 4707db szövegből.
+1309db szöveg lefordítva 4751db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3397db szöveg
+3442db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -163,6 +163,10 @@
 - "ap18_fetch_05_ritual_start_01"
 - "ap18_fetch_05_ritual_start_02"
 - "ap18_passage_reward_available"
+- "ap20_fetch05_hint01"
+- "ap20_fetch05_hint02"
+- "ap20_fetch05_hint03"
+- "ap20_fetch05_hint04"
 - "ap20_town_name"
 - "applemusic_menu_link"
 - "applemusic_menu_message"
@@ -319,6 +323,8 @@
 - "button_unavailable_teleport_to_same_level"
 - "camera_to_2d"
 - "camera_to_3d"
+- "change_home_confirmation"
+- "change_home_return"
 - "changed_reservation_seat"
 - "chat_global_enabled_message"
 - "chat_message_local"
@@ -672,6 +678,8 @@
 - "commerce_item_desc_love_heartstaff"
 - "commerce_item_desc_love_seesaw"
 - "commerce_item_desc_love_swing"
+- "commerce_item_desc_mainstreet_moth"
+- "commerce_item_desc_mainstreet_sparrow"
 - "commerce_item_desc_mischief_2019_pack"
 - "commerce_item_desc_mischief_catcostume"
 - "commerce_item_desc_mischief_catprop"
@@ -797,6 +805,8 @@
 - "commerce_item_name_love_heartstaff"
 - "commerce_item_name_love_seesaw"
 - "commerce_item_name_love_swing"
+- "commerce_item_name_mainstreet_moth"
+- "commerce_item_name_mainstreet_sparrow"
 - "commerce_item_name_mischief_2019_pack"
 - "commerce_item_name_mischief_catcostume"
 - "commerce_item_name_mischief_catprop"
@@ -1138,6 +1148,7 @@
 - "consumable_result_invalid_consumable_def"
 - "consumable_result_max_buffs"
 - "consumable_result_unknown_error"
+- "control_setting_mouse_sensitivity"
 - "create_bug_report_text_entry_placeholder"
 - "create_bug_report_text_entry_title"
 - "create_note_failed_message"
@@ -1599,6 +1610,15 @@
 - "figurineskykid_specialedition_hint_01"
 - "figurineskykid_specialedition_hint_02"
 - "figurineskykid_specialedition_hint_03"
+- "firework_buildup_dawn"
+- "firework_buildup_dusk"
+- "firework_buildup_night"
+- "firework_buildup_prairie"
+- "firework_buildup_rain"
+- "firework_buildup_storm"
+- "firework_buildup_sunset"
+- "fireworksmainstreet_confirm"
+- "fireworksmainstreet_hint"
 - "friend_is_recording"
 - "friend_level_1"
 - "friend_level_2"
@@ -1645,10 +1665,13 @@
 - "gift_message_sent_confirmation_04"
 - "gift_message_sent_confirmation_05"
 - "gift_while_diving_disabled"
+- "graphics_setting_darkmode"
 - "graphics_setting_fps"
 - "graphics_setting_hdr"
 - "graphics_setting_hdr_black_level"
 - "graphics_setting_hdr_ui_brightness"
+- "graphics_setting_misc"
+- "graphics_setting_motionbluramount"
 - "hide_note_confirm_title"
 - "hint_cant_join_reservation_seat_unknown"
 - "hint_cant_sit_at_reservation_seat"
@@ -1870,10 +1893,16 @@
 - "julian_ann_text2"
 - "julian_ann_text3"
 - "leave_level_during_quest"
+- "local_notification_liked_geonote"
+- "local_notification_liked_recording"
+- "local_notification_liked_stage"
 - "local_notification_received_invite"
 - "local_notification_social_feed_blocked"
 - "local_notification_social_feed_removed"
 - "local_notification_unnamed_has_reborn"
+- "local_notification_unnamed_liked_geonote"
+- "local_notification_unnamed_liked_recording"
+- "local_notification_unnamed_liked_stage"
 - "lootbox_name_auroraec"
 - "lootbox_name_balloonhat"
 - "lootbox_name_cake"
@@ -1889,6 +1918,7 @@
 - "luke_ann_text4"
 - "luke_ann_text5"
 - "luke_ann_text6"
+- "mainstreet_return_to_guide"
 - "mainstreet_spell_shop_01"
 - "mainstreet_spell_shop_boat_01"
 - "mainstreet_spell_shop_boat_02"
@@ -2283,7 +2313,6 @@
 - "notification_daysoffeast_title"
 - "notification_daysoffortune_message"
 - "notification_daysoffortune_title"
-- "notification_daysofgiving_message"
 - "notification_daysofgiving_title"
 - "notification_daysoflove_message"
 - "notification_daysoflove_title"
@@ -2298,6 +2327,7 @@
 - "notification_friend_wax_gift"
 - "notification_invite_accepted"
 - "notification_invite_received"
+- "notification_liked_geonote"
 - "notification_mischief_end_message"
 - "notification_mischief_end_title"
 - "notification_mischief_message"
@@ -2858,14 +2888,26 @@
 - "skidmore_ann_text6"
 - "social_feed_comment_with_hearts"
 - "social_feed_comment_with_name"
+- "social_feed_superlike_collected_memory"
+- "social_feed_superlike_collected_misc"
+- "social_feed_superlike_collected_note"
+- "social_feed_superlike_collected_space"
+- "social_feed_superlike_friend_memory"
+- "social_feed_superlike_friend_note"
+- "social_feed_superlike_friend_space"
+- "social_feed_superlike_friend_unnamed_memory"
+- "social_feed_superlike_friend_unnamed_note"
+- "social_feed_superlike_friend_unnamed_space"
+- "social_feed_superlike_memory"
+- "social_feed_superlike_note"
+- "social_feed_superlike_space"
 - "social_hud_battery_percentage"
 - "social_hud_clock"
-- "spirit_shop_ap06unlock_ap20_fetch_01_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_02_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_03_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_03_task_done"
-- "spirit_shop_ap06unlock_ap20_fetch_04_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_04_task_done"
+- "spirit_shop_ap06unlock_ap20_fetch_05_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_06_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_07_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_08_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_09_task_desc"
 - "spirit_shop_ap06unlock_fetch_03_task_desc"
 - "spirit_shop_ap06unlock_fetch_03_task_done"
 - "star_crab_plushy_crab_special2"
@@ -3395,6 +3437,9 @@
 - "tutorial_spirit_03"
 - "tutorial_spirit_03_02"
 - "tutorial_spirit_04"
+- "tutorial_spirit_shop"
+- "tutorial_spirit_shop_pc"
+- "tutorial_spirit_shop_ps"
 - "tutorial_stage_cant_claim_00"
 - "tutorial_stage_cant_claim_01"
 - "tutorial_stage_cant_claim_02"
