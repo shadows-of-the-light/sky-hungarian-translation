@@ -2468,7 +2468,7 @@
 "daily_quest_activate_a_4_player_door_desc" = "<b>Open a 4 player door</b>";
 "daily_quest_activate_a_8_player_door_desc" = "<b>Open an 8 player door</b>";
 "daily_quest_activate_an_engine_desc" = "<b>Activate an ancient engine</b>";
-"daily_quest_bow_at_a_player_desc" = "<b>Bow at a player</b>";
+"daily_quest_bow_at_a_player_desc" = "<b>Hajolj meg egy játékosnak</b>";
 "daily_quest_change_cape_desc" = "<b>Change your cape</b>";
 "daily_quest_change_hair_desc" = "<b>Change your hairstyle</b>";
 "daily_quest_change_mask_desc" = "<b>Change your mask</b>";
