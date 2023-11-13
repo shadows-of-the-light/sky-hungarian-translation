@@ -5447,9 +5447,9 @@
 "tutorial_goal_07" = "<hinticon/> Try on the looks you've learned at the <b>Outfit Shrine</b>!";
 "tutorial_goal_08" = "<hinticon/> Interact with this <1>spirit</1> to see what they have to offer.";
 "tutorial_goal_09" = "<hinticon/> Fly through the clouds to find the next <1>temple</1> and save more <1>spirits</1>.";
-"tutorial_goal_radar_hint" = "<hinticon/> <1>Tap</1> <2>yourself</2> to call. Your inner <b><beacon/> Light</b> will reveal the path.";
-"tutorial_goal_radar_hint_pc" = "<hinticon/> <1>Press</1> <b>Q</b> to call. Your inner <b><beacon/> Light</b> will reveal the path.";
-"tutorial_goal_radar_hint_ps" = "<hinticon/> <1>Press <button type=\"shout\"/></1> to call. Your inner <b><beacon/> Light</b> will reveal the path.";
+"tutorial_goal_radar_hint" = "<hinticon/> <1>Koppints</1> <2>magadra</2>, hogy kiálts. A belső <b><beacon/> Fényed</b> megmutatja az utat.";
+"tutorial_goal_radar_hint_pc" = "<hinticon/> <1>Nyomd meg a</1> <b>kiáltás gombot (alapértelmezetten: Q)</b>. A belső <b><beacon/> Fényed</b> megmutatja az utat.";
+"tutorial_goal_radar_hint_ps" = "<hinticon/> <1>Nyomd meg  ezt <button type=\"shout\"/></1> kiáltáshoz. A belső <b><beacon/> Fényed</b> megmutatja az utat.";
 "tutorial_instrument_layout" = "<hinticon/> <1>Press and hold</1> <button type=\"note_layout\"/> to try other instrument button layouts.";
 "tutorial_instrument_sheetmusic" = "<hinticon/> Music can be unlocked by visiting spirits";
 "tutorial_instrument_sheetmusic_gamepad" = "<hinticon/> You have unlocked new sheet music. Press <button type=\"sheetmusic_menu\"/> to access it.";
