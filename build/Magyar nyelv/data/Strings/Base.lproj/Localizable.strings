@@ -857,10 +857,10 @@
 "aurora_allissoftinside_700" = "Don't let me change";
 "aurora_allissoftinside_800" = "Don't let me go";
 "aurora_allissoftinside_900" = "All around is stone";
-"aurora_audienceinteract06" = "It's okay, you can cry.";
-"aurora_audiencethankful01" = "Thank you all very much!";
-"aurora_audiencethankful03" = "I'm so happy to be here with you.";
-"aurora_audiencethankful04" = "Thank you so much for all the love!";
+"aurora_audienceinteract06" = "Minden rendben, itt nyugodtan sírhatsz.";
+"aurora_audiencethankful01" = "Nagyon köszönöm minednkinek!";
+"aurora_audiencethankful03" = "Olyan boldog vagyok, hogy itt lehetek veletek.";
+"aurora_audiencethankful04" = "Köszönöm szépen a sok szeretetet!";
 "aurora_banter01" = "Helló barátok! Nagyon boldog vagyok, hogy itt lehetek veletek!";
 "aurora_banter02" = "Nézzenek oda! Mind itt vagyunk együtt!";
 "aurora_banter03" = "Kiáltsunk egymásnak!";
@@ -868,7 +868,7 @@
 "aurora_banter04_alt" = "És emlékezzetek, a természetes világ a vezető fényünk.  Kövessük most…";
 "aurora_banter05" = "Reményt ad nekem, hogy az embereket ilyen összetartónak látom.";
 "aurora_banter06" = "Gyönyörű hangotok van – tudtok harmonizálni ugyanazzal a hanggal?";
-"aurora_banter07" = "Mindig gondoskodnunk kell egymásról. Együtt erősebbek vagyunk.";
+"aurora_banter07" = "Mindig gondoskodnunk kell egymásról. Erősebbek vagyunk együtt.";
 "aurora_banter07_alt" = "Mindig gondoskodnunk kell egymásról. Sokkal erősebbek vagyunk együtt.";
 "aurora_banter08" = "A fény lényei olyan gyönyörűek!";
 "aurora_banter09" = "Kiálts nekik, amikor közel repülnek!";

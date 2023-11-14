@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/28)
+![](https://geps.dev/progress/29)
 
 - Játék verziója: `236343`
 - Nyelv fájl hossza: `5638`
-- Teljes haladás: `1309 / 4751`
+- Teljes haladás: `1357 / 4751`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 887 / 887 | ![](https://geps.dev/progress/100) |
-| other | 668 / 2156 | ![](https://geps.dev/progress/31) |
+| other | 681 / 2156 | ![](https://geps.dev/progress/32) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
@@ -20,7 +20,7 @@
 | consumable | - / 207 | ![](https://geps.dev/progress/0) |
 | control | 11 / 12 | ![](https://geps.dev/progress/92) |
 | currency | - / 15 | ![](https://geps.dev/progress/0) |
-| daily | - / 269 | ![](https://geps.dev/progress/0) |
+| daily | 31 / 269 | ![](https://geps.dev/progress/12) |
 | display | - / 4 | ![](https://geps.dev/progress/0) |
 | error | - / 48 | ![](https://geps.dev/progress/0) |
 | friend | - / 10 | ![](https://geps.dev/progress/0) |
@@ -41,15 +41,15 @@
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 62 / 197 | ![](https://geps.dev/progress/31) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
-| tutorial | 4 / 223 | ![](https://geps.dev/progress/2) |
+| tutorial | 8 / 223 | ![](https://geps.dev/progress/4) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
 
 ## Discord üzenet
 
 ```
 # Sky Magyar fordítás
-`[=======..................] 28%`
-1309db szöveg lefordítva 4751db szövegből.
+`[=======..................] 29%`
+1357db szöveg lefordítva 4751db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3442db szöveg
+3394db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -183,13 +183,6 @@
 - "audio_setting_volume_up"
 - "aurora_ad01"
 - "aurora_ad02"
-- "aurora_audienceinteract06"
-- "aurora_audiencethankful01"
-- "aurora_audiencethankful03"
-- "aurora_audiencethankful04"
-- "aurora_banter04"
-- "aurora_banter04_alt"
-- "aurora_banter12"
 - "aurora_holiday01"
 - "aurora_holiday02"
 - "aurora_holiday03"
@@ -205,14 +198,8 @@
 - "aurora_meditation09"
 - "aurora_meditation10"
 - "aurora_meditation11"
-- "aurora_misc09"
-- "aurora_misc11"
-- "aurora_misc13"
-- "aurora_personalhello02"
 - "aurora_social_crabrace"
 - "aurora_social_photoop"
-- "aurora_social_soundbath_breathein"
-- "aurora_social_soundbath_breatheout"
 - "aurora_social_soundbath_disablezone"
 - "aurora_title01"
 - "avatar_nickname"
@@ -1180,7 +1167,6 @@
 - "daily_quest_activate_a_4_player_door_desc"
 - "daily_quest_activate_a_8_player_door_desc"
 - "daily_quest_activate_an_engine_desc"
-- "daily_quest_bow_at_a_player_desc"
 - "daily_quest_change_cape_desc"
 - "daily_quest_change_hair_desc"
 - "daily_quest_change_mask_desc"
@@ -1203,16 +1189,11 @@
 - "daily_quest_fly_for_1_minute_desc"
 - "daily_quest_fly_for_2_minutes_desc"
 - "daily_quest_fly_with_a_manta_desc"
-- "daily_quest_follow_another_player_desc"
 - "daily_quest_follow_another_player_in_day_desc"
 - "daily_quest_follow_another_player_in_dusk_desc"
 - "daily_quest_follow_another_player_in_night_desc"
 - "daily_quest_follow_another_player_in_rain_desc"
 - "daily_quest_follow_another_player_in_sunset_desc"
-- "daily_quest_forge_a_candle_desc"
-- "daily_quest_high_five_someone_desc"
-- "daily_quest_hold_someones_hand_desc"
-- "daily_quest_hug_someone_desc"
 - "daily_quest_interact_with_invite_shrine_desc"
 - "daily_quest_join_a_group_of_3_desc"
 - "daily_quest_join_a_group_of_4_desc"
@@ -1220,16 +1201,7 @@
 - "daily_quest_join_a_hand_hold_group_of_4_desc"
 - "daily_quest_join_a_hand_hold_group_of_8_desc"
 - "daily_quest_join_a_random_game_desc"
-- "daily_quest_light_10_candles_desc"
-- "daily_quest_light_20_candles_desc"
-- "daily_quest_light_30_candles_desc"
-- "daily_quest_lightseeker_forest_desc"
-- "daily_quest_lightseeker_prairie_desc"
-- "daily_quest_lightseeker_valley_desc"
-- "daily_quest_lightseeker_vault_desc"
-- "daily_quest_lightseeker_wasteland_desc"
 - "daily_quest_locate_4door_desc"
-- "daily_quest_make_a_new_acquaintance_desc"
 - "daily_quest_meditate_dusk_crabfields_desc"
 - "daily_quest_meditate_dusk_duskmid_desc"
 - "daily_quest_meditate_dusk_graveyard_desc"
@@ -1257,15 +1229,8 @@
 - "daily_quest_meditate_tgc_office_desc"
 - "daily_quest_meditate_tgc_office_nye_desc"
 - "daily_quest_meditate_tgc_office_xmas_desc"
-- "daily_quest_melt_10_darkstones_desc"
-- "daily_quest_melt_1_darkstone_desc"
-- "daily_quest_melt_20_darkstones_desc"
-- "daily_quest_melt_30_darkstones_desc"
 - "daily_quest_new_quest_confirm_message"
 - "daily_quest_new_quest_confirm_title"
-- "daily_quest_pickup_30_wax_desc"
-- "daily_quest_pickup_60_wax_desc"
-- "daily_quest_pickup_90_wax_desc"
 - "daily_quest_progress"
 - "daily_quest_rainbow_rainbow_dusk_01_desc"
 - "daily_quest_rainbow_rainbow_night_01_desc"
@@ -1288,10 +1253,7 @@
 - "daily_quest_save_a_spirit_in_rain_desc"
 - "daily_quest_save_a_spirit_in_sunset_desc"
 - "daily_quest_save_spirit_thumbsup_desc"
-- "daily_quest_seen_by_dark_creature_desc"
-- "daily_quest_send_a_gift_desc"
 - "daily_quest_shoute_at_5_crabs_desc"
-- "daily_quest_sit_at_a_bench_with_a_stranger_desc"
 - "daily_quest_spirit_bow_desc"
 - "daily_quest_spirit_brave_desc"
 - "daily_quest_spirit_butterfly_desc"
@@ -1331,11 +1293,6 @@
 - "daily_quest_visit_rain_mural_desc"
 - "daily_quest_visit_rain_well_desc"
 - "daily_quest_visit_rain_whale_desc"
-- "daily_quest_visit_rainbow_dusk_desc"
-- "daily_quest_visit_rainbow_night_desc"
-- "daily_quest_visit_rainbow_prairie_desc"
-- "daily_quest_visit_rainbow_rain_desc"
-- "daily_quest_visit_rainbow_sunset_desc"
 - "daily_quest_visit_skyway_speedtube_desc"
 - "daily_quest_visit_stormy_event_desc"
 - "daily_quest_visit_sunset_goldstatue_desc"
@@ -1344,7 +1301,6 @@
 - "daily_quest_visit_sunset_ice_rink_desc"
 - "daily_quest_visit_sunset_twins_desc"
 - "daily_quest_visit_tgc_office_staff_desc"
-- "daily_quest_wave_at_a_friend_desc"
 - "daily_quest_world_quest_ap09_fetch_01_desc"
 - "daily_quest_world_quest_ap09_fetch_02_desc"
 - "daily_quest_world_quest_ap09_fetch_03_desc"
@@ -3348,9 +3304,6 @@
 - "tutorial_goal_07"
 - "tutorial_goal_08"
 - "tutorial_goal_09"
-- "tutorial_goal_radar_hint"
-- "tutorial_goal_radar_hint_pc"
-- "tutorial_goal_radar_hint_ps"
 - "tutorial_instrument_layout"
 - "tutorial_instrument_sheetmusic"
 - "tutorial_instrument_sheetmusic_gamepad"
@@ -3473,7 +3426,6 @@
 - "tutorial_wingbuff_level_up_00"
 - "tutorial_wingbuff_level_up_00_pc"
 - "tutorial_wingbuff_level_up_00_ps"
-- "tutorial_wingbuff_progress"
 - "unlock_while_diving_disabled"
 - "view_note_recording_confirm_title"
 - "view_note_stage_confirm_title"
