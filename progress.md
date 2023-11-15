@@ -1,26 +1,26 @@
 # Haladás
 
-![](https://geps.dev/progress/26)
+![](https://geps.dev/progress/29)
 
-- Játék verziója: `235905`
-- Nyelv fájl hossza: `5593`
-- Teljes haladás: `1216 / 4707`
+- Játék verziója: `236343`
+- Nyelv fájl hossza: `5638`
+- Teljes haladás: `1357 / 4751`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
-| skipped | 886 / 886 | ![](https://geps.dev/progress/100) |
-| other | 573 / 2131 | ![](https://geps.dev/progress/27) |
+| skipped | 887 / 887 | ![](https://geps.dev/progress/100) |
+| other | 681 / 2156 | ![](https://geps.dev/progress/32) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 6 / 39 | ![](https://geps.dev/progress/15) |
-| commerce | - / 270 | ![](https://geps.dev/progress/0) |
+| commerce | - / 274 | ![](https://geps.dev/progress/0) |
 | constellation | 17 / 45 | ![](https://geps.dev/progress/38) |
 | consumable | - / 207 | ![](https://geps.dev/progress/0) |
-| control | 11 / 11 | ![](https://geps.dev/progress/100) |
+| control | 11 / 12 | ![](https://geps.dev/progress/92) |
 | currency | - / 15 | ![](https://geps.dev/progress/0) |
-| daily | - / 269 | ![](https://geps.dev/progress/0) |
+| daily | 31 / 269 | ![](https://geps.dev/progress/12) |
 | display | - / 4 | ![](https://geps.dev/progress/0) |
 | error | - / 48 | ![](https://geps.dev/progress/0) |
 | friend | - / 10 | ![](https://geps.dev/progress/0) |
@@ -28,28 +28,28 @@
 | howtoplay | - / 90 | ![](https://geps.dev/progress/0) |
 | intro | - / 23 | ![](https://geps.dev/progress/0) |
 | invite | 9 / 69 | ![](https://geps.dev/progress/13) |
-| mainstreet | - / 15 | ![](https://geps.dev/progress/0) |
+| mainstreet | - / 16 | ![](https://geps.dev/progress/0) |
 | meditation | - / 150 | ![](https://geps.dev/progress/0) |
 | menu | - / 20 | ![](https://geps.dev/progress/0) |
 | message | - / 9 | ![](https://geps.dev/progress/0) |
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
 | relationship | 29 / 58 | ![](https://geps.dev/progress/50) |
 | season | - / 180 | ![](https://geps.dev/progress/0) |
-| social | 43 / 47 | ![](https://geps.dev/progress/91) |
-| spirit | 269 / 277 | ![](https://geps.dev/progress/97) |
+| social | 43 / 60 | ![](https://geps.dev/progress/72) |
+| spirit | 267 / 274 | ![](https://geps.dev/progress/97) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 62 / 197 | ![](https://geps.dev/progress/31) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
-| tutorial | 4 / 220 | ![](https://geps.dev/progress/2) |
+| tutorial | 8 / 223 | ![](https://geps.dev/progress/4) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
 
 ## Discord üzenet
 
 ```
 # Sky Magyar fordítás
-`[======...................] 26%`
-1216db szöveg lefordítva 4707db szövegből.
+`[=======..................] 29%`
+1357db szöveg lefordítva 4751db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3491db szöveg
+3394db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -163,78 +163,10 @@
 - "ap18_fetch_05_ritual_start_01"
 - "ap18_fetch_05_ritual_start_02"
 - "ap18_passage_reward_available"
-- "ap19_quest01_info1"
-- "ap19_quest01_info2"
-- "ap19_quest01_info3"
-- "ap19_quest01_info4"
-- "ap19_quest01_info5"
-- "ap19_quest01_info6"
-- "ap19_quest01_photo1"
-- "ap19_quest01_photo1_hint"
-- "ap19_quest01_photo2"
-- "ap19_quest01_photo2_hint"
-- "ap19_quest01_photo3"
-- "ap19_quest01_photo3_hint"
-- "ap19_quest01_photo4"
-- "ap19_quest01_photo4_hint"
-- "ap19_quest01_photo5"
-- "ap19_quest01_photo5_hint"
-- "ap19_quest01_photo6"
-- "ap19_quest01_photo6_hint"
-- "ap19_quest02_hint1"
-- "ap19_quest02_hint2"
-- "ap19_quest02_hint3"
-- "ap19_quest02_hint4"
-- "ap19_quest02_hint5"
-- "ap19_quest02_hint6"
-- "ap19_quest02_info1"
-- "ap19_quest02_info2"
-- "ap19_quest02_info3"
-- "ap19_quest02_info4"
-- "ap19_quest02_info5"
-- "ap19_quest03_hint1"
-- "ap19_quest03_hint2"
-- "ap19_quest03_hint3"
-- "ap19_quest03_hint4"
-- "ap19_quest03_hint5"
-- "ap19_quest03_info1"
-- "ap19_quest03_info2"
-- "ap19_quest03_meditationhint"
-- "ap19_quest04_hint1"
-- "ap19_quest04_hint2"
-- "ap19_quest04_hint3"
-- "ap19_quest04_hint4"
-- "ap19_quest04_hint5"
-- "ap19_quest04_hint6"
-- "ap19_quest04_info1"
-- "ap19_quest04_info2"
-- "ap19_quest04_info3"
-- "ap19_quest04_info4"
-- "ap19_quest04_info5"
-- "ap19_quest04_meditationhint"
-- "ap19_quest05_hint1"
-- "ap19_quest05_hint10"
-- "ap19_quest05_hint11"
-- "ap19_quest05_hint12"
-- "ap19_quest05_hint13"
-- "ap19_quest05_hint2"
-- "ap19_quest05_hint3"
-- "ap19_quest05_hint4"
-- "ap19_quest05_hint5"
-- "ap19_quest05_hint6"
-- "ap19_quest05_hint7"
-- "ap19_quest05_hint8"
-- "ap19_quest05_hint9"
-- "ap19_quest05_info1"
-- "ap19_quest05_info2"
-- "ap19_quest05_info3"
-- "ap19_quest05_info4"
-- "ap19_quest05_info5"
-- "ap19_quest05_info6"
-- "ap19_quest05_meditationhint"
-- "ap19_quests_encouraging1"
-- "ap19_quests_encouraging2"
-- "ap19_quests_encouraging3"
+- "ap20_fetch05_hint01"
+- "ap20_fetch05_hint02"
+- "ap20_fetch05_hint03"
+- "ap20_fetch05_hint04"
 - "ap20_town_name"
 - "applemusic_menu_link"
 - "applemusic_menu_message"
@@ -251,13 +183,6 @@
 - "audio_setting_volume_up"
 - "aurora_ad01"
 - "aurora_ad02"
-- "aurora_audienceinteract06"
-- "aurora_audiencethankful01"
-- "aurora_audiencethankful03"
-- "aurora_audiencethankful04"
-- "aurora_banter04"
-- "aurora_banter04_alt"
-- "aurora_banter12"
 - "aurora_holiday01"
 - "aurora_holiday02"
 - "aurora_holiday03"
@@ -273,14 +198,8 @@
 - "aurora_meditation09"
 - "aurora_meditation10"
 - "aurora_meditation11"
-- "aurora_misc09"
-- "aurora_misc11"
-- "aurora_misc13"
-- "aurora_personalhello02"
 - "aurora_social_crabrace"
 - "aurora_social_photoop"
-- "aurora_social_soundbath_breathein"
-- "aurora_social_soundbath_breatheout"
 - "aurora_social_soundbath_disablezone"
 - "aurora_title01"
 - "avatar_nickname"
@@ -391,6 +310,8 @@
 - "button_unavailable_teleport_to_same_level"
 - "camera_to_2d"
 - "camera_to_3d"
+- "change_home_confirmation"
+- "change_home_return"
 - "changed_reservation_seat"
 - "chat_global_enabled_message"
 - "chat_message_local"
@@ -744,6 +665,8 @@
 - "commerce_item_desc_love_heartstaff"
 - "commerce_item_desc_love_seesaw"
 - "commerce_item_desc_love_swing"
+- "commerce_item_desc_mainstreet_moth"
+- "commerce_item_desc_mainstreet_sparrow"
 - "commerce_item_desc_mischief_2019_pack"
 - "commerce_item_desc_mischief_catcostume"
 - "commerce_item_desc_mischief_catprop"
@@ -869,6 +792,8 @@
 - "commerce_item_name_love_heartstaff"
 - "commerce_item_name_love_seesaw"
 - "commerce_item_name_love_swing"
+- "commerce_item_name_mainstreet_moth"
+- "commerce_item_name_mainstreet_sparrow"
 - "commerce_item_name_mischief_2019_pack"
 - "commerce_item_name_mischief_catcostume"
 - "commerce_item_name_mischief_catprop"
@@ -1210,6 +1135,7 @@
 - "consumable_result_invalid_consumable_def"
 - "consumable_result_max_buffs"
 - "consumable_result_unknown_error"
+- "control_setting_mouse_sensitivity"
 - "create_bug_report_text_entry_placeholder"
 - "create_bug_report_text_entry_title"
 - "create_note_failed_message"
@@ -1241,7 +1167,6 @@
 - "daily_quest_activate_a_4_player_door_desc"
 - "daily_quest_activate_a_8_player_door_desc"
 - "daily_quest_activate_an_engine_desc"
-- "daily_quest_bow_at_a_player_desc"
 - "daily_quest_change_cape_desc"
 - "daily_quest_change_hair_desc"
 - "daily_quest_change_mask_desc"
@@ -1264,16 +1189,11 @@
 - "daily_quest_fly_for_1_minute_desc"
 - "daily_quest_fly_for_2_minutes_desc"
 - "daily_quest_fly_with_a_manta_desc"
-- "daily_quest_follow_another_player_desc"
 - "daily_quest_follow_another_player_in_day_desc"
 - "daily_quest_follow_another_player_in_dusk_desc"
 - "daily_quest_follow_another_player_in_night_desc"
 - "daily_quest_follow_another_player_in_rain_desc"
 - "daily_quest_follow_another_player_in_sunset_desc"
-- "daily_quest_forge_a_candle_desc"
-- "daily_quest_high_five_someone_desc"
-- "daily_quest_hold_someones_hand_desc"
-- "daily_quest_hug_someone_desc"
 - "daily_quest_interact_with_invite_shrine_desc"
 - "daily_quest_join_a_group_of_3_desc"
 - "daily_quest_join_a_group_of_4_desc"
@@ -1281,16 +1201,7 @@
 - "daily_quest_join_a_hand_hold_group_of_4_desc"
 - "daily_quest_join_a_hand_hold_group_of_8_desc"
 - "daily_quest_join_a_random_game_desc"
-- "daily_quest_light_10_candles_desc"
-- "daily_quest_light_20_candles_desc"
-- "daily_quest_light_30_candles_desc"
-- "daily_quest_lightseeker_forest_desc"
-- "daily_quest_lightseeker_prairie_desc"
-- "daily_quest_lightseeker_valley_desc"
-- "daily_quest_lightseeker_vault_desc"
-- "daily_quest_lightseeker_wasteland_desc"
 - "daily_quest_locate_4door_desc"
-- "daily_quest_make_a_new_acquaintance_desc"
 - "daily_quest_meditate_dusk_crabfields_desc"
 - "daily_quest_meditate_dusk_duskmid_desc"
 - "daily_quest_meditate_dusk_graveyard_desc"
@@ -1318,15 +1229,8 @@
 - "daily_quest_meditate_tgc_office_desc"
 - "daily_quest_meditate_tgc_office_nye_desc"
 - "daily_quest_meditate_tgc_office_xmas_desc"
-- "daily_quest_melt_10_darkstones_desc"
-- "daily_quest_melt_1_darkstone_desc"
-- "daily_quest_melt_20_darkstones_desc"
-- "daily_quest_melt_30_darkstones_desc"
 - "daily_quest_new_quest_confirm_message"
 - "daily_quest_new_quest_confirm_title"
-- "daily_quest_pickup_30_wax_desc"
-- "daily_quest_pickup_60_wax_desc"
-- "daily_quest_pickup_90_wax_desc"
 - "daily_quest_progress"
 - "daily_quest_rainbow_rainbow_dusk_01_desc"
 - "daily_quest_rainbow_rainbow_night_01_desc"
@@ -1349,10 +1253,7 @@
 - "daily_quest_save_a_spirit_in_rain_desc"
 - "daily_quest_save_a_spirit_in_sunset_desc"
 - "daily_quest_save_spirit_thumbsup_desc"
-- "daily_quest_seen_by_dark_creature_desc"
-- "daily_quest_send_a_gift_desc"
 - "daily_quest_shoute_at_5_crabs_desc"
-- "daily_quest_sit_at_a_bench_with_a_stranger_desc"
 - "daily_quest_spirit_bow_desc"
 - "daily_quest_spirit_brave_desc"
 - "daily_quest_spirit_butterfly_desc"
@@ -1392,11 +1293,6 @@
 - "daily_quest_visit_rain_mural_desc"
 - "daily_quest_visit_rain_well_desc"
 - "daily_quest_visit_rain_whale_desc"
-- "daily_quest_visit_rainbow_dusk_desc"
-- "daily_quest_visit_rainbow_night_desc"
-- "daily_quest_visit_rainbow_prairie_desc"
-- "daily_quest_visit_rainbow_rain_desc"
-- "daily_quest_visit_rainbow_sunset_desc"
 - "daily_quest_visit_skyway_speedtube_desc"
 - "daily_quest_visit_stormy_event_desc"
 - "daily_quest_visit_sunset_goldstatue_desc"
@@ -1405,7 +1301,6 @@
 - "daily_quest_visit_sunset_ice_rink_desc"
 - "daily_quest_visit_sunset_twins_desc"
 - "daily_quest_visit_tgc_office_staff_desc"
-- "daily_quest_wave_at_a_friend_desc"
 - "daily_quest_world_quest_ap09_fetch_01_desc"
 - "daily_quest_world_quest_ap09_fetch_02_desc"
 - "daily_quest_world_quest_ap09_fetch_03_desc"
@@ -1671,6 +1566,15 @@
 - "figurineskykid_specialedition_hint_01"
 - "figurineskykid_specialedition_hint_02"
 - "figurineskykid_specialedition_hint_03"
+- "firework_buildup_dawn"
+- "firework_buildup_dusk"
+- "firework_buildup_night"
+- "firework_buildup_prairie"
+- "firework_buildup_rain"
+- "firework_buildup_storm"
+- "firework_buildup_sunset"
+- "fireworksmainstreet_confirm"
+- "fireworksmainstreet_hint"
 - "friend_is_recording"
 - "friend_level_1"
 - "friend_level_2"
@@ -1717,10 +1621,13 @@
 - "gift_message_sent_confirmation_04"
 - "gift_message_sent_confirmation_05"
 - "gift_while_diving_disabled"
+- "graphics_setting_darkmode"
 - "graphics_setting_fps"
 - "graphics_setting_hdr"
 - "graphics_setting_hdr_black_level"
 - "graphics_setting_hdr_ui_brightness"
+- "graphics_setting_misc"
+- "graphics_setting_motionbluramount"
 - "hide_note_confirm_title"
 - "hint_cant_join_reservation_seat_unknown"
 - "hint_cant_sit_at_reservation_seat"
@@ -1743,12 +1650,6 @@
 - "hint_teleport_00"
 - "hint_visit_spirit_to_continue_quest_00"
 - "hint_warp_00"
-- "home_intro_00"
-- "home_intro_01"
-- "home_intro_02"
-- "home_intro_03"
-- "home_intro_04"
-- "home_intro_05"
 - "host_ann_text1"
 - "host_ann_text2"
 - "howtoplay_basics_0_title"
@@ -1948,10 +1849,16 @@
 - "julian_ann_text2"
 - "julian_ann_text3"
 - "leave_level_during_quest"
+- "local_notification_liked_geonote"
+- "local_notification_liked_recording"
+- "local_notification_liked_stage"
 - "local_notification_received_invite"
 - "local_notification_social_feed_blocked"
 - "local_notification_social_feed_removed"
 - "local_notification_unnamed_has_reborn"
+- "local_notification_unnamed_liked_geonote"
+- "local_notification_unnamed_liked_recording"
+- "local_notification_unnamed_liked_stage"
 - "lootbox_name_auroraec"
 - "lootbox_name_balloonhat"
 - "lootbox_name_cake"
@@ -1967,6 +1874,7 @@
 - "luke_ann_text4"
 - "luke_ann_text5"
 - "luke_ann_text6"
+- "mainstreet_return_to_guide"
 - "mainstreet_spell_shop_01"
 - "mainstreet_spell_shop_boat_01"
 - "mainstreet_spell_shop_boat_02"
@@ -2361,7 +2269,6 @@
 - "notification_daysoffeast_title"
 - "notification_daysoffortune_message"
 - "notification_daysoffortune_title"
-- "notification_daysofgiving_message"
 - "notification_daysofgiving_title"
 - "notification_daysoflove_message"
 - "notification_daysoflove_title"
@@ -2376,6 +2283,7 @@
 - "notification_friend_wax_gift"
 - "notification_invite_accepted"
 - "notification_invite_received"
+- "notification_liked_geonote"
 - "notification_mischief_end_message"
 - "notification_mischief_end_title"
 - "notification_mischief_message"
@@ -2936,14 +2844,26 @@
 - "skidmore_ann_text6"
 - "social_feed_comment_with_hearts"
 - "social_feed_comment_with_name"
+- "social_feed_superlike_collected_memory"
+- "social_feed_superlike_collected_misc"
+- "social_feed_superlike_collected_note"
+- "social_feed_superlike_collected_space"
+- "social_feed_superlike_friend_memory"
+- "social_feed_superlike_friend_note"
+- "social_feed_superlike_friend_space"
+- "social_feed_superlike_friend_unnamed_memory"
+- "social_feed_superlike_friend_unnamed_note"
+- "social_feed_superlike_friend_unnamed_space"
+- "social_feed_superlike_memory"
+- "social_feed_superlike_note"
+- "social_feed_superlike_space"
 - "social_hud_battery_percentage"
 - "social_hud_clock"
-- "spirit_shop_ap06unlock_ap20_fetch_01_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_02_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_03_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_03_task_done"
-- "spirit_shop_ap06unlock_ap20_fetch_04_task_desc"
-- "spirit_shop_ap06unlock_ap20_fetch_04_task_done"
+- "spirit_shop_ap06unlock_ap20_fetch_05_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_06_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_07_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_08_task_desc"
+- "spirit_shop_ap06unlock_ap20_fetch_09_task_desc"
 - "spirit_shop_ap06unlock_fetch_03_task_desc"
 - "spirit_shop_ap06unlock_fetch_03_task_done"
 - "star_crab_plushy_crab_special2"
@@ -3039,22 +2959,6 @@
 - "stormy_hint_rain_01"
 - "stormy_hint_storm_01"
 - "stormy_hint_sunset_01"
-- "story_dawn_calltoaction_01"
-- "story_dawn_calltoaction_02"
-- "story_dawn_candle_01"
-- "story_dawn_candle_02"
-- "story_dawn_child_come_01"
-- "story_dawn_child_to_temple_01"
-- "story_dawn_child_to_temple_02"
-- "story_dawn_constellation_gate_01"
-- "story_dawn_constellation_gate_02"
-- "story_dawn_constellation_gate_03"
-- "story_dawn_murals_death_01"
-- "story_dawn_murals_death_02"
-- "story_dawn_murals_growth_01"
-- "story_dawn_murals_growth_02"
-- "story_dawn_murals_harmony_01"
-- "story_dawn_murals_harmony_02"
 - "support_dialog_title"
 - "support_faq_url"
 - "support_qr_scan"
@@ -3400,9 +3304,6 @@
 - "tutorial_goal_07"
 - "tutorial_goal_08"
 - "tutorial_goal_09"
-- "tutorial_goal_radar_hint"
-- "tutorial_goal_radar_hint_pc"
-- "tutorial_goal_radar_hint_ps"
 - "tutorial_instrument_layout"
 - "tutorial_instrument_sheetmusic"
 - "tutorial_instrument_sheetmusic_gamepad"
@@ -3489,6 +3390,9 @@
 - "tutorial_spirit_03"
 - "tutorial_spirit_03_02"
 - "tutorial_spirit_04"
+- "tutorial_spirit_shop"
+- "tutorial_spirit_shop_pc"
+- "tutorial_spirit_shop_ps"
 - "tutorial_stage_cant_claim_00"
 - "tutorial_stage_cant_claim_01"
 - "tutorial_stage_cant_claim_02"
@@ -3522,7 +3426,6 @@
 - "tutorial_wingbuff_level_up_00"
 - "tutorial_wingbuff_level_up_00_pc"
 - "tutorial_wingbuff_level_up_00_ps"
-- "tutorial_wingbuff_progress"
 - "unlock_while_diving_disabled"
 - "view_note_recording_confirm_title"
 - "view_note_stage_confirm_title"
