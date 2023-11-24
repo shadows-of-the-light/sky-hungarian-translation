@@ -2563,9 +2563,9 @@
 "daily_quest_receive_a_gift_desc" = "<b>Kapj ajándékot egy baráttól</b>";
 "daily_quest_recharge_another_avatar_desc" = "<b>Töltsd fel egy másik játékos fényét</b>";
 "daily_quest_recharge_by_avatar_desc" = "<b>Töltsd fel a fényed egy másik játékos segítségével</b>";
-"daily_quest_recharge_by_flower_desc" = "<b>Recharge your light from a light bloom</b>";
-"daily_quest_recharge_by_jellyfish_desc" = "<b>Recharge your light from a jellyfish</b>";
-"daily_quest_recharge_by_shroom_desc" = "<b>Recharge your light from a light bloom</b>";
+"daily_quest_recharge_by_flower_desc" = "<b>Töltsd fel a fényed egy fénygomba segítségével</b>";
+"daily_quest_recharge_by_jellyfish_desc" = "<b>Töltsd fel a fényed egy medúza segítségével</b>";
+"daily_quest_recharge_by_shroom_desc" = "<b>Töltsd fel a fényed egy fénygomba segítségével</b>";
 "daily_quest_rescue_a_manta_from_darkstone_desc" = "<b>Ments meg egy mantát a sötétségtől</b>";
 "daily_quest_retrieve_a_lost_emote_desc" = "<b>Szerezz vissza egy elveszett Winged Light-ot a Wasteland-en</b>";
 "daily_quest_reward_10_wax" = "<b>10 fény jutalom!</b>";
