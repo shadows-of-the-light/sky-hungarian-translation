@@ -7,8 +7,8 @@
 
 //#region Paraméterek
 
-const sourceVersion = '235905';
-const targetVersion = '236343';
+const sourceVersion = '236343';
+const targetVersion = '237954';
 
 //#endregion
 

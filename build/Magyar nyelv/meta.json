@@ -1,8 +1,8 @@
 {
-    "modVersion": "236343.1363",
+    "modVersion": "237954.1384",
     "author": "Magyar Sky közösség",
     "description": "Magyar fordítás Sky-hoz.",
-    "gameVersion": "0.23.4 236343",
+    "gameVersion": "0.23.4 237954",
     "config": {
         "replaceAllLanguages": true
     }
