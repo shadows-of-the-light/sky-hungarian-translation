@@ -7,7 +7,7 @@ const path = require('path');
 
 const modName = 'Magyar nyelv';
 const gameBuild = fs.readdirSync(path.join(__dirname, '..', 'translations')).sort((a, b) => parseInt(b) - parseInt(a))[0];
-const gameVersion = `0.23.4 ${gameBuild}`;
+const gameVersion = `0.23.5 ${gameBuild}`;
 
 const modFolder = path.join(__dirname, `../build/${modName}`);
 const metaFile = path.join(modFolder, 'meta.json');

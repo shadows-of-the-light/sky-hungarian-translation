@@ -4,6 +4,7 @@
 
 Ezek szövegek, amik bekerültek a játékba. Valószínű le kell fordítani őket.
 
+- /* This file is auto-generated, please don't manually edit, use LocalizationTool! */
 - "accept_princesscarry"
 - "ap21_deer_text1"
 - "ap21_quest01_hint1"
@@ -133,6 +134,7 @@ Ezek szövegek, amik bekerültek a játékba. Valószínű le kell fordítani ő
 - "spirit_shop_ap06unlock_ap21_fetch_05_task_done"
 - "stage_create_edit_prompt"
 - "stage_create_edit_title"
+- 
 
 ## Módosított szövegek
 
