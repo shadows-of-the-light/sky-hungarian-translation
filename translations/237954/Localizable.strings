@@ -4974,8 +4974,8 @@
 "stage_confirm_exit_editing" = "Elhagyod a helyet<warning>mentés nélkül</warning>?";
 "stage_confirm_exit_viewing" = "Elhagyod a <2>Shared Space</2>-t?";
 "stage_create_edit" = "Megtervezed a <2>Shared Space</2>-edet?\nBármikor visszatérhetsz játszani a többiekhez.";
-"stage_create_edit_prompt" = "Creative Challenge: {{1}}";
-"stage_create_edit_title" = "Design your <2>Shared Space</2>?";
+"stage_create_edit_prompt" = "Kreatív Kihívás: {{1}}";
+"stage_create_edit_title" = "Megtervezed a <2>Shared Space</2>-t?";
 "stage_empty_tab" = "<b>Nincs ilyen típusú dekoráció</b>";
 "stage_save" = "Publikálod a <2>Shared Space</2>-edet, hogy más játékosok felfedezhessék?";
 "stage_save_on_exit" = "Publikálod a <2>Shared Space</2>-edet mielőtt elmész?";
