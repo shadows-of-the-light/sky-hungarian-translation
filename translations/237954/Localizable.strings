@@ -780,7 +780,7 @@
 "ap20_town_name" = "???";
 "ap21_deer_text1" = "Kedves eltévedt hírvivő, kérlek gyere velem.";
 "ap21_quest01_hint1" = "Kerüld el a Krillt és a sötét növényeket, gyere ki a völgyből.";
-"ap21_quest01_hint2" = "Sikeresen helyreállítottad a falfestmény egy részét, és a <1> Falfestmény Lelkét </1> köszönöm a segítséged.";
+"ap21_quest01_hint2" = "Sikeresen helyreállítottad a falfestmény egy részét, és a <1> Spirit of Mural </1> hálás a segítségért.";
 "ap21_quest01_hint3" = "Eltévedtél, gyermek. \n OK, mutatom az utat";
 "ap21_quest02_hint1" = "Keresd meg a medúzát a tóban.";
 "ap21_quest02_hint2" = "Ajándékot kaptál a medúzától.";
