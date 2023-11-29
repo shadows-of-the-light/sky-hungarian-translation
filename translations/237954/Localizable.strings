@@ -3190,7 +3190,7 @@
 "intro_end_01" = "A <2>Felemelkedett Lelkek</2> erősítik a <cape/>-ed a következő életedben...";
 "intro_end_02" = "Újjászületsz...";
 "intro_headphone" = "A hang több, mint az élmény fele";
-"intro_home_01" = "Kapu barátokhoz & frlfedezett birodalmakhoz";
+"intro_home_01" = "Kapu barátokhoz & felfedezett birodalmakhoz";
 "intro_mainstreet_01" = "Egy rejtett menedék, ami elveszett az időben.";
 "intro_mainstreet_02" = "Egy rejtett menedék.";
 "intro_need_to_finish_storm" = "A Fény hív. Menj az <b>Eden</b>-en át, hogy folytasd a felemelkedést.";
@@ -3329,7 +3329,7 @@
 "mainstreet_wallpainting_01" = "Az elsők közülünk leereszkedtek, hogy a fellegekben építsenek birodalmat.";
 "mainstreet_wallpainting_02" = "De a fényünket annyira természetesnek vettük...";
 "mainstreet_wallpainting_03" = "...és az árnyékban kihúnytunk.";
-"mainstreet_wallpainting_04" = "Sok idő eltelt. Most te a reményt jelentes nekünk.";
+"mainstreet_wallpainting_04" = "Sok idő eltelt. Most te a reményt jelented nekünk.";
 "mainstreet_wallpainting_05" = "Menj hát, gyermek. Add vissza a fényt az elesett csillagainknak.";
 "mainstreet_wallpainting_06" = "A végzeted vár.";
 "meditation_hint_enter_trial" = "Items and spells cannot be used in the trials.";
@@ -3946,7 +3946,7 @@
 "no_engine_level_00" = "You need more <2><star/></2> to activate this";
 "no_engine_player_00" = "You need other <8>players</8> to help activate this";
 "no_player_00" = "You need other <8>players</8> to help with this";
-"notfication_daysoffeast_message" = "The Village and Dreams and Secret Area in Vault of Knowledge welcome everyone to an event full of Light, activities, and festive Spirits!❄️";
+"notfication_daysoffeast_message" = "A lelkek az Aviary Village-ben várnak mindenkit egy eseményre, tele Fénnyel, játékkal és ünnepi emlékekkel! ❄️";
 "notfication_nature_title" = "Days of Nature is Here! 🌊";
 "notfication_traveling_message" = "A Spirit from a past Season has returned for a very limited time! 🕯️";
 "notification_anniversary_message" = "Grab your party gear and boogie with your friends—everyone's invited! 🕺💃";
@@ -3961,8 +3961,8 @@
 "notification_daysofbloom_end_title" = "Days of Bloom Ends Soon 🌸";
 "notification_daysofbloom_message" = "Become part of a brilliant transformation in Forgotten Ark, or try out themed items from the Bloom Guide spirit and the Shop! 🌺";
 "notification_daysofbloom_title" = "🌷 Days of Bloom 🌷";
-"notification_daysoffeast_message" = "The Secret Area in Vault of Knowledge has received a festive makeover and is open for all to enjoy! ❄️";
-"notification_daysoffeast_title" = "Celebrate Days of Feast in Sky! ⛄";
+"notification_daysoffeast_message" = "A lelkek az Aviary Village-ben várnak mindenkit egy eseményre, tele Fénnyel, játékkal és ünnepi emlékekkel! ❄️";
+"notification_daysoffeast_title" = "Ünnepeld a Lakoma Napjait a Sky-ban! ⛄";
 "notification_daysoffortune_message" = "Celebrate Days of Fortune with all new cosmetics, spells, and felicitous visitors in Home and the Secret Area in Vault of Knowledge. 🧨";
 "notification_daysoffortune_title" = "Days of Fortune 🐰";
 "notification_daysofgiving_message" = "With doubled Heart Gifts 💕 and gifts of Light 🕯️ Available for a limited time!";
@@ -4014,7 +4014,7 @@
 "notification_season_dreams_end_title" = "Season of Dreams is Ending! 🕯️";
 "notification_season_dreams_start_message" = "A new season has started in Sky ✨";
 "notification_season_dreams_start_title" = "Season of Dreams is Here! 🕯️";
-"notification_season_end_message" = "Final week! Can you complete the Seasonal constellation before it's over?  ✨";
+"notification_season_end_message" = "Utolsó hét—Győződj meg róla, hogy minden tárgyat begyűjtöttél, ami tetszik, mielőtt a Szezon véget ér! ✨";
 "notification_season_end_title" = "The Season Ends Soon!";
 "notification_season_message" = "A new Season has started in Sky ✨";
 "notification_season_moments_start_message" = "Grab a camera and take in the beauty of Sky's newest Season 📸";
@@ -4642,7 +4642,7 @@
 "social_feed_prompt_warm_melody" = "<b>Melódia</b>";
 "social_feed_prompt_warm_melody_confirm" = "Kreatív Kihívás: <b>Melódia</b>";
 "social_feed_prompt_warm_melody_long" = "<b>Lélekmelengető dal</b>";
-"social_feed_shrine_newbie_hint_memory" = "Használhatod ezt a <2>Shared Memory Shrine</2>-t, hogy szabadon összerakj egy <b>Shared Memory</b>, hogy mások élvezhessék..";
+"social_feed_shrine_newbie_hint_memory" = "Használhatod ezt a <2>Shared Memory Shrine</2>-t, hogy szabadon összerakj egy <b>Shared Memory</b>-t, hogy mások élvezhessék..";
 "social_feed_shrine_newbie_hint_space" = "Használhatod ezt a <2>Shared Space Shrine</2>-t, hogy szabadon összerakj egy <b>Shared Space</b>-t, hogy mások élvezhessék.";
 "social_feed_spell_newbie_hint_memory" = "Egy játékos felvette ezt a <2>Shared Memory</2>-t, hogy mások élvezhessék! Használd az <b>eszköztárat</b>, hogy kapcsolatba lépj vele.";
 "social_feed_spell_newbie_hint_space" = "Egy játékos összerakta ezt a <2>Shared Space</2>-t, hogy mások élvezhessék! Használd az <b>eszköztárat</b>, hogy kapcsolatba lépj vele.";
@@ -4929,7 +4929,7 @@
 "spirit_shop_ap06unlock_ap20_fetch_06_task_desc" = "Nézd meg, hogy segíthetsz a falu új látogatójának.";
 "spirit_shop_ap06unlock_ap20_fetch_07_task_desc" = "Nézd meg, hogy segíthetsz a falu új látogatójának.";
 "spirit_shop_ap06unlock_ap20_fetch_08_task_desc" = "Nézd meg, hogy segíthetsz a falu új látogatójának.";
-"spirit_shop_ap06unlock_ap20_fetch_09_task_desc" = "Nézd meg, hogy segíthetsz a falu új látogatójának.";
+"spirit_shop_ap06unlock_ap20_fetch_09_task_desc" = "Kövesd a lelket, hogy megtudd, hogy tudsz segíteni.";
 "spirit_shop_ap06unlock_ap20_fetch_10_task_desc" = "Nézd meg, hogy segíthetsz a falu új látogatójának.";
 "spirit_shop_ap06unlock_ap21_fetch_01_task_desc" = "Keresd meg a falfestmény darabját<b>a völgyről</b>.";
 "spirit_shop_ap06unlock_ap21_fetch_01_task_done" = "Vidd vissza a falfestmény darabját a <1>Spirit of Mural</1>-hoz.";
