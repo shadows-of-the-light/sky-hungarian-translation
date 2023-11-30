@@ -1,17 +1,17 @@
 # Haladás
 
-![](https://geps.dev/progress/34)
+![](https://geps.dev/progress/36)
 
 - Játék verziója: `237954`
-- Nyelv fájl hossza: `5744`
-- Teljes haladás: `1636 / 4853`
+- Nyelv fájl hossza: `5743`
+- Teljes haladás: `1763 / 4852`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 891 / 891 | ![](https://geps.dev/progress/100) |
-| other | 702 / 2210 | ![](https://geps.dev/progress/32) |
+| other | 736 / 2209 | ![](https://geps.dev/progress/33) |
 | account | 124 / 138 | ![](https://geps.dev/progress/90) |
 | buff | 1 / 46 | ![](https://geps.dev/progress/2) |
 | button | 8 / 46 | ![](https://geps.dev/progress/17) |
@@ -26,17 +26,17 @@
 | friend | - / 10 | ![](https://geps.dev/progress/0) |
 | game | 19 / 31 | ![](https://geps.dev/progress/61) |
 | howtoplay | - / 90 | ![](https://geps.dev/progress/0) |
-| intro | - / 23 | ![](https://geps.dev/progress/0) |
+| intro | 23 / 23 | ![](https://geps.dev/progress/100) |
 | invite | 9 / 69 | ![](https://geps.dev/progress/13) |
-| mainstreet | 1 / 16 | ![](https://geps.dev/progress/6) |
+| mainstreet | 15 / 16 | ![](https://geps.dev/progress/94) |
 | meditation | - / 150 | ![](https://geps.dev/progress/0) |
 | menu | - / 20 | ![](https://geps.dev/progress/0) |
 | message | - / 9 | ![](https://geps.dev/progress/0) |
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
-| relationship | 29 / 59 | ![](https://geps.dev/progress/49) |
-| season | - / 185 | ![](https://geps.dev/progress/0) |
-| social | 43 / 85 | ![](https://geps.dev/progress/51) |
-| spirit | 272 / 288 | ![](https://geps.dev/progress/94) |
+| relationship | 31 / 59 | ![](https://geps.dev/progress/53) |
+| season | 2 / 185 | ![](https://geps.dev/progress/1) |
+| social | 81 / 85 | ![](https://geps.dev/progress/95) |
+| spirit | 286 / 288 | ![](https://geps.dev/progress/99) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 62 / 197 | ![](https://geps.dev/progress/31) |
@@ -48,8 +48,8 @@
 
 ```
 # Sky Magyar fordítás
-`[========.................] 34%`
-1636db szöveg lefordítva 4853db szövegből.
+`[=========................] 36%`
+1763db szöveg lefordítva 4852db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,10 +58,9 @@
 
 ## Fordításra váró elemek
 
-3217db szöveg
+3089db szöveg
 
 - "accept_link"
-- "accept_princesscarry"
 - "account_infraction_info"
 - "account_panel_type_apple"
 - "account_panel_type_apple_bold"
@@ -165,22 +164,6 @@
 - "ap18_fetch_05_ritual_start_02"
 - "ap18_passage_reward_available"
 - "ap20_town_name"
-- "ap21_deer_text1"
-- "ap21_quest01_hint1"
-- "ap21_quest01_hint2"
-- "ap21_quest01_hint3"
-- "ap21_quest02_hint1"
-- "ap21_quest02_hint2"
-- "ap21_quest02_hint3"
-- "ap21_quest02_hint4"
-- "ap21_quest02_hint5"
-- "ap21_quest02_hint6"
-- "ap21_quest02_hint7"
-- "ap21_quest03_hint1"
-- "ap21_quest03_hint2"
-- "ap21_quest03_hint3"
-- "ap21_quest03_hint4"
-- "ap21_quest03_hint5"
 - "applemusic_menu_link"
 - "applemusic_menu_message"
 - "applemusic_menu_message2"
@@ -1233,7 +1216,6 @@
 - "daysofsunlight_tag_chuckle_2"
 - "debug_pick_date_message"
 - "debug_pick_date_title"
-- "deer_text1"
 - "delete_note_confirm_title"
 - "delete_note_failed_message"
 - "delete_note_failed_title"
@@ -1341,18 +1323,6 @@
 - "extra_event_reward_hint"
 - "facebook_add_friend_permission"
 - "facebook_add_friend_sign_in"
-- "feast_nat_chat_1"
-- "feast_nat_chat_2"
-- "feast_nat_chat_3"
-- "feast_nat_chat_4"
-- "feast_nat_chat_5"
-- "feast_needmoreprogress"
-- "feast_race_confirmation_text1"
-- "feast_tgc_santa_chat_1"
-- "feast_tgc_santa_chat_2"
-- "feast_tgc_santa_chat_3"
-- "feast_tgc_santa_chat_4"
-- "feast_tgc_santa_chat_5"
 - "feature_coming_soon"
 - "figurineskykid_specialedition_hint_01"
 - "figurineskykid_specialedition_hint_02"
@@ -1544,29 +1514,6 @@
 - "instrument_tempo"
 - "instrument_tempo_down"
 - "instrument_tempo_up"
-- "intro_00"
-- "intro_01"
-- "intro_02"
-- "intro_03"
-- "intro_04"
-- "intro_05"
-- "intro_dawn_01"
-- "intro_day_01"
-- "intro_dusk_01"
-- "intro_end_00"
-- "intro_end_01"
-- "intro_end_02"
-- "intro_headphone"
-- "intro_home_01"
-- "intro_mainstreet_01"
-- "intro_mainstreet_02"
-- "intro_need_to_finish_storm"
-- "intro_night_01"
-- "intro_orbit_01"
-- "intro_rain_01"
-- "intro_skyhub_01"
-- "intro_storm_01"
-- "intro_sunset_01"
 - "invite_accepted_already_confirm"
 - "invite_cancel_body"
 - "invite_confirm_body"
@@ -1666,21 +1613,7 @@
 - "luke_ann_text4"
 - "luke_ann_text5"
 - "luke_ann_text6"
-- "mainstreet_return_to_guide"
-- "mainstreet_shop_entrance_event"
 - "mainstreet_spell_shop_01"
-- "mainstreet_spell_shop_boat_01"
-- "mainstreet_spell_shop_boat_02"
-- "mainstreet_storm_01"
-- "mainstreet_storm_02"
-- "mainstreet_storm_03"
-- "mainstreet_wallpainting_00"
-- "mainstreet_wallpainting_01"
-- "mainstreet_wallpainting_02"
-- "mainstreet_wallpainting_03"
-- "mainstreet_wallpainting_04"
-- "mainstreet_wallpainting_05"
-- "mainstreet_wallpainting_06"
 - "meditation_hint_enter_trial"
 - "meditation_hint_exit_trial"
 - "meditation_hint_friendly_compete"
@@ -2057,8 +1990,6 @@
 - "notification_daysofbloom_end_title"
 - "notification_daysofbloom_message"
 - "notification_daysofbloom_title"
-- "notification_daysoffeast_message"
-- "notification_daysoffeast_title"
 - "notification_daysoffortune_message"
 - "notification_daysoffortune_title"
 - "notification_daysofgiving_title"
@@ -2343,13 +2274,11 @@
 - "relationship_favorite"
 - "relationship_favorite_max"
 - "relationship_giftmsg_locked"
-- "relationship_heartx5"
 - "relationship_join_fail_no_warp"
 - "relationship_join_version_mismatch"
 - "relationship_link"
 - "relationship_mute"
 - "relationship_playfight"
-- "relationship_princesscarry"
 - "relationship_remote_chat"
 - "relationship_rename"
 - "relationship_rename_title"
@@ -2508,7 +2437,6 @@
 - "season_pass_info_item_candles_bonus"
 - "season_pass_info_item_daily_candle"
 - "season_pass_info_item_mask"
-- "season_pass_info_item_pack"
 - "season_pass_info_item_pendant_02"
 - "season_pass_info_item_pendant_03"
 - "season_pass_info_item_pendant_04"
@@ -2556,7 +2484,6 @@
 - "season_pass_preorder_info_item_candles"
 - "season_pass_preorder_info_item_desc"
 - "season_pass_preorder_info_item_prendent"
-- "season_pass_preorder_info_title"
 - "season_pass_preorder_success"
 - "season_pass_purchase_button_bought"
 - "season_pass_purchase_button_buy"
@@ -2605,7 +2532,6 @@
 - "shop_hint_go_to_temple"
 - "shop_hint_locked_dependency"
 - "shop_hint_owned_consumable"
-- "shop_hint_owned_heart"
 - "shop_hint_owned_lootbox"
 - "shop_hint_owned_music"
 - "shop_hint_owned_outfit"
@@ -2661,66 +2587,12 @@
 - "skidmore_ann_text4"
 - "skidmore_ann_text5"
 - "skidmore_ann_text6"
-- "social_feed_comment_text_title"
 - "social_feed_comment_with_hearts"
 - "social_feed_comment_with_name"
-- "social_feed_dialog_placeholder"
-- "social_feed_dialog_title"
-- "social_feed_prompt_festive_joke"
-- "social_feed_prompt_festive_joke_confirm"
-- "social_feed_prompt_festive_joke_long"
-- "social_feed_prompt_fireworks_song"
-- "social_feed_prompt_fireworks_song_confirm"
-- "social_feed_prompt_fireworks_song_long"
-- "social_feed_prompt_holiday_story"
-- "social_feed_prompt_holiday_story_confirm"
-- "social_feed_prompt_holiday_story_long"
-- "social_feed_prompt_newbie_tip"
-- "social_feed_prompt_newbie_tip_confirm"
-- "social_feed_prompt_newbie_tip_long"
-- "social_feed_prompt_placeholder_long"
-- "social_feed_prompt_placeholder_short"
-- "social_feed_prompt_title"
-- "social_feed_prompt_warm_melody"
-- "social_feed_prompt_warm_melody_confirm"
-- "social_feed_prompt_warm_melody_long"
-- "social_feed_shrine_newbie_hint_memory"
-- "social_feed_shrine_newbie_hint_space"
-- "social_feed_spell_newbie_hint_memory"
-- "social_feed_spell_newbie_hint_space"
-- "social_feed_superlike_collected_memory"
-- "social_feed_superlike_collected_misc"
-- "social_feed_superlike_collected_note"
-- "social_feed_superlike_collected_space"
-- "social_feed_superlike_friend_memory"
-- "social_feed_superlike_friend_note"
-- "social_feed_superlike_friend_space"
-- "social_feed_superlike_friend_unnamed_memory"
-- "social_feed_superlike_friend_unnamed_note"
-- "social_feed_superlike_friend_unnamed_space"
-- "social_feed_superlike_memory"
-- "social_feed_superlike_note"
-- "social_feed_superlike_space"
 - "social_hud_battery_percentage"
 - "social_hud_clock"
-- "spirit_shop_ap06_cant_redeem_at_home_questap21"
-- "spirit_shop_ap06_cant_start_at_home_questap21"
-- "spirit_shop_ap06unlock_ap20_fetch_10_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_01_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_01_task_done"
-- "spirit_shop_ap06unlock_ap21_fetch_02_start"
-- "spirit_shop_ap06unlock_ap21_fetch_02_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_02_task_done"
-- "spirit_shop_ap06unlock_ap21_fetch_03_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_03_task_done"
-- "spirit_shop_ap06unlock_ap21_fetch_04_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_04_task_done"
-- "spirit_shop_ap06unlock_ap21_fetch_05_task_desc"
-- "spirit_shop_ap06unlock_ap21_fetch_05_task_done"
 - "spirit_shop_ap06unlock_fetch_03_task_desc"
 - "spirit_shop_ap06unlock_fetch_03_task_done"
-- "stage_create_edit_prompt"
-- "stage_create_edit_title"
 - "star_crab_plushy_crab_special2"
 - "star_pin_ancestor_daylight_prairie"
 - "star_pin_ancestor_hidden_forest"
@@ -2788,7 +2660,6 @@
 - "star_tag_scanner_verified_product"
 - "star_tag_scanner_write_title"
 - "state_counter"
-- "state_counter_exp"
 - "storm_confirmation_01"
 - "storm_death_00"
 - "storm_death_01"
@@ -3219,9 +3090,9 @@
 - "tutorial_spirit_01"
 - "tutorial_spirit_02"
 - "tutorial_spirit_03"
-- "tutorial_spirit_03_02"
 - "tutorial_spirit_04"
 - "tutorial_spirit_shop"
+- "tutorial_spirit_shop_ps"
 - "tutorial_stage_cant_claim_00"
 - "tutorial_stage_cant_claim_01"
 - "tutorial_stage_cant_claim_02"
