@@ -719,23 +719,23 @@
 "ap19_quest01_photo5_hint" = "Figyelj, hogy <b>napsütésben</b> készítsd a képet.";
 "ap19_quest01_photo6" = "<2>Aktív felkérés:</2> Fényképezz le egy <b>nagy madárrajt</b> <b>este</b>.";
 "ap19_quest01_photo6_hint" = "Figyelj, hogy egy <b>nagy madártajt</b> <b>este</b> fényképezz le.";
-"ap19_quest02_hint1" = "<b>Tartsd a távolságot<b> a <2>fénylénytől</2>, nehogy megzavard.";
+"ap19_quest02_hint1" = "<b>Tartsd a távolságot</b> a <2>fénylénytől</2>, nehogy megzavard.";
 "ap19_quest02_hint2" = "Használd a <b>kamera zoom csúszkáját</b> hogy a <2>fénylényt</2> távolról fényképezd.";
 "ap19_quest02_hint3" = "<b>Tartsd a távolságot</b>, nehogy megzavard a lényt.";
 "ap19_quest02_hint4" = "<b>Sétálj lassabban</b>, nehogy megijeszd a lényt.";
 "ap19_quest02_hint5" = "<b>Használd a zoom-ot</b>, hogy távolról fényképezd a lényt.";
-"ap19_quest02_hint6" = "<b>Osonj<b> a kövek között, hogy több képet készíts a <2>fénylényről</2>.";
+"ap19_quest02_hint6" = "<b>Osonj</b> a kövek között, hogy több képet készíts a <2>fénylényről</2>.";
 "ap19_quest02_info1" = "A <1>Nightbird Whisperer</1> elszánt, hogy többet tudjon a <2>fénylényekről</2>.";
 "ap19_quest02_info2" = "Kövesd a <1>Moments Guide</1>-ot, hogy a <1>Nightbird Whisperer</1> kedvenc <2>fénylényét</2> lefényképezd.";
 "ap19_quest02_info3" = "Es a <2>fénylény</2> csak <b>este</b> jön elő. Várj, amíg <b>beesteledik</b>, hogy elkezdd a küldetést.";
 "ap19_quest02_info4" = "Lefényképezed a <1>Nightbird Whisperer</1> kedvenc fénylényét a <1>Moments Guide</1>-dal?";
-"ap19_quest02_info5" = "<b>Kövesd</b> a <2>fénylényt<2> <b>óvatosan</b> és fényképezd le. Figyelj, hogy <b>tartsd a távolságot</b>!";
+"ap19_quest02_info5" = "<b>Kövesd</b> a <2>fénylényt</2> <b>óvatosan</b> és fényképezd le. Figyelj, hogy <b>tartsd a távolságot</b>!";
 "ap19_quest03_hint1" = "Menj közel a <b>kristályhoz</b> és fényképezd le, amíg fényesen <b>ragyog</b>.";
 "ap19_quest03_hint2" = "<b>Keress még négy kristályt</b>. Menj nagyon közel, hogy lefényképezd, ahogy <b>ragyognak és szikráznak</b>!";
 "ap19_quest03_hint3" = "Használd az élesítő csúszkát a kamerádon, hogy jobban nézzen ki a közeli képed.";
 "ap19_quest03_hint4" = "<b>Menj nagyon közel</b> a kristályhoz és használd az <b>élesítő csúszkát</b>, hogy jobban nézzen ki a közeli képed.";
 "ap19_quest03_hint5" = "Menj <b>közel</b> a kristályhoz egy közeli képért.";
-"ap19_quest03_info1" = "A <1>Jolly Geologist</1> <b>kristályokar</b> tanulmányoz, amik <b>ragyognak és szikráznak</b> fény </b>közelében</b>.";
+"ap19_quest03_info1" = "A <1>Jolly Geologist</1> <b>kristályokar</b> tanulmányoz, amik <b>ragyognak és szikráznak</b> fény <b>közelében</b>.";
 "ap19_quest03_info2" = "Menj a <1>Moments Guide</1>-dal lefényképezni a <1>Jolly Geologist</1> érdekes <b>kristályait</b>.";
 "ap19_quest03_meditationhint" = "Fényképezd le a <1>Jolly Geologist</1> érdekes <b>kristályait</b> a <1>Moments Guide</1>-dal?";
 "ap19_quest04_hint1" = "<b>Fenyképezd le</b>, amit az <1>Ascetic Monk</1> csodál.";
@@ -4266,7 +4266,7 @@
 "relationship_hairtousle" = "Felajánlasz <candle/>-t, hogy feloldjátok a <2>haj összekócolást</2>?";
 "relationship_handhold" = "Felajánlasz <candle/>-t, hogy feloldjátok a <2>kézenfogást</2>?";
 "relationship_handshake" = "Felajánlasz <candle/>-t, hogy feloldjátok a <2>kézfogást</2>?";
-"relationship_heartx5" = "<b>Days of Fortune</b> Limited Gift\nOffer <candle/> to your friend to give <heart/>x 5 ?\n<2>";
+"relationship_heartx5" = "<b>Days of Fortune</b> Limited Gift\nOffer <candle/> to your friend to give <heart/>x 5 ?\n";
 "relationship_highfive" = "Felajánlasz <candle/>-t, hogy feloldjátok a <2>pacsit</2>?";
 "relationship_hug" = "Felajánlasz <candle/>-t, hogy feloldjátok az <2>ölelést</2>?";
 "relationship_join" = "Csatlakozol a barátodhoz?";
@@ -4443,7 +4443,7 @@
 "season_pass_info_item_candles_bonus" = "<scandle/>  BONUS: {{1}} FREE candles (this week only)";
 "season_pass_info_item_daily_candle" = "\n<small>Plus access to:</small>\n<scandle/> <apcolor>Season Candle</apcolor> x 1 upon daily login";
 "season_pass_info_item_mask" = "<sheart/> Unlock additional rewards";
-"season_pass_info_item_pack" = "<spendant/>  <small><b>+ 2 passes for your friends!</b>\n";
+"season_pass_info_item_pack" = "<spendant/>  <small><b>+ 2 passes for your friends!</b></small>\n";
 "season_pass_info_item_pendant_02" = "<spendant season=\"2\"/><apcolor>  Pendant of Gratitude</apcolor>";
 "season_pass_info_item_pendant_03" = "<spendant season=\"3\"/><apcolor>  Pendant of Lightseeker</apcolor>";
 "season_pass_info_item_pendant_04" = "<spendant season=\"4\"/><apcolor>  Pendant of Belonging</apcolor>";
@@ -4491,7 +4491,7 @@
 "season_pass_preorder_info_item_candles" = "<scandle/>  20 <b><apcolor>+ 10 </apcolor></b>season candles";
 "season_pass_preorder_info_item_desc" = "<apcolor>Adventure Pass</apcolor> pre-orders get:";
 "season_pass_preorder_info_item_prendent" = "<spendant/><apcolor> Pendant of Assembly</apcolor>";
-"season_pass_preorder_info_title" = "<h3>Adventure Pass\nPre-order<h3>";
+"season_pass_preorder_info_title" = "<h3>Adventure Pass\nPre-order</h3>";
 "season_pass_preorder_success" = "<b>Thanks for your pre-order!</b>\nYour Adventure Pass will be active from the moment that the new season begins. You also have <apcolor>30 seasonal candles</apcolor> ready to go.\nIf you purchased the Pack, you will be able to gift passes to friends once the season has started. They will each receive the standard 20 seasonal candles with their pass.";
 "season_pass_purchase_button_bought" = "<b>Thanks for your purchase!</b>";
 "season_pass_purchase_button_buy" = "<b>Purchase</b>\n{{1}}";
@@ -4540,7 +4540,7 @@
 "shop_hint_go_to_temple" = "This Spirit awaits your help.\n<b>Visit its temple</b> to return it to this Constellation.";
 "shop_hint_locked_dependency" = "You must unlock the <b>previous node</b> first";
 "shop_hint_owned_consumable" = "You can use this <2>consumable</2> in the <1>Emote menu</1>.";
-"shop_hint_owned_heart" = "This <1>spirit</1> has already shared this </heart>.";
+"shop_hint_owned_heart" = "This <1>spirit</1> has already shared this <heart/>.";
 "shop_hint_owned_lootbox" = "This <1>spirit</1> has already shared this blessing.";
 "shop_hint_owned_music" = "This sheet music is available in the <b>instrument</b> menu!";
 "shop_hint_owned_outfit" = "This <1>spirit</1> has already shared this <b>look</b> with you. Try it on at the <b>outfit shrine</b>!";
@@ -4934,7 +4934,7 @@
 "spirit_shop_ap06unlock_ap21_fetch_01_task_desc" = "Find the piece of mural about <b>valley</b>.";
 "spirit_shop_ap06unlock_ap21_fetch_01_task_done" = "Bring the piece of mural back to <1>Spirit of Mural</1>.";
 "spirit_shop_ap06unlock_ap21_fetch_02_start" = "Creatures be scared by Krill,hide around <b>the lake</b>.";
-"spirit_shop_ap06unlock_ap21_fetch_02_task_desc" = "Bring them to the deer,Find the piece of mural about <b>the sandbar/b>.";
+"spirit_shop_ap06unlock_ap21_fetch_02_task_desc" = "Bring them to the deer,Find the piece of mural about <b>the sandbar</b>.";
 "spirit_shop_ap06unlock_ap21_fetch_02_task_done" = "Bring the piece of mural back to <1>Spirit of Mural</1>.";
 "spirit_shop_ap06unlock_ap21_fetch_03_task_desc" = "Find the piece of mural about <b>the lake</b>.";
 "spirit_shop_ap06unlock_ap21_fetch_03_task_done" = "Bring the piece of mural back to <1>Spirit of Mural</1>.";
@@ -5643,10 +5643,10 @@
 "tutorial_spirit_01" = "<hinticon/> <1>Touch</1> <b>both</b> doors with your <1>candle</1> to open";
 "tutorial_spirit_02" = "<hinticon/> <1>Light</1> the candles to awaken a spirit of the past";
 "tutorial_spirit_03" = "<hinticon/> Restore Spirits to unlock new stars in the <2>Constellation</2>";
-"tutorial_spirit_03_02" = "<hinticon/> <1>Spirits</1> <b>teach ways to communicate<b> \nTry using the <2>gesture</2> you just learned.";
+"tutorial_spirit_03_02" = "<hinticon/> <1>Spirits</1> <b>teach ways to communicate</b> \nTry using the <2>gesture</2> you just learned.";
 "tutorial_spirit_04" = "<hinticon/> Use <2>light tribute<candle/></2> to unlock stars from the <2>Constellation</2>";
 "tutorial_spirit_shop" = "<hinticon/> <1>Tap</1> to interact.";
-"tutorial_spirit_shop_ps" = "<hinticon/> <1>Press</1> <button type=\"activate\"/></1> to interact.";
+"tutorial_spirit_shop_ps" = "<hinticon/> <1>Press <button type=\"activate\"/></1> to interact.";
 "tutorial_stage_cant_claim_00" = "<hinticon/> Can't <2>share</2> this space at this time...";
 "tutorial_stage_cant_claim_01" = "<hinticon/> Can't <2>share</2> this space until more placeables are placed...";
 "tutorial_stage_cant_claim_02" = "<hinticon/> Can't <2>share</2> this space until it's saved with more placeables...";
@@ -5740,4 +5740,3 @@
 "yoshi_ann_text4" = "Viszlát újra a Mischief Barlangnál!";
 "yoshi_ann_text5" = "Egészségünkre!";
 "zoom_level" = "+/-";
-
