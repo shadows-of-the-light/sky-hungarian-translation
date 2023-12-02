@@ -4,7 +4,7 @@
 
 - Játék verziója: `237954`
 - Nyelv fájl hossza: `5743`
-- Teljes haladás: `1763 / 4852`
+- Teljes haladás: `1766 / 4852`
 
 ## Kategóriák
 
@@ -39,7 +39,7 @@
 | spirit | 286 / 288 | ![](https://geps.dev/progress/99) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
-| system | 62 / 197 | ![](https://geps.dev/progress/31) |
+| system | 65 / 197 | ![](https://geps.dev/progress/33) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
 | tutorial | 16 / 200 | ![](https://geps.dev/progress/8) |
 | ui | 28 / 28 | ![](https://geps.dev/progress/100) |
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=========................] 36%`
-1763db szöveg lefordítva 4852db szövegből.
+1766db szöveg lefordítva 4852db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@
 
 ## Fordításra váró elemek
 
-3089db szöveg
+3086db szöveg
 
 - "accept_link"
 - "account_infraction_info"
@@ -2714,7 +2714,6 @@
 - "system_button_twitch"
 - "system_button_twitter"
 - "system_button_view_bold"
-- "system_button_youtube"
 - "system_connectionissue_00"
 - "system_connectionissue_01"
 - "system_connectionissue_02"
@@ -2778,9 +2777,7 @@
 - "system_login_before_global_warn"
 - "system_lowpower"
 - "system_lowpowerexit"
-- "system_maintenancemode_00"
 - "system_maintenancemode_01"
-- "system_maintenancemode_02"
 - "system_maintenancemode_message_ap_hours"
 - "system_maintenancemode_message_ap_minutes"
 - "system_maintenancemode_message_emergency"
