@@ -4333,12 +4333,12 @@
 "samk_ann_text5" = "Yo. Do you ever wonder what the stars are?";
 "samk_ann_text6" = "They're from a particle emitter that's parented to the player. So when the player moves, the stars do, too! ";
 "samk_ann_text7" = "Hey. It’s me, Charley. You know none of this is real, right? It does not align with Sky’s worldbuilding, and I don’t know where Sam found that floating spirit.";
-"season_candle_purchase_confirmation" = " Unused season candles will be converted into regular candles at the end of the season. ";
-"season_daysbefore" = "The new season starts in <b>{{1}}</b> days";
-"season_daysleft" = "<b>{{1}}</b> days left in the season";
-"season_end_message" = "<b>Thanks for taking part in this <apcolor><spendant season=\"prev\"/>Season Pass</apcolor>!</b>\nWe hope you enjoyed this special event in Sky.\nYour <scandle season=\"prev\"/> and <sheart season=\"prev\"/> have been converted to <candle/> and <heart/>.\nThe season's <1>travelers</1> have left the realms of Sky.\n";
-"season_hoursbefore" = "The new season starts in <b>{{1}}</b> hours";
-"season_hoursleft" = "<b>{{1}}</b> hours left in the season";
+"season_candle_purchase_confirmation" = " A nem felhasznált szezonális gyertyák sima gyertyákká lesznek átváltva a szezon végén. ";
+"season_daysbefore" = "Az új szezon <b>{{1}}</b> nap múlva kezdődik";
+"season_daysleft" = "<b>{{1}}</b> nap van hátra a szezonból";
+"season_end_message" = "<b>Köszönjük, hogy részt vettél <apcolor><spendant season=\"prev\"/>Szezonális Jeggyel</apcolor>!</b>\Reméljük, élvezted ezt a különleges eseményt a Sky-ban.\nA<scandle season=\"prev\"/> és <sheart season=\"prev\"/> át lesz váltva <candle/>-vá és <heart/>-vé.\nA szezon <1>utazói</1> elhagyták a Sky világát.\n";
+"season_hoursbefore" = "Az új szezon <b>{{1}}</b> óra múlva kezdődik";
+"season_hoursleft" = "<b>{{1}}</b> óra van hátra a szezonból";
 "season_intro_1_04" = "Az <b>Összetartozás Szezonja</b> elérkezett!";
 "season_intro_1_05" = "The <b>Season of Ritmus</b> has arrived!";
 "season_intro_1_06" = "The <b>Season of Bűvölet</b> has arrived.";
@@ -4382,7 +4382,7 @@
 "season_intro_3_08" = "Keresd a Prófétákat a Cave of Prophecies barlangban. Egy Vezető várja érkezésed.";
 "season_intro_3_09" = "Mint mindenki, egy fiatal előadó arról álmodott, hogy színpadra lép.";
 "season_intro_3_10" = "Egy elhagyatott táborban egy magányos <1>felderítő</1> szeretné a legjobb lombházat megépíteni.";
-"season_intro_3_11" = "The <1>Visitor</1> hopes to wander and learn about the kingdom. ";
+"season_intro_3_11" = "A <1>Látogató</1> meg szeretné ismerni a birodalmat. ";
 "season_intro_3_12" = "Szeld át az eget, hogy újranyiss légi utakat a birodalmak között.";
 "season_intro_3_13" = "Szállj fel a <2>hajóra</2> és nézd meg, merre visz. Találd meg a kicset, amit rejt!";
 "season_intro_3_14" = "Látogasd meg a <2>Színpadot</2>, ami egy álmos hegyi faluban rejtőzik.";
