@@ -4498,10 +4498,10 @@
 "season_pass_purchase_button_buy_candle" = "<b>Purchase</b>\nfor <candle/>{{1}}";
 "season_pass_purchase_button_buy_individual" = "<h3>Single Pass</h3>\nFor yourself";
 "season_pass_purchase_button_buy_pack" = "<h3>Gift Pack</h3>\nFor you and\n<b>2 friends!</b>";
-"season_pass_purchase_message_ap01" = "Welcome to the Season of Rhythm.\nAs a purchaser of the <apcolor><spendant/>Rhythm Season Adventure Pass</apcolor>, you will receive the <apcolor><spendant/>Adventure Pass</apcolor> for this season for <b>free</b>!\nYou will also <b>retain</b> any unlocks (such as outfits and music sheets) that you have already collected.\nThank you for your support!";
-"season_pass_purchase_message_gift" = "<apcolor><spendant/>Gift Season Pass</apcolor>\n\nWhat a generous friend you have! You can now unlock extra <apcolor><spendant/>Season Pass</apcolor> rewards in the constellation.\n Your <spendant/> benefit will last until the end of the season.";
-"season_pass_purchase_message_winter" = "Welcome to the Season of Rhythm\nAs a purchaser of the <apcolor>Rhythm Musicians Pack</apcolor>, you will receive the <apcolor><spendant/>Adventure Pass</apcolor> for this season for <b>free</b>!\nThe <2>Rhythm Musicians Hair</2> and <8>Rhythm Piano</8> will also already be <b>unlocked</b> for you.\nThank you for your support!";
-"season_pass_purchase_out_of_season" = "Season Pass is currently not available";
+"season_pass_purchase_message_ap01" = "Üdvözlünk a Ritmus Szezonjában.\nMint a <apcolor><spendant/>Ritmus Szezon Kaland Jegy</apcolor> megvásárlója, megkapod a <apcolor><spendant/>Kaland Jegyet</apcolor> ehhez a szezonhoz <b>ingyen</b>!\n<b>Megtarthatod</b> minden feloldásod (mint ruhadarab és kotta) that you have already collected.\nThank you for your support!";
+"season_pass_purchase_message_gift" = "<apcolor><spendant/>Ajándék Szezon Jegy</apcolor>\n\nMilyen jószívű barátod van! Most feloldhatod az extra <apcolor><spendant/>Szezon Jegy</apcolor> jutalmakat a csillagképben.\n A <spendant/> a szezon végéig él.";
+"season_pass_purchase_message_winter" = "Üdvözlünk a Ritmus Szezonjában.\nMint a <apcolor>Ritmus Zenész Pakk</apcolor> megvásárlója, kapsz egy <apcolor><spendant/>Kaland Jegyet</apcolor> ehhez a szezonhoz <b>ingyen</b>!\nA <2>Ritmus Zenész Haj</2> és a <8>Ritmus Zongora</8> is <b>fel lesz oldva</b> neked.\nKöszönjük a támogatást!";
+"season_pass_purchase_out_of_season" = "Szezonális Jegy jelenleg nem elérhető";
 "season_pass_quest_restriction" = " ( lezárva )";
 "season_pass_seconds_left" = "<spendant/> Kevesebb, mint <b>egy</b> perc van hátra";
 "season_pass_seconds_left_no_pendant" = "Kevesebb, mint <b>egy</b> perc van hátra";
