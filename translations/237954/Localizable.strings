@@ -4498,7 +4498,7 @@
 "season_pass_purchase_button_buy_candle" = "<b>Vásárolj</b>\n<candle/>-ért{{1}}";
 "season_pass_purchase_button_buy_individual" = "<h3>Egyedüli Jegy</h3>\nNeked";
 "season_pass_purchase_button_buy_pack" = "<h3>Ajándék Pakk</h3>\nNeked és\n<b>2 barátodnak!</b>";
-"season_pass_purchase_message_ap01" = "Üdvözlünk a Ritmus Szezonjában.\nMint a <apcolor><spendant/>Ritmus Szezon Kaland Jegy</apcolor> megvásárlója, megkapod a <apcolor><spendant/>Kaland Jegyet</apcolor> ehhez a szezonhoz <b>ingyen</b>!\n<b>Megtarthatod</b> minden feloldásod (mint ruhadarab és kotta) that you have already collected.\nThank you for your support!";
+"season_pass_purchase_message_ap01" = "Üdvözlünk a Ritmus Szezonjában.\nMint a <apcolor><spendant/>Ritmus Szezon Kaland Jegy</apcolor> megvásárlója, megkapod a <apcolor><spendant/>Kaland Jegyet</apcolor> ehhez a szezonhoz <b>ingyen</b>!\n<b>Megtarthatod</b> minden feloldásod (mint ruhadarab és kotta) amit már összegyűjtöttél.\nKöszönjük a támogatást!";
 "season_pass_purchase_message_gift" = "<apcolor><spendant/>Ajándék Szezon Jegy</apcolor>\n\nMilyen jószívű barátod van! Most feloldhatod az extra <apcolor><spendant/>Szezon Jegy</apcolor> jutalmakat a csillagképben.\n A <spendant/> a szezon végéig él.";
 "season_pass_purchase_message_winter" = "Üdvözlünk a Ritmus Szezonjában.\nMint a <apcolor>Ritmus Zenész Pakk</apcolor> megvásárlója, kapsz egy <apcolor><spendant/>Kaland Jegyet</apcolor> ehhez a szezonhoz <b>ingyen</b>!\nA <2>Ritmus Zenész Haj</2> és a <8>Ritmus Zongora</8> is <b>fel lesz oldva</b> neked.\nKöszönjük a támogatást!";
 "season_pass_purchase_out_of_season" = "Szezonális Jegy jelenleg nem elérhető";
@@ -4506,7 +4506,7 @@
 "season_pass_seconds_left" = "<spendant/> Kevesebb, mint <b>egy</b> perc van hátra";
 "season_pass_seconds_left_no_pendant" = "Kevesebb, mint <b>egy</b> perc van hátra";
 "season_pass_seconds_to_go_no_pendant" = "Még kevesebb, mint <b>egy</b> perc";
-"season_pass_token_desc" = "Odaadándékozod ezt a <spendant/> szezonális jegyet ennek a barátodnak?";
+"season_pass_token_desc" = "Odaajándékozod ezt a <spendant/> szezonális jegyet ennek a barátodnak?";
 "season_pass_token_error" = "Minimum 3 napja barátoknak kell legyetek ezzel a játékossal, hogy szezonális jegyet ajándékozhass neki";
 "season_pass_token_recv_desc" = "Egy barátod <spendant/> szezonális jegyet szeretne ajándékozni neked! Elfogadod?";
 "season_quest_giver_come_back" = "Gyere vissza ";
