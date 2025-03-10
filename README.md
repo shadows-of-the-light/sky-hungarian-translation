@@ -1,44 +1,32 @@
-# Sky Hungarian translation / Sky Magyar fordítás
-
-Hungarian translation for the game Sky: Children of the Light.
+# Sky Magyar fordítás
 
 Magyar fordítás a Sky: Children of the Light játékhoz.
 
-## Google Drive a könnyebb együttműködéshez
-
-[Drive mappa megnyitása](https://drive.google.com/drive/folders/16dNv0bLcUrU9Fjrvbs8i9kqvGaF_W2Zk?usp=sharing)
-
-## Haladás
-
 [Nézd meg a haladást itt](progress.md)
 
-## Mappa szerkezet
+## Telepítés
 
-### Google Drive
+1. Töltsd le a játékodhoz illő nyelv fájlt a `translations` mappából. A mappán belül minden mappának a neve egy szám, ami a játék build számát jelöli.
+1. Steam-en jobb klikkelj a Sky-ra és nyomj rá a "Helyi fájlok böngészése" gombra.
+1. Nyisd meg a `data/Strings/Base.lproj` mappát.
+1. Másold be a letöltött fájlt a mappába és írd felül az eredetit.
+1. Indítsd újra a játékot.
 
-A Google Drive csak a játék legfrissebb verzióját tartalmazza. Legalábbis próbálom naprakészen tartani.
+Ha valami probléma van, esetleg nem indul a játék ezek után akkor Steam-en nyomj a játék beállításain belül a "Helyi fájlok ellenőrzése" gombra.
 
-```yml
-- OLVASS EL (Google doksi)
-- magyar (Google doksi)    # Lefordított fájl
-- eredeti (Google doksi)   # Eredeti fájl
-- egyéb fájlok             # Bármi mást, jegyzeteket, nyugodtan rakhattok a Drive mappába
-```
+## Közreműködés
 
-### GitHub
+### Mappa szerkezet
 
 ```yml
 - translations
   - [build number]        # Játék verziója
     - Localizable.strings # Lefordított fájl
     - origianl.strings    # Eredeti fájl
-- scripts
-  - getProgress.js        # Haladás lekérő kód
+- scripts                 # Segéd scriptek
 - progress.md             # Jelenlegi haladásunk (generált)
 - translation guide.md    # Fordítási útmutató
 ```
-
-## Közreműködés
 
 ### Fordítás
 
