@@ -6,7 +6,7 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 ## Telepítés
 
-1. Töltsd le a játékodhoz illő nyelv fájlt a `translations` mappából. A mappán belül minden mappának a neve egy szám, ami a játék build számát jelöli.
+1. Töltsd le a játékodhoz illő nyelv fájlt (`Localizable.strings`) a `translations` mappából. A mappán belül minden mappának a neve egy szám, ami a játék build számát jelöli. Ha nem vagy biztos benne, hogy melyik kell, keresd a legnagyobb számot. :D
 1. Steam-en jobb klikkelj a Sky-ra és nyomj rá a "Helyi fájlok böngészése" gombra.
 1. Nyisd meg a `data/Strings/Base.lproj` mappát.
 1. Másold be a letöltött fájlt a mappába és írd felül az eredetit.
