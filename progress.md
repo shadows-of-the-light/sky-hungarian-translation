@@ -3,21 +3,21 @@
 ![](https://geps.dev/progress/29)
 
 - Játék verziója: `313329`
-- Nyelv fájl hossza: `8061`
-- Teljes haladás: `2039 / 7117`
+- Nyelv fájl hossza: `8060`
+- Teljes haladás: `2049 / 7116`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 944 / 944 | ![](https://geps.dev/progress/100) |
-| other | 783 / 3710 | ![](https://geps.dev/progress/21) |
+| other | 784 / 3709 | ![](https://geps.dev/progress/21) |
 | account | 124 / 170 | ![](https://geps.dev/progress/73) |
 | buff | 2 / 53 | ![](https://geps.dev/progress/4) |
 | button | 11 / 53 | ![](https://geps.dev/progress/21) |
 | commerce | 39 / 397 | ![](https://geps.dev/progress/10) |
 | constellation | 17 / 46 | ![](https://geps.dev/progress/37) |
-| consumable | 3 / 291 | ![](https://geps.dev/progress/1) |
+| consumable | 5 / 291 | ![](https://geps.dev/progress/2) |
 | control | 12 / 23 | ![](https://geps.dev/progress/52) |
 | currency | - / 23 | ![](https://geps.dev/progress/0) |
 | daily | 268 / 433 | ![](https://geps.dev/progress/62) |
@@ -35,11 +35,11 @@
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
 | relationship | 37 / 75 | ![](https://geps.dev/progress/49) |
 | season | 182 / 225 | ![](https://geps.dev/progress/81) |
-| social | 81 / 229 | ![](https://geps.dev/progress/35) |
+| social | 82 / 229 | ![](https://geps.dev/progress/36) |
 | spirit | 280 / 297 | ![](https://geps.dev/progress/94) |
 | storm | 4 / 21 | ![](https://geps.dev/progress/19) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
-| system | 69 / 217 | ![](https://geps.dev/progress/32) |
+| system | 75 / 217 | ![](https://geps.dev/progress/35) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
 | tutorial | 15 / 230 | ![](https://geps.dev/progress/7) |
 | ui | 28 / 31 | ![](https://geps.dev/progress/90) |
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 29%`
-2039db szöveg lefordítva 7117db szövegből.
+2049db szöveg lefordítva 7116db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -57,7 +57,7 @@
 
 ## Fordításra váró elemek
 
-5078db szöveg
+5067db szöveg
 
 - "accept_duetbow"
 - "accept_link"
@@ -1639,13 +1639,11 @@
 - "consumable_description_teleport_nature_turtle"
 - "consumable_description_teleport_prairie_elder"
 - "consumable_description_teleport_prairie_peaks"
-- "consumable_description_teleport_prophecy_cave"
 - "consumable_description_teleport_sanctuary_island"
 - "consumable_description_teleport_starlight_desert"
 - "consumable_description_teleport_valley_elder"
 - "consumable_description_teleport_vault_elder"
 - "consumable_description_teleport_wasteland_elder"
-- "consumable_description_teleport_wisteria_tree"
 - "consumable_description_teleport_you_and_i"
 - "consumable_description_timeline_aurora_concert"
 - "consumable_description_timeline_birthdaycrab"
@@ -2191,7 +2189,6 @@
 - "emote_groups_default_name"
 - "emote_groups_delete_emote_hint"
 - "emote_groups_delete_group_confirm"
-- "emote_groups_favorite_emote"
 - "emote_groups_full_hint"
 - "emote_groups_maximum_reached"
 - "emote_menu_section_dyes"
@@ -4262,7 +4259,6 @@
 - "skyfest_portal_art"
 - "skyfest_portal_cinema"
 - "skyfest_portal_history"
-- "skykea_rotating_shop_days_left"
 - "skykea_rotating_shop_hours_left"
 - "skykea_rotating_shop_minutes_left"
 - "skykea_rotating_shop_seconds_left"
@@ -4414,7 +4410,6 @@
 - "social_feed_prompt_surprise_party"
 - "social_feed_prompt_surprise_party_confirm"
 - "social_feed_prompt_survive_tip"
-- "social_feed_prompt_survive_tip_confirm"
 - "social_feed_prompt_team_spirit"
 - "social_feed_prompt_team_spirit_confirm"
 - "social_feed_prompt_teaming_up"
@@ -4597,14 +4592,10 @@
 - "system_broadcaster_grow_confirm"
 - "system_broadcaster_shrink"
 - "system_button_ask"
-- "system_button_bug_report"
 - "system_button_discord"
 - "system_button_facebook"
-- "system_button_friends"
-- "system_button_home"
 - "system_button_import"
 - "system_button_instagram"
-- "system_button_live_broadcast"
 - "system_button_merch"
 - "system_button_mirrativ"
 - "system_button_notnow"
@@ -4615,8 +4606,6 @@
 - "system_button_reset"
 - "system_button_settings"
 - "system_button_star"
-- "system_button_starboard"
-- "system_button_subtitles"
 - "system_button_tiktok"
 - "system_button_twitch"
 - "system_button_twitter"
