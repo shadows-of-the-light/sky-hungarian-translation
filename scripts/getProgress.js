@@ -97,7 +97,6 @@ ${count}db szöveg lefordítva ${requiredLines}db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
-- [[Magyar Sky stream-ek]](<https://www.twitch.tv/csakitheone>)
 \`\`\`
 
 ## Fordításra váró elemek

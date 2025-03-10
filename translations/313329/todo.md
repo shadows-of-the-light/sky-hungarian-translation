@@ -2338,6 +2338,7 @@ Ezek szövegek, amik bekerültek a játékba. Valószínű le kell fordítani ő
 - "vito_test_compound_arg1_arg2"
 - "vito_test_compound_arg2"
 - "vito_test_compound_arg_base"
+- 
 
 ## Módosított szövegek
 

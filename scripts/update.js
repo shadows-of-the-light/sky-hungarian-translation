@@ -56,6 +56,8 @@ for (let i = 0; i < targetOriginalLines.length; i++) {
         // Add to todo list
         newKeys.push(targetOriginalKey);
     }
+
+    console.log(`Processed ${i + 1}/${targetOriginalLines.length} keys`);
 }
 
 var deletedKeys = sourceOriginalLines.map(l => getKey(l)).filter(originalKey => 
