@@ -4,7 +4,7 @@
 
 - Játék verziója: `313329`
 - Nyelv fájl hossza: `8060`
-- Teljes haladás: `2054 / 7116`
+- Teljes haladás: `2068 / 7116`
 
 ## Kategóriák
 
@@ -12,7 +12,7 @@
 | - | - | - |
 | skipped | 944 / 944 | ![](https://geps.dev/progress/100) |
 | other | 786 / 3709 | ![](https://geps.dev/progress/21) |
-| account | 125 / 170 | ![](https://geps.dev/progress/74) |
+| account | 139 / 170 | ![](https://geps.dev/progress/82) |
 | buff | 2 / 53 | ![](https://geps.dev/progress/4) |
 | button | 11 / 53 | ![](https://geps.dev/progress/21) |
 | commerce | 39 / 397 | ![](https://geps.dev/progress/10) |
@@ -49,35 +49,22 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 29%`
-2054db szöveg lefordítva 7116db szövegből.
+2068db szöveg lefordítva 7116db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
+Ha bármi kérdésed van, írj nekem!
 ```
 
 ## Fordításra váró elemek
 
-5062db szöveg
+5048db szöveg
 
 - "accept_duetbow"
 - "accept_undelete"
 - "accept_undelete_nickname"
 - "account_infraction_how_to_appeal"
 - "account_infraction_info"
-- "account_infraction_reason_account_sharing"
-- "account_infraction_reason_chat_spam"
-- "account_infraction_reason_child_exploitation"
-- "account_infraction_reason_crisis_resources_notice"
-- "account_infraction_reason_exploits_cheats"
-- "account_infraction_reason_false_reporting"
-- "account_infraction_reason_hacks_cheats"
-- "account_infraction_reason_harassment_toxicity"
-- "account_infraction_reason_impersonation_fraud"
-- "account_infraction_reason_link_sharing"
-- "account_infraction_reason_privacy_doxing"
-- "account_infraction_reason_scam_financial_fraud"
-- "account_infraction_reason_sexual_conduct"
-- "account_infraction_reason_social_real_life_threat"
 - "account_infraction_reference_id"
 - "account_panel_apple_vn_not_available"
 - "account_panel_linked_apple_vn_unknown_state"
