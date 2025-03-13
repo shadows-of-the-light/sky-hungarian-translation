@@ -8,13 +8,13 @@ Magyar fordítás a Sky: Children of the Light játékhoz.
 
 > **Figyelem!** A fordítások csak a PC-s verzióhoz készültek. Technikailag más platformon is működnének, de a telepítés módja máshol sokkal bonyolultabb és kockázatosabb.
 
-1. Itt a repo-ban nyisd meg a `translations` majd azon belül a legfrissebb build mappáhát (legnagyobb szám). Nyisd meg majd a jobb felül található kis gombbal töltsd le a játékodhoz illő nyelv fájlt (`Localizable.strings`).
-1. Steam-en jobb klikkelj a Sky-ra és nyomj rá a "Helyi fájlok böngészése" gombra.
+1. Itt a repo-ban nyisd meg a `translations` majd azon belül a legfrissebb build mappáját (legnagyobb szám). Nyisd meg, majd a jobb felül található kis gombbal töltsd le a játékodhoz illő nyelv fájlt (`Localizable.strings`).
+1. Steam-en jobb klikkelj a Sky-ra és nyomj rá a *"Helyi fájlok böngészése"* gombra.
 1. A játék fájljai között nyisd meg a `data/Strings/Base.lproj` mappát.
 1. Másold be a letöltött nyelv fájlt a mappába és írd felül az eredetit. (Opcionálisan csinálhatsz biztonsági mentést az eredetiről.)
 1. Indítsd el / újra a játékot.
 
-Ha valami probléma van, esetleg nem indul a játék ezek után, akkor Steam-en nyomj a játék beállításain belül a "Helyi fájlok ellenőrzése" gombra.
+Ha valami probléma van, esetleg nem indul a játék ezek után, akkor Steam-en nyomj a játék beállításain belül a *"Helyi fájlok ellenőrzése"* gombra.
 
 ## Közreműködés
 

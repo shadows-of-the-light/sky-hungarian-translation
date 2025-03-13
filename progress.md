@@ -4,14 +4,14 @@
 
 - Játék verziója: `313329`
 - Nyelv fájl hossza: `8060`
-- Teljes haladás: `2051 / 7116`
+- Teljes haladás: `2054 / 7116`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 944 / 944 | ![](https://geps.dev/progress/100) |
-| other | 785 / 3709 | ![](https://geps.dev/progress/21) |
+| other | 786 / 3709 | ![](https://geps.dev/progress/21) |
 | account | 125 / 170 | ![](https://geps.dev/progress/74) |
 | buff | 2 / 53 | ![](https://geps.dev/progress/4) |
 | button | 11 / 53 | ![](https://geps.dev/progress/21) |
@@ -24,7 +24,7 @@
 | display | - / 4 | ![](https://geps.dev/progress/0) |
 | error | - / 58 | ![](https://geps.dev/progress/0) |
 | friend | - / 12 | ![](https://geps.dev/progress/0) |
-| game | 19 / 57 | ![](https://geps.dev/progress/33) |
+| game | 21 / 57 | ![](https://geps.dev/progress/37) |
 | howtoplay | 1 / 103 | ![](https://geps.dev/progress/1) |
 | intro | 23 / 23 | ![](https://geps.dev/progress/100) |
 | invite | 9 / 70 | ![](https://geps.dev/progress/13) |
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 29%`
-2051db szöveg lefordítva 7116db szövegből.
+2054db szöveg lefordítva 7116db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -57,7 +57,7 @@
 
 ## Fordításra váró elemek
 
-5065db szöveg
+5062db szöveg
 
 - "accept_duetbow"
 - "accept_undelete"
@@ -2512,7 +2512,6 @@
 - "friend_shared_quests"
 - "game_button_backwards"
 - "game_button_clear_placeables"
-- "game_button_currency"
 - "game_button_emote_favorites"
 - "game_button_emote_menu"
 - "game_button_favorite_00"
@@ -2546,7 +2545,6 @@
 - "game_button_record_toggle"
 - "game_button_right"
 - "game_button_rotate"
-- "game_button_shout"
 - "game_button_step"
 - "gen_shop_hint_confirm_count_lootbox"
 - "gen_shop_hint_confirm_count_lootbox_generic"
@@ -2576,7 +2574,6 @@
 - "gen_shop_purchase_status_missing_unlocks"
 - "gen_shop_purchase_status_purchased_max_count"
 - "gen_shop_purchase_status_shop_not_idle"
-- "gen_shop_purchase_status_unknown_error"
 - "generic_shop_section_cycling_days"
 - "generic_shop_section_cycling_hours"
 - "generic_shop_section_cycling_minutes"
