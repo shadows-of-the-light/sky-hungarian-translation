@@ -28,11 +28,11 @@ Nem kell mindent lefordítani! Amiket kihagyunk:
 | Kategória          | Kulcs                             | Jegyzet                                                                     |
 | ------------------ | --------------------------------- | --------------------------------------------------------------------------- |
 | Aurora dalszövegek | `aurora_[zene]_[3-4 jegyű szám]`  | Talán később csinálhatunk olyat, hogy angol felirat alatt ott a magyar is   |
-| Teljesítmények     | `achievement_[teljesítmény neve]` | Ezeket a Steam fogja kezelni valószínűleg                                   |
+| Teljesítmények     | `achievement_[teljesítmény neve]` | Ezeket a Steam kezeli                                                       |
 | Tulajdonnevek      | `name_[valami]`                   | Pl. helyek, lelkek, stb. Így könnyebben találnak segítséget az új játékosok |
 | Resource csomagok  | `assetpack_name_[csomag]`         | Ez elronthatja a játék betöltését ha nem vigyázunk                          |
 
-A Home-ot lefordíthatjuk Otthon-ra, az elég egyéttelmű. Talán később minden tulajdonnév is mehet, mert minden fordításban megvannak. De majd ezt átgondoljuk még.
+A Home-ot lefordíthatjuk Otthon-ra, az elég egyéttelmű. Talán később minden tulajdonnév is mehet, mert minden fordításban megvannak.
 
 #### Credits
 
@@ -41,7 +41,6 @@ A credits részben főleg nevek vannak, kihagyjuk azokat, viszont van pár kulcs
 - "credit_realstart"
 - "credit_thankbeta"
 - "credit_thankyou"
-- Játék nevét viccből fordítsuk? 😂 "credit_title"
 - "credit_tgc" kulcs helyén a fordítók nevei lesznek
 
 ### Bizonytalan szövegek
@@ -68,16 +67,16 @@ A [kihagyott szövegekhez](#kihagyott-szövegek) hasonlóan vannak kisebb egysé
 
 Vannak szavak és kifejezések, amiket többféleképp is lehet fordítani, de annyira fontosak a játékban, hogy érdemes lenne figyelni, hogy ezek mindig ugyanúgy legyenek lefordítva.
 
-| Angol         | Magyar                 |
-| ------------- | ---------------------- |
-| Call          | Kiáltás (ez változhat) |
-| Elder         | Ős                     |
-| Quest         | Küldetés               |
-| Season        | Szezon                 |
-| Shared Memory | Megosztott Emlék       |
-| Shared Space  | Megosztott Tér         |
-| Spirit        | Lélek                  |
-| Temple        | Templom                |
+| Angol         | Magyar                            |
+| ------------- | --------------------------------- |
+| Call          | Kiáltás / Hívás (ez változhat)    |
+| Elder         | Ős                                |
+| Quest         | Küldetés                          |
+| Season        | Szezon                            |
+| Shared Memory | Megosztott Emlék                  |
+| Shared Space  | Megosztott Tér                    |
+| Spirit        | Lélek (szellem talán jobb lenne?) |
+| Temple        | Templom                           |
 
 ### Hangnem
 
