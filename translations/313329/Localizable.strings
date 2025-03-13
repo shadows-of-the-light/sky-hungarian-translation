@@ -15,7 +15,7 @@
 "accept_highfive" = "Feloldod a <2>pacsit</2>?";
 "accept_hug" = "Feloldod az <2>ölelést</2>?";
 "accept_iap" = "{{1}} adni szeretne egy <2>ajándékot</2>.\nElfogadod?";
-"accept_link" = "Link STAR Pin with this player?";
+"accept_link" = "Összekapcsolod a STAR Pin-t ezzel a játékossal?";
 "accept_playfight" = "Feloldod a <2>játékos verekedést</2>?";
 "accept_princesscarry" = "Feloldod a <2>hercegnős cipelést</2>?";
 "accept_sidehug" = "Feloldod az <2>átkarolást</2>?";
@@ -170,7 +170,7 @@
 "account_panel_type_nintendo_bold" = "<b>Nintendo fiók</b>";
 "account_panel_type_recovery_code" = "Helyreállítási kód";
 "account_panel_type_sony" = "PlayStation™Network";
-"account_panel_type_sony_bold" = "<b>Fiók a PlayStation™Network-hez</b>";
+"account_panel_type_sony_bold" = "<b>Fiók a PlayStation™Network-höz</b>";
 "account_panel_type_steam" = "Steam Fiók";
 "account_panel_type_steam_bold" = "<b>Steam fiók</b>";
 "account_panel_type_twitch" = "<b>Twitch Account</b>";
@@ -190,10 +190,10 @@
 "account_select_type_google" = "<b>Jelentkezz be Google-el</b>";
 "account_select_type_huawei" = "<b>Jelentkezz be HUAWEI ID-vel</b>";
 "account_select_type_local" = "<b>Bejelentkezés Helyi Fiókkal</b>";
-"account_select_type_nintendo" = "<b>Jelentkezz be Nintendo fiókkal</b>";
+"account_select_type_nintendo" = "<b>Jelentkezz be Nintendo Fiókkal</b>";
 "account_select_type_sony" = "<b>Jelentkezz be PlayStation™Network-kel</b>";
 "account_select_type_steam" = "<b>Bejelentkezés Steam Fiókkal</b>";
-"account_select_type_twitch" = "<b>Sign in with Twitch</b>";
+"account_select_type_twitch" = "<b>Bejelentkezés Twitch Fiókkal</b>";
 "achievement_a_new_dawn_desc" = "Be reborn.";
 "achievement_a_new_dawn_name" = "A New Dawn";
 "achievement_an_old_friend_desc" = "Become acquainted with an elder.";
@@ -276,7 +276,7 @@
 "ap11_fetch_01_meet_03" = "Valamit látnod kell.";
 "ap11_fetch_01_outro_01" = "Ilyen napokon,";
 "ap11_fetch_01_outro_02" = "Szeretettel gondolok vissza...";
-"ap11_fetch_01_outro_03" = "A barátom, aki az egekben kalandozik.";
+"ap11_fetch_01_outro_03" = "A barátomra, aki az egekben kalandozik.";
 "ap11_fetch_01_outro_04" = "Szelídsége kedves volt nekem. ";
 "ap11_fetch_01_outro_05" = "Szóval várom, hogy visszatérjen... ";
 "ap11_fetch_01_play_a_01" = "Csukd be a szemed!";
@@ -317,7 +317,7 @@
 "ap11_fetch_02_top_03" = "Soha nem volt szerelmes. ";
 "ap11_fetch_02_top_04" = "Semmit nem csinált az életében, csak számokat adott össze.";
 "ap11_fetch_02_top_05" = "És egész nap azt hajtogatja ";
-"ap11_fetch_02_top_06" = "\"Fontos ügyekkel vagyok elfoglalt!\"";
+"ap11_fetch_02_top_06" = "\"Fontos ügyekkel vagyok elfoglalva!\"";
 "ap11_fetch_02_top_07" = "És ettől nagyon büszke magára.";
 "ap11_fetch_02_top_08" = "De ő nem ember. ";
 "ap11_fetch_02_top_09" = "Ő egy gomba!";
@@ -1731,7 +1731,7 @@
 "button_badge" = "{{1}}";
 "button_gift" = "Gift";
 "button_level_badge" = "Lv{{1}}";
-"button_mapping_button" = "Billentyű Kiosztás";
+"button_mapping_button" = "Billentyűkiosztás Testreszabása";
 "button_mapping_category_camera" = "Camera";
 "button_mapping_category_favorites" = "Favorites";
 "button_mapping_category_gameplay" = "Játékmenet";
@@ -3175,7 +3175,7 @@
 "credit_stone" = "Stone Chang";
 "credit_sunni" = "Sunni Pavlovic";
 "credit_taylor" = "Taylor Kutt";
-"credit_tgc" = "Készítette";
+"credit_tgc" = "Magyarra fordította:\nDóri, Luca és Csáki\nMagyar nyelv mod-ot készítette:\nCsáki";
 "credit_thankbeta" = "Köszönjük béta játékosainknak <8><cape/></8>";
 "credit_thankyou" = "Köszönjük, hogy játszottál";
 "credit_theobald" = "John Theobald";
@@ -4213,7 +4213,7 @@
 "game_button_chat_log_toggle_bold" = "Csevegés Napló Mutatása";
 "game_button_clear_placeables" = "<b>Clear Space</b>";
 "game_button_controller_map" = "Billentyűkiosztás";
-"game_button_currency" = "Currency";
+"game_button_currency" = "Tárca";
 "game_button_edit" = "<b>Szerkesztés</b>";
 "game_button_emote_favorites" = "Favorite Expressions";
 "game_button_emote_menu" = "Express";
@@ -4254,7 +4254,7 @@
 "game_button_record_toggle" = "Record";
 "game_button_right" = "Right";
 "game_button_rotate" = "Rotate";
-"game_button_shout" = "Call";
+"game_button_shout" = "Hívás";
 "game_button_show_cursor" = "Egérmutató Mutatása";
 "game_button_show_quest_list" = "Küldetések Mutatása";
 "game_button_step" = "Step Mode";
@@ -4293,7 +4293,7 @@
 "gen_shop_purchase_status_missing_unlocks" = "missing requirements";
 "gen_shop_purchase_status_purchased_max_count" = "Reached the maximum amount of purchases";
 "gen_shop_purchase_status_shop_not_idle" = "The shop is busy, please wait";
-"gen_shop_purchase_status_unknown_error" = "unknown error";
+"gen_shop_purchase_status_unknown_error" = "ismeretlen hiba";
 "generic_shop_section_cycling_days" = "Weekly: {{1}} days remaining";
 "generic_shop_section_cycling_hours" = "Weekly: {{1}} hours remaining";
 "generic_shop_section_cycling_minutes" = "Weekly: {{1}} minutes remaining";

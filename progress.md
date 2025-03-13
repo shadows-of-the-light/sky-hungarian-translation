@@ -4,15 +4,15 @@
 
 - Játék verziója: `313329`
 - Nyelv fájl hossza: `8060`
-- Teljes haladás: `2049 / 7116`
+- Teljes haladás: `2051 / 7116`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
 | skipped | 944 / 944 | ![](https://geps.dev/progress/100) |
-| other | 784 / 3709 | ![](https://geps.dev/progress/21) |
-| account | 124 / 170 | ![](https://geps.dev/progress/73) |
+| other | 785 / 3709 | ![](https://geps.dev/progress/21) |
+| account | 125 / 170 | ![](https://geps.dev/progress/74) |
 | buff | 2 / 53 | ![](https://geps.dev/progress/4) |
 | button | 11 / 53 | ![](https://geps.dev/progress/21) |
 | commerce | 39 / 397 | ![](https://geps.dev/progress/10) |
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 29%`
-2049db szöveg lefordítva 7116db szövegből.
+2051db szöveg lefordítva 7116db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -57,10 +57,9 @@
 
 ## Fordításra váró elemek
 
-5067db szöveg
+5065db szöveg
 
 - "accept_duetbow"
-- "accept_link"
 - "accept_undelete"
 - "accept_undelete_nickname"
 - "account_infraction_how_to_appeal"
@@ -108,7 +107,6 @@
 - "account_panel_type_twitch_bold"
 - "account_select_type_apple_vn"
 - "account_select_type_gamecenter_vn"
-- "account_select_type_twitch"
 - "activity_birthday_2023_daily_quests"
 - "activity_birthday_2023_friend_interaction"
 - "activity_birthday_2023_wax_collection"

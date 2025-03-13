@@ -42,6 +42,7 @@ A credits részben főleg nevek vannak, kihagyjuk azokat, viszont van pár kulcs
 - "credit_thankbeta"
 - "credit_thankyou"
 - Játék nevét viccből fordítsuk? 😂 "credit_title"
+- "credit_tgc" kulcs helyén a fordítók nevei lesznek
 
 ### Bizonytalan szövegek
 
