@@ -2,25 +2,25 @@
 
 ![](https://geps.dev/progress/29)
 
-- Játék verziója: `313329`
-- Nyelv fájl hossza: `8060`
-- Teljes haladás: `2068 / 7116`
+- Játék verziója: `319554`
+- Nyelv fájl hossza: `8193`
+- Teljes haladás: `2081 / 7241`
 
 ## Kategóriák
 
 | Kategória | Haladás | % |
 | - | - | - |
-| skipped | 944 / 944 | ![](https://geps.dev/progress/100) |
-| other | 786 / 3709 | ![](https://geps.dev/progress/21) |
+| skipped | 952 / 952 | ![](https://geps.dev/progress/100) |
+| other | 793 / 3776 | ![](https://geps.dev/progress/21) |
 | account | 139 / 170 | ![](https://geps.dev/progress/82) |
-| buff | 2 / 53 | ![](https://geps.dev/progress/4) |
+| buff | 2 / 54 | ![](https://geps.dev/progress/4) |
 | button | 11 / 53 | ![](https://geps.dev/progress/21) |
-| commerce | 39 / 397 | ![](https://geps.dev/progress/10) |
+| commerce | 43 / 411 | ![](https://geps.dev/progress/10) |
 | constellation | 17 / 46 | ![](https://geps.dev/progress/37) |
-| consumable | 5 / 291 | ![](https://geps.dev/progress/2) |
+| consumable | 5 / 302 | ![](https://geps.dev/progress/2) |
 | control | 12 / 23 | ![](https://geps.dev/progress/52) |
 | currency | - / 23 | ![](https://geps.dev/progress/0) |
-| daily | 268 / 433 | ![](https://geps.dev/progress/62) |
+| daily | 268 / 447 | ![](https://geps.dev/progress/60) |
 | display | - / 4 | ![](https://geps.dev/progress/0) |
 | error | - / 58 | ![](https://geps.dev/progress/0) |
 | friend | - / 12 | ![](https://geps.dev/progress/0) |
@@ -29,19 +29,19 @@
 | intro | 23 / 23 | ![](https://geps.dev/progress/100) |
 | invite | 9 / 70 | ![](https://geps.dev/progress/13) |
 | mainstreet | 15 / 25 | ![](https://geps.dev/progress/60) |
-| meditation | - / 165 | ![](https://geps.dev/progress/0) |
+| meditation | 1 / 165 | ![](https://geps.dev/progress/1) |
 | menu | - / 23 | ![](https://geps.dev/progress/0) |
 | message | - / 9 | ![](https://geps.dev/progress/0) |
 | recorder | - / 19 | ![](https://geps.dev/progress/0) |
 | relationship | 37 / 75 | ![](https://geps.dev/progress/49) |
-| season | 182 / 225 | ![](https://geps.dev/progress/81) |
-| social | 82 / 229 | ![](https://geps.dev/progress/36) |
-| spirit | 280 / 297 | ![](https://geps.dev/progress/94) |
-| storm | 4 / 21 | ![](https://geps.dev/progress/19) |
+| season | 182 / 234 | ![](https://geps.dev/progress/78) |
+| social | 82 / 235 | ![](https://geps.dev/progress/35) |
+| spirit | 280 / 298 | ![](https://geps.dev/progress/94) |
+| storm | 5 / 21 | ![](https://geps.dev/progress/24) |
 | stormy | - / 8 | ![](https://geps.dev/progress/0) |
 | system | 75 / 217 | ![](https://geps.dev/progress/35) |
 | tos | 17 / 17 | ![](https://geps.dev/progress/100) |
-| tutorial | 15 / 230 | ![](https://geps.dev/progress/7) |
+| tutorial | 15 / 232 | ![](https://geps.dev/progress/6) |
 | ui | 28 / 31 | ![](https://geps.dev/progress/90) |
 
 ## Discord üzenet
@@ -49,7 +49,7 @@
 ```
 # Sky Magyar fordítás
 `[=======..................] 29%`
-2068db szöveg lefordítva 7116db szövegből.
+2081db szöveg lefordítva 7241db szövegből.
 - [[A projekt GitHub repo-ja]](<https://github.com/shadows-of-the-light/sky-hungarian-translation>)
 - [[A fordító csapat GitHub oldala]](<https://github.com/shadows-of-the-light>)
 - [[Részletek a haladásról]](<https://github.com/shadows-of-the-light/sky-hungarian-translation/blob/main/progress.md>)
@@ -58,7 +58,7 @@ Ha bármi kérdésed van, írj nekem!
 
 ## Fordításra váró elemek
 
-5048db szöveg
+5160db szöveg
 
 - "accept_duetbow"
 - "accept_undelete"
@@ -513,6 +513,44 @@ Ha bármi kérdésed van, írj nekem!
 - "ap25_fetch05_intro_00_b"
 - "ap25_found_dye"
 - "ap25_light_introduced"
+- "ap26_act00_title"
+- "ap26_act01_sub"
+- "ap26_act01_title"
+- "ap26_act02_sub"
+- "ap26_act02_title"
+- "ap26_act03_sub"
+- "ap26_act03_title"
+- "ap26_act04_sub"
+- "ap26_act04_title"
+- "ap26_act05_sub"
+- "ap26_act05_title"
+- "ap26_act06_sub"
+- "ap26_act06_title"
+- "ap26_chase_intro"
+- "ap26_feather_hint"
+- "ap26_fetch01_fragment_intro_00"
+- "ap26_fetch01_intro_00"
+- "ap26_fetch01_intro_01"
+- "ap26_fetch01_intro_02"
+- "ap26_fetch01_outro_01"
+- "ap26_fetch01_outro_02"
+- "ap26_fetch02_intro_00"
+- "ap26_fetch02_intro_01"
+- "ap26_fetch02_intro_02"
+- "ap26_fetch02_mem_01"
+- "ap26_fetch02_mem_02"
+- "ap26_fetch02_mem_03"
+- "ap26_fetch02_outro_02"
+- "ap26_fetch03_hint_01"
+- "ap26_fetch03_hint_02"
+- "ap26_fetch03_intro_00"
+- "ap26_fetch03_intro_01"
+- "ap26_fetch03_intro_02"
+- "ap26_fetch03_outro_02"
+- "ap26_fetchintro_hint_01"
+- "ap26_prologue_00"
+- "ap26_prologue_01"
+- "ap26_prologue_02"
 - "applemusic_menu_link"
 - "applemusic_menu_message"
 - "applemusic_menu_message2"
@@ -661,6 +699,7 @@ Ha bármi kérdésed van, írj nekem!
 - "buff_effect_glow_rainbow"
 - "buff_effect_goo_drain_mult"
 - "buff_effect_gravity_mult"
+- "buff_effect_ground_trail_rainbow"
 - "buff_effect_hairtint"
 - "buff_effect_hairtint_rainbow"
 - "buff_effect_height_mult"
@@ -1075,11 +1114,14 @@ Ha bármi kérdésed van, írj nekem!
 - "commerce_item_desc_aurora_runaway_hair"
 - "commerce_item_desc_aurora_runaway_pack"
 - "commerce_item_desc_aurora_sneakers"
+- "commerce_item_desc_beta_testap"
 - "commerce_item_desc_beta_testap25"
 - "commerce_item_desc_beta_testbloom"
+- "commerce_item_desc_beta_testcolor"
 - "commerce_item_desc_beta_testfeast"
 - "commerce_item_desc_beta_testlove"
 - "commerce_item_desc_beta_testmusic"
+- "commerce_item_desc_beta_testnature"
 - "commerce_item_desc_beta_testtreasure"
 - "commerce_item_desc_bloom_leafumbrella"
 - "commerce_item_desc_bloom_rosewing"
@@ -1156,22 +1198,22 @@ Ha bármi kérdésed van, írj nekem!
 - "commerce_item_desc_musicshop_harp"
 - "commerce_item_desc_musicshop_pianoupright"
 - "commerce_item_desc_musicshop_violin"
+- "commerce_item_desc_nature_maskwaves"
 - "commerce_item_desc_nature_oceancape"
 - "commerce_item_desc_nature_oceannecklace"
+- "commerce_item_desc_nature_seafoamset"
 - "commerce_item_desc_nature_turtlepack"
 - "commerce_item_desc_nature_turtlewing"
-- "commerce_item_desc_nature_waterhair"
-- "commerce_item_desc_nature_waterwavewing"
 - "commerce_item_desc_nintendo_pack"
 - "commerce_item_desc_oreoheadband"
 - "commerce_item_desc_rainbow_bubblebeanbag"
-- "commerce_item_desc_rainbow_bubblemachine"
-- "commerce_item_desc_rainbow_darkloafers"
 - "commerce_item_desc_rainbow_earring"
+- "commerce_item_desc_rainbow_facepaint"
 - "commerce_item_desc_rainbow_headphones"
 - "commerce_item_desc_rainbow_pack"
 - "commerce_item_desc_rainbow_pack2"
 - "commerce_item_desc_rainbow_rainbowhair"
+- "commerce_item_desc_rainbow_shawl"
 - "commerce_item_desc_rainbow_trousers"
 - "commerce_item_desc_season_candles"
 - "commerce_item_desc_season_pass"
@@ -1226,11 +1268,14 @@ Ha bármi kérdésed van, írj nekem!
 - "commerce_item_name_aurora_runaway_hair"
 - "commerce_item_name_aurora_runaway_pack"
 - "commerce_item_name_aurora_sneakers"
+- "commerce_item_name_beta_testap"
 - "commerce_item_name_beta_testap25"
 - "commerce_item_name_beta_testbloom"
+- "commerce_item_name_beta_testcolor"
 - "commerce_item_name_beta_testfeast"
 - "commerce_item_name_beta_testlove"
 - "commerce_item_name_beta_testmusic"
+- "commerce_item_name_beta_testnature"
 - "commerce_item_name_beta_testtreasure"
 - "commerce_item_name_birthday_oreo"
 - "commerce_item_name_bloom_gardenerbody"
@@ -1333,9 +1378,11 @@ Ha bármi kérdésed van, írj nekem!
 - "commerce_item_name_musicshop_pianoupright"
 - "commerce_item_name_musicshop_violin"
 - "commerce_item_name_nature_bluesunglasses"
+- "commerce_item_name_nature_maskwaves"
 - "commerce_item_name_nature_musicshell"
 - "commerce_item_name_nature_oceancape"
 - "commerce_item_name_nature_oceannecklace"
+- "commerce_item_name_nature_seafoamset"
 - "commerce_item_name_nature_turtlepack"
 - "commerce_item_name_nature_turtlewing"
 - "commerce_item_name_nature_waterhair"
@@ -1347,11 +1394,13 @@ Ha bármi kérdésed van, írj nekem!
 - "commerce_item_name_rainbow_darkloafers"
 - "commerce_item_name_rainbow_darktunic"
 - "commerce_item_name_rainbow_earring"
+- "commerce_item_name_rainbow_facepaint"
 - "commerce_item_name_rainbow_headphones"
 - "commerce_item_name_rainbow_pack"
 - "commerce_item_name_rainbow_pack2"
 - "commerce_item_name_rainbow_pack3"
 - "commerce_item_name_rainbow_rainbowhair"
+- "commerce_item_name_rainbow_shawl"
 - "commerce_item_name_rainbow_trousers"
 - "commerce_item_name_season_bundle"
 - "commerce_item_name_season_pass"
@@ -1504,6 +1553,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_description_birthdaycake_medium"
 - "consumable_description_birthdaycake_small"
 - "consumable_description_birthdayhat_krill"
+- "consumable_description_bloom_rose_trail"
 - "consumable_description_bloom_sakura"
 - "consumable_description_bonfire"
 - "consumable_description_candle_trick"
@@ -1513,6 +1563,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_description_crab_rock_trick"
 - "consumable_description_currency_trick"
 - "consumable_description_dark_dragon_firework"
+- "consumable_description_description_teleport_starlight_desert_beach"
 - "consumable_description_diving"
 - "consumable_description_dnd"
 - "consumable_description_dragon_dance"
@@ -1526,6 +1577,8 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_description_fireworks"
 - "consumable_description_glow_tgc"
 - "consumable_description_gravity"
+- "consumable_description_ground_trail_rainbow"
+- "consumable_description_ground_trail_rainbow_local"
 - "consumable_description_grow"
 - "consumable_description_hairtint"
 - "consumable_description_hairtint_local"
@@ -1605,6 +1658,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_description_shout_crab"
 - "consumable_description_shout_jelly"
 - "consumable_description_shout_kizunaaicn"
+- "consumable_description_shout_manatee_keychain"
 - "consumable_description_shout_manta"
 - "consumable_description_shrink"
 - "consumable_description_skyballgoals_casualwood"
@@ -1624,6 +1678,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_description_teleport_nature_turtle"
 - "consumable_description_teleport_prairie_elder"
 - "consumable_description_teleport_prairie_peaks"
+- "consumable_description_teleport_prairie_peaks_bloom"
 - "consumable_description_teleport_sanctuary_island"
 - "consumable_description_teleport_starlight_desert"
 - "consumable_description_teleport_valley_elder"
@@ -1660,6 +1715,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_name_birthdaycake_medium"
 - "consumable_name_birthdaycake_small"
 - "consumable_name_birthdayhat_krill"
+- "consumable_name_bloom_rose_trail"
 - "consumable_name_bloom_sakura"
 - "consumable_name_bonfire"
 - "consumable_name_candle_trick"
@@ -1683,6 +1739,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_name_glow_rainbow"
 - "consumable_name_glow_tgc"
 - "consumable_name_gravity"
+- "consumable_name_ground_trail_rainbow"
 - "consumable_name_grow"
 - "consumable_name_hairtint"
 - "consumable_name_hairtint_rainbow"
@@ -1732,6 +1789,7 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_name_shout_crab"
 - "consumable_name_shout_jelly"
 - "consumable_name_shout_kizunaaicn"
+- "consumable_name_shout_manatee_keychain"
 - "consumable_name_shout_manta"
 - "consumable_name_shrink"
 - "consumable_name_skyballgoals_casualwood"
@@ -1751,9 +1809,11 @@ Ha bármi kérdésed van, írj nekem!
 - "consumable_name_teleport_nature_turtle"
 - "consumable_name_teleport_prairie_elder"
 - "consumable_name_teleport_prairie_peaks"
+- "consumable_name_teleport_prairie_peaks_bloom"
 - "consumable_name_teleport_prophecy_cave"
 - "consumable_name_teleport_sanctuary_island"
 - "consumable_name_teleport_starlight_desert"
+- "consumable_name_teleport_startlight_desert_beach"
 - "consumable_name_teleport_valley_elder"
 - "consumable_name_teleport_vault_elder"
 - "consumable_name_teleport_wasteland_elder"
@@ -1833,6 +1893,14 @@ Ha bármi kérdésed van, írj nekem!
 - "currency_type_season_candle"
 - "currency_type_season_heart"
 - "currency_type_season_pass_token"
+- "daily_quest_bluebirdchase_1_desc"
+- "daily_quest_bluebirdchase_2_desc"
+- "daily_quest_bluebirdchase_3_desc"
+- "daily_quest_bluebirdchase_4_desc"
+- "daily_quest_bluebirdfeather_1_desc"
+- "daily_quest_bluebirdfeather_2_desc"
+- "daily_quest_bluebirdfeather_3_desc"
+- "daily_quest_bluebirdfeather_4_desc"
 - "daily_quest_change_feet_desc"
 - "daily_quest_change_hat_desc"
 - "daily_quest_change_horn_desc"
@@ -1918,6 +1986,9 @@ Ha bármi kérdésed van, írj nekem!
 - "daily_quest_spirit_catapult1_desc"
 - "daily_quest_spirit_catapult2_desc"
 - "daily_quest_spirit_catapult3_desc"
+- "daily_quest_spirit_chimesmithbuilder1_desc"
+- "daily_quest_spirit_chimesmithbuilder2_desc"
+- "daily_quest_spirit_chimesmithbuilder3_desc"
 - "daily_quest_spirit_confirm"
 - "daily_quest_spirit_discoverark1_desc"
 - "daily_quest_spirit_discoverark1_hint"
@@ -1947,6 +2018,9 @@ Ha bármi kérdésed van, írj nekem!
 - "daily_quest_spirit_musicianrace1_desc"
 - "daily_quest_spirit_musicianrace2_desc"
 - "daily_quest_spirit_musicianrace3_desc"
+- "daily_quest_spirit_navigator1_desc"
+- "daily_quest_spirit_navigator2_desc"
+- "daily_quest_spirit_navigator3_desc"
 - "daily_quest_spirit_newchoreo1_desc"
 - "daily_quest_spirit_newchoreo1_hint"
 - "daily_quest_spirit_newchoreo2_desc"
@@ -2007,6 +2081,18 @@ Ha bármi kérdésed van, írj nekem!
 - "daysofcolor_cape_mismatch_red"
 - "daysofcolor_cape_mismatch_teal"
 - "daysofcolor_cape_mismatch_yellow"
+- "daysofcolor_minigame_concentration_0"
+- "daysofcolor_minigame_concentration_1"
+- "daysofcolor_minigame_shell_0"
+- "daysofcolor_minigame_shell_1"
+- "daysofcolor_minigame_shell_fail"
+- "daysofcolor_minigame_toss_0"
+- "daysofcolor_minigame_toss_1"
+- "daysofcolor_minigame_toss_fail"
+- "daysofcolor_minigame_toss_hint_2"
+- "daysofcolor_play_game"
+- "daysofcolor_tutorial_1"
+- "daysofcolor_tutorial_2"
 - "daysoffashion_currency_hint"
 - "daysoffashion_fail_hint"
 - "daysoffashion_intro_desc_01"
@@ -2077,12 +2163,12 @@ Ha bármi kérdésed van, írj nekem!
 - "dolove_prairie_hint1"
 - "dolove_rain_hint1"
 - "dolove_sunset_hint1"
+- "donature_microdarkness"
 - "dotreasure_daily_time_remaining_hour"
 - "dotreasure_daily_time_remaining_hours"
 - "dotreasure_daily_time_remaining_minute"
 - "dotreasure_daily_time_remaining_minutes"
 - "dotreasure_digsite_action"
-- "dotreasure_found_treasure"
 - "dotreasure_intro"
 - "dotreasure_intro_2"
 - "dotreasure_intro_3"
@@ -2154,7 +2240,6 @@ Ha bármi kérdésed van, írj nekem!
 - "dye_purchase_confirm_currencies_4"
 - "dye_purchase_confirm_title"
 - "dye_tint_color_title"
-- "dye_title_no_dyeable_outfits"
 - "dylan_ann_text1"
 - "dylan_ann_text2"
 - "dylan_ann_text3"
@@ -2246,9 +2331,11 @@ Ha bármi kérdésed van, írj nekem!
 - "eventboard_hours"
 - "eventboard_minutes"
 - "eventboard_name_bloom"
+- "eventboard_name_color"
 - "eventboard_name_fortune"
 - "eventboard_name_generic"
 - "eventboard_name_love"
+- "eventboard_name_nature"
 - "eventboard_name_treasure"
 - "eventboard_nextevent"
 - "exit_point_00"
@@ -2751,7 +2838,6 @@ Ha bármi kérdésed van, írj nekem!
 - "instrument_play_sheet"
 - "instrument_setting_freeplay"
 - "instrument_setting_sheet"
-- "instrument_sheetmusic"
 - "instrument_sheetmusic_toggle"
 - "instrument_tempo"
 - "instrument_tempo_down"
@@ -2880,11 +2966,12 @@ Ha bármi kérdésed van, írj nekem!
 - "mainstreet_exposition_candle_00"
 - "mainstreet_exposition_candle_01"
 - "mainstreet_spell_shop_01"
+- "manateetoy_setup_not_found_1"
+- "manateetoy_setup_not_found_2"
 - "mannequin_outfit_missing"
 - "meditation_hint_enter_trial"
 - "meditation_hint_exit_trial"
 - "meditation_hint_friendly_compete"
-- "meditation_hint_learn_more_url_confirm"
 - "meditation_hint_need_multiple_players"
 - "meditation_hint_start_activity"
 - "meditation_hint_trial_give_up"
@@ -3366,6 +3453,12 @@ Ha bármi kérdésed van, írj nekem!
 - "musicshop_search_instruments_piano"
 - "musicshop_solo_1"
 - "musicshop_solo_2"
+- "nature25_microdarkness_01"
+- "nature25_microdarkness_burden"
+- "nature25_microdarkness_defend"
+- "nature25_microdarkness_eldermanta"
+- "nature25_microdarkness_intro"
+- "nature25_microdarkness_rescue"
 - "nature_islandvortex_timeline_hint_01"
 - "nature_islandvortex_timeline_hint_02"
 - "nature_turtle_timeline_hint_01"
@@ -3373,6 +3466,7 @@ Ha bármi kérdésed van, írj nekem!
 - "nature_vortex_hint_1"
 - "nature_wildlife_confirmation_text1"
 - "new_seasonal_quest_available_ap25"
+- "new_seasonal_quest_available_ap26"
 - "nicolas_ann_text1"
 - "nicolas_ann_text2"
 - "nicolas_ann_text3"
@@ -3429,6 +3523,7 @@ Ha bármi kérdésed van, írj nekem!
 - "notification_moonlight_start_message"
 - "notification_moonlight_start_title"
 - "notification_music_title"
+- "notification_nature_title"
 - "notification_prince_end_message"
 - "notification_prince_end_title"
 - "notification_prince_message"
@@ -3483,9 +3578,6 @@ Ha bármi kérdésed van, írj nekem!
 - "notification_skyshop_bloom23_end_message"
 - "notification_skyshop_bloom23_start_message"
 - "notification_skyshop_bloom23_start_title"
-- "notification_skyshop_common_end_message"
-- "notification_skyshop_common_message"
-- "notification_skyshop_common_start_message"
 - "notification_skyshop_common_start_title"
 - "notification_skyshop_end_message"
 - "notification_skyshop_end_title"
@@ -3493,10 +3585,11 @@ Ha bármi kérdésed van, írj nekem!
 - "notification_skyshop_event3_end_title"
 - "notification_skyshop_event3_mid_message"
 - "notification_skyshop_event3_mid_title"
+- "notification_skyshop_event5_start_message"
+- "notification_skyshop_event5_start_title"
 - "notification_skyshop_message"
 - "notification_skyshop_start_message"
 - "notification_skyshop_start_title"
-- "notification_skyshop_title"
 - "notification_skyshop_w10_end_message"
 - "notification_skyshop_w10_end_title"
 - "notification_skyshop_w10_message"
@@ -3578,6 +3671,7 @@ Ha bármi kérdésed van, írj nekem!
 - "notification_traveling_passage_message"
 - "notification_traveling_performance_message"
 - "notification_traveling_prophecy_message"
+- "notification_traveling_radiance_message"
 - "notification_traveling_remembrance_message"
 - "notification_traveling_revival_message"
 - "notification_traveling_rhythm_message"
@@ -3892,27 +3986,35 @@ Ha bármi kérdésed van, írj nekem!
 - "season_intro_1_23"
 - "season_intro_1_24"
 - "season_intro_1_25"
+- "season_intro_1_26"
 - "season_intro_2_22"
 - "season_intro_2_23"
 - "season_intro_2_24"
 - "season_intro_2_25"
+- "season_intro_2_26"
 - "season_intro_3_22"
 - "season_intro_3_23"
 - "season_intro_3_24"
+- "season_intro_3_26"
 - "season_intro_4_21"
 - "season_intro_4_22"
 - "season_intro_4_23"
 - "season_intro_4_24"
 - "season_intro_4_25"
+- "season_intro_4_26"
+- "season_intro_4_26_pt2"
 - "season_intro_5_21"
 - "season_intro_5_22"
 - "season_intro_5_23"
 - "season_intro_5_24"
 - "season_intro_5_25"
+- "season_intro_5_26"
 - "season_intro_6_22"
 - "season_intro_6_23"
+- "season_intro_6_26"
 - "season_intro_7_22"
 - "season_intro_7_23"
+- "season_intro_7_26"
 - "season_intro_8_22"
 - "season_intro_8_23"
 - "season_meditation_note_heart"
@@ -3926,6 +4028,7 @@ Ha bármi kérdésed van, írj nekem!
 - "season_pass_info_item_pendant_23"
 - "season_pass_info_item_pendant_24"
 - "season_pass_info_item_pendant_25"
+- "season_pass_info_item_pendant_26"
 - "season_preview_21"
 - "season_preview_22"
 - "season_preview_23"
@@ -4136,6 +4239,7 @@ Ha bármi kérdésed van, írj nekem!
 - "sheet_44"
 - "sheet_45"
 - "sheet_46"
+- "sheet_47"
 - "sheet_happy_birthday"
 - "sheet_minik0"
 - "sheet_minik1"
@@ -4300,6 +4404,8 @@ Ha bármi kérdésed van, írj nekem!
 - "social_feed_prompt_cozy_cafe_confirm"
 - "social_feed_prompt_cozy_corner"
 - "social_feed_prompt_cozy_corner_confirm"
+- "social_feed_prompt_creature_calls"
+- "social_feed_prompt_creature_calls_confirm"
 - "social_feed_prompt_daysofspring"
 - "social_feed_prompt_daysofspring_confirm"
 - "social_feed_prompt_daysofspring_long"
@@ -4307,6 +4413,8 @@ Ha bármi kérdésed van, írj nekem!
 - "social_feed_prompt_dazzle_light_confirm"
 - "social_feed_prompt_dear_friends"
 - "social_feed_prompt_dear_friends_confirm"
+- "social_feed_prompt_deep_dive"
+- "social_feed_prompt_deep_dive_confirm"
 - "social_feed_prompt_dobloom"
 - "social_feed_prompt_dobloom_confirm"
 - "social_feed_prompt_favorite_games"
@@ -4355,6 +4463,8 @@ Ha bármi kérdésed van, írj nekem!
 - "social_feed_prompt_mysterious_puzzles_confirm"
 - "social_feed_prompt_new_perspectives"
 - "social_feed_prompt_new_perspectives_confirm"
+- "social_feed_prompt_nooks_crannies"
+- "social_feed_prompt_nooks_crannies_confirm"
 - "social_feed_prompt_obstacle_course"
 - "social_feed_prompt_obstacle_course_confirm"
 - "social_feed_prompt_overcoming_obstacles"
@@ -4428,6 +4538,7 @@ Ha bármi kérdésed van, írj nekem!
 - "spirit_shop_ap06_cant_start_at_home_questap22"
 - "spirit_shop_ap06_cant_start_at_home_questap23"
 - "spirit_shop_ap06_cant_start_at_home_questap25"
+- "spirit_shop_ap06_cant_start_at_home_questap26"
 - "spirit_shop_ap06unlock_ap23_fetch_01_task_desc"
 - "spirit_shop_ap06unlock_ap23_fetch_01_task_done"
 - "spirit_shop_ap06unlock_ap23_fetch_02_task_desc"
@@ -4543,7 +4654,6 @@ Ha bármi kérdésed van, írj nekem!
 - "storm_emote_gate_04"
 - "storm_emote_gate_05"
 - "storm_emote_gate_06"
-- "storm_endtitle_01"
 - "storm_levellocked"
 - "stormy_hint_dawn_01"
 - "stormy_hint_day_01"
@@ -4868,6 +4978,8 @@ Ha bármi kérdésed van, írj nekem!
 - "tutorial_crab_rock_trick_00"
 - "tutorial_crab_rock_trick_01"
 - "tutorial_darkstone_00"
+- "tutorial_daysofcolor_minigame_toss_hint"
+- "tutorial_daysofcolor_minigame_toss_hint_ps"
 - "tutorial_dive_00"
 - "tutorial_dive_00_ps"
 - "tutorial_dive_01"
