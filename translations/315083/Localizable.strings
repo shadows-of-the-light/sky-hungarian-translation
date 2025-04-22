@@ -4502,7 +4502,7 @@
 "instrument_setting_others_notes" = "Mikor látható más játékosok billentyűleütése:";
 "instrument_setting_sheet" = "Joined sheet music sessions";
 "instrument_setting_title" = "Hangszer Beállítások";
-"instrument_sheetmusic" = "Sheet Music";
+"instrument_sheetmusic" = "Kotta";
 "instrument_sheetmusic_toggle" = "Sheet music/Free play";
 "instrument_tempo" = "Tempo";
 "instrument_tempo_down" = "<b> - </b>";
@@ -7281,7 +7281,7 @@
 "storm_emote_gate_05" = "Will you risk every <b>Spirit</b> <8><cape/></8> you have to reach the Light?";
 "storm_emote_gate_06" = "Return to <8>Home</8> and get prepared for Eye of Eden?";
 "storm_end" = "Ugrás a következő szakaszra, a jutalomhoz";
-"storm_endtitle_01" = "Eye of Eden";
+"storm_endtitle_01" = "Eden szeme";
 "storm_endtitle_02" = "Add vissza az elesettek fényét";
 "storm_levellocked" = "A storm is growing, prepare for its opening by collecting more <2>winged light<wingbuff /></2>";
 "storm_start_warning" = "<hinticon/> A vihar tombol. Menjetek csoportban, hogy jobban tudjátok védeni a <b>fényeteket<wingbuff/></b>";
@@ -7505,7 +7505,7 @@
 "system_quality_presentation" = "Maximum Grafika";
 "system_quality_presentation_alt" = "";
 "system_quality_presentation_mobile" = "High Def Mode ({{1}}fps)";
-"system_quit_dialog_message" = "Are you sure you want to leave?";
+"system_quit_dialog_message" = "Biztosan ki szeretnél lépni?";
 "system_safearea" = "Látható Terület";
 "system_screenshot_permission_message_00" = "To be able to save screenshots, Sky needs permission to access your Photos.";
 "system_screenshot_permission_message_01" = "To be able to save screenshots, Sky needs permission to access your Photos. You have previously denied this and will need to enable it from the System Settings.";
@@ -8057,4 +8057,3 @@
 "yoshi_ann_text4" = "Viszlát újra a Mischief Barlangnál!";
 "yoshi_ann_text5" = "Egészségünkre!";
 "zoom_level" = "+/-";
-
