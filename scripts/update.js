@@ -7,8 +7,8 @@
 
 //#region Paraméterek
 
-const sourceVersion = '319554';
-const targetVersion = '363499';
+const sourceVersion = '363499';
+const targetVersion = '365186';
 
 //#endregion
 
@@ -57,7 +57,7 @@ for (let i = 0; i < targetOriginalLines.length; i++) {
         newKeys.push(targetOriginalKey);
     }
 
-    console.log(`Processed ${i + 1}/${targetOriginalLines.length} keys`);
+    console.log(`Processed ${i + 1}/${targetOriginalLines.length} keys (${Math.round(((i + 1) / targetOriginalLines.length) * 100)}%)`);
 }
 
 var deletedKeys = sourceOriginalLines.map(l => getKey(l)).filter(originalKey => 
